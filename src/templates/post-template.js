@@ -45,7 +45,11 @@ export default PostTemplate;
 export const pageQuery = graphql`
   query PostBySlug($slug: String!) {
     site {
-      ...siteMetadataFragment
+      siteMetadata {
+        title
+        subtitle
+      }
+      ...postTemplateDetailsFragment
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id

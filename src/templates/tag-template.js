@@ -40,8 +40,11 @@ export default TagTemplate;
 export const pageQuery = graphql`
   query TagPage($tag: String) {
     site {
-      ...siteMetadataFragment
-      ...siteMetadataMenuFragment
+      siteMetadata {
+        title
+      }
+      ...navigationFragment
+      ...sidebarFragment
     }
     allMarkdownRemark(
         limit: 1000,

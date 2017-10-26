@@ -59,8 +59,11 @@ export default TagsRoute;
 export const pageQuery = graphql`
   query TagsQuery {
     site {
-      ...siteMetadataFragment
-      ...siteMetadataMenuFragment
+      siteMetadata {
+        title
+      }
+      ...navigationFragment
+      ...sidebarFragment
     }
     allMarkdownRemark(
       limit: 2000

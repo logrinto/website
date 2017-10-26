@@ -74,3 +74,16 @@ PostTemplateDetails.propTypes = {
 };
 
 export default PostTemplateDetails;
+
+
+export const postTemplateDetailsFragment = graphql`
+  fragment postTemplateDetailsFragment on Site {
+    siteMetadata {
+      subtitle
+      author {
+        name
+        twitter
+      }
+    }
+  }
+`;

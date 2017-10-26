@@ -58,3 +58,14 @@ Navigation.propTypes = {
 };
 
 export default Navigation;
+
+export const navigationFragment = graphql`
+  fragment navigationFragment on Site {
+    siteMetadata {
+      menu {
+        label
+        path
+      }
+    }
+  }
+`;

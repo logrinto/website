@@ -59,8 +59,11 @@ export default CategoriesRoute;
 export const pageQuery = graphql`
   query CategoryesQuery {
     site {
-      ...siteMetadataFragment
-      ...siteMetadataMenuFragment
+      siteMetadata {
+        title
+      }
+      ...navigationFragment
+      ...sidebarFragment
     }
     allMarkdownRemark(
       limit: 2000

@@ -51,11 +51,16 @@ IndexRoute.propTypes = {
 
 export default IndexRoute;
 
+
 export const pageQuery = graphql`
   query IndexQuery {
     site {
-      ...siteMetadataFragment
-      ...siteMetadataMenuFragment
+      siteMetadata {
+        title
+        subtitle
+      }
+      ...navigationFragment
+      ...sidebarFragment
     }
     allMarkdownRemark(
         limit: 1000,

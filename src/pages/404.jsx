@@ -1,11 +1,12 @@
 import React from 'react';
+import Navigation from '../components/Navigation';
 import Sidebar from '../components/Sidebar';
 
 class NotFoundRoute extends React.Component {
   render() {
     return (
       <div className="layout">
-        <Sidebar {...this.props} />
+        <Navigation {...this.props} />
         <div className="content">
           <div className="content__inner">
             <div className="page">
@@ -16,6 +17,7 @@ class NotFoundRoute extends React.Component {
             </div>
           </div>
         </div>
+        <Sidebar {...this.props} />
       </div>
     );
   }
@@ -25,7 +27,8 @@ export default NotFoundRoute;
 export const pageQuery = graphql`
   query NotFoundQuery {
     site {
-      ...siteMetadataFragment
+      ...navigationFragment
+      ...sidebarFragment
     }
   }
 `;

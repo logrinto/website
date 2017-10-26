@@ -40,8 +40,11 @@ export default CategoryTemplate;
 export const pageQuery = graphql`
   query CategoryPage($category: String) {
     site {
-      ...siteMetadataFragment
-      ...siteMetadataMenuFragment
+      siteMetadata {
+        title
+      }
+      ...navigationFragment
+      ...sidebarFragment
     }
     allMarkdownRemark(
         limit: 1000,

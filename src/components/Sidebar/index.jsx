@@ -60,8 +60,7 @@ Sidebar.propTypes = {
       siteMetadata: PropTypes.shape({
         subtitle: PropTypes.string.isRequired,
         author: PropTypes.object.isRequired,
-        copyright: PropTypes.string.isRequired,
-        menu: PropTypes.array.isRequired
+        copyright: PropTypes.string.isRequired
       })
     })
   }),
@@ -69,3 +68,20 @@ Sidebar.propTypes = {
 };
 
 export default Sidebar;
+
+
+export const sidebarFragment = graphql`
+  fragment sidebarFragment on Site {
+    siteMetadata {
+      subtitle
+      copyright
+      author {
+        name
+        email
+        instagram
+        twitter
+        github
+      }
+    }
+  }
+`;

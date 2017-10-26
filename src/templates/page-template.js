@@ -49,8 +49,11 @@ export default PageTemplate;
 export const pageQuery = graphql`
   query PageBySlug($slug: String!) {
     site {
-      ...siteMetadataFragment
-      ...siteMetadataMenuFragment
+      siteMetadata {
+        title
+      }
+      ...navigationFragment
+      ...sidebarFragment
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id
