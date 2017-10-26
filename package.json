@@ -7,7 +7,7 @@
     "develop": "gatsby develop",
     "dev": "npm run develop",
     "start": "npm run develop",
-    "build": "gatsby build",
+    "build": "gatsby build --prefix-paths",
     "clean:public": "rm -rf public",
     "clean": "npm run clean:public",
     "lint": "./node_modules/.bin/eslint --cache --ext .js,.jsx --ignore-pattern public .",
