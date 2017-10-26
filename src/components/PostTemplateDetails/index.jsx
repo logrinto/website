@@ -39,9 +39,9 @@ class PostTemplateDetails extends React.Component {
         <div className="post-single">
           <div className="post-single__inner">
             <h1 className="post-single__title">{post.frontmatter.title}</h1>
-              <div className="post-single__date">
-                <small>Veröffentlichung: {moment(post.frontmatter.date).format('DD. MMMM YYYY')}</small>
-              </div>
+            <div className="post-single__date">
+              <small>Veröffentlichung: {moment(post.frontmatter.date).format('DD. MMMM YYYY')}</small>
+            </div>
             <div className="post-single__body" dangerouslySetInnerHTML={{ __html: post.html }} />
 
           </div>

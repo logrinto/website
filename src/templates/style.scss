@@ -48,7 +48,6 @@ $color-white: white;
   }
 }
 
-
 @include mediaQuery($min, $desktop) {
     .content {
         lost-column: 2/3;
