@@ -1,1 +1,6 @@
 travis/.ssh/id_rsa
+node_modules/
+.cache/
+public/
+npm-debug.log
+.eslintcache

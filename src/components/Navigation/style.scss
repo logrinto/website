@@ -1,0 +1,153 @@
+@import "../../assets/styles/base/typography";
+
+
+$navigation-height: 3.5rem;
+// https://github.com/jonsuh/hamburgers/blob/master/_sass/hamburgers/_base.scss
+$hamburger-layer-height: 3px;
+$hamburger-layer-width: 2rem;
+$hamburger-layer-color: rgba(148,148,148,.8);
+$hamburger-layer-spacing: 7px;
+
+
+.navigation {
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: $navigation-height;
+  width: 100%;
+  z-index: 10;
+  color: white;
+  background-color: white;
+  border-bottom-color: #ddd;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+
+  a {
+    color: inherit;
+  }
+
+
+  .navigation__hamburger {
+    position: absolute;
+    transition-property: transform;
+    transition-timing-function: cubic-bezier(.55,.055,.675,.19);
+    transition-duration: 0.22s;
+
+    top: 50%;
+    margin-top: $hamburger-layer-height / -2;
+
+    left: 50%;
+    margin-left: $hamburger-layer-width / -2;
+
+    display: block;
+
+    &,
+    &::after,
+    &::before {
+      width: $hamburger-layer-width;
+      height: $hamburger-layer-height;
+      background-color: $hamburger-layer-color;
+    }
+
+    &::after,
+    &::before {
+      content: "";
+      display: block;
+      position: absolute;
+      transition-property: transform;
+      transition-duration: 0.15s;
+      transition-timing-function: ease;
+    }
+
+    &::before {
+      top: ($hamburger-layer-spacing + $hamburger-layer-height) * -1;
+    }
+
+    &::after {
+      bottom: ($hamburger-layer-spacing + $hamburger-layer-height) * -1;
+    }
+
+    &::before {
+      transition: top 0.1s 0.25s ease-in;
+    }
+
+    &::after {
+      transition: bottom 0.1s 0.25s ease-in, transform 0.22s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+    }
+
+    &.open {
+      transform: rotate(225deg);
+      transition-delay: 0.12s;
+      transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+
+      &::before {
+        top: 0;
+        opacity: 0;
+        transition: top 0.1s ease-out, opacity 0.1s 0.12s ease-out;
+      }
+
+      &::after {
+        bottom: 0;
+        transform: rotate(-90deg);
+        transition: bottom 0.1s ease-out, transform 0.22s 0.12s cubic-bezier(0.215, 0.61, 0.355, 1);
+      }
+    }
+  }
+
+  &__toggle {
+    position: relative;
+    border: none;
+    background-color: transparent;
+    // width: $hamburger-layer-width;
+    // height: $hamburger-layer-height * 3 + $hamburger-layer-spacing * 2;
+
+    width: $navigation-height + ($navigation-height - $hamburger-layer-width);
+    height: $navigation-height;
+
+    z-index: 3;
+
+    // margin: calc(#{$navigation-height / 2} - #{($hamburger-layer-height * 3 + $hamburger-layer-spacing * 2) / 2});
+    // position: absolute;
+    // background-color: transparent;
+    // border: none;
+    // vertical-align: top;
+    // left: 15px;
+    // top: 50%;
+    // transform: translateY(-50%);
+    // z-index: 3;
+    // padding: 10px 10px 10px 0;
+    // transition: color .3s ease;
+  }
+  // screen-reader-text
+  // https://snook.ca/archives/html_and_css/hiding-content-for-accessibility
+  &__label {
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    // hide the text
+    clip: rect(1px 1px 1px 1px);
+    /* IE6, IE7 */
+    clip: rect(1px, 1px, 1px, 1px);
+    clip-path: polygon(0px 0px, 0px 0px,0px 0px, 0px 0px);
+  }
+
+  &__menu {
+    z-index: 1;
+    padding-top: 111px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    width: 337px;
+    max-width: 100%;
+    background-color: #2d3031;
+    transform: translateX(-100%);
+    z-index: 1;
+    transition: all 0.2s cubic-bezier(0.76, 0.17, 0.33, 0.95);
+
+    &.open {
+      transform: translateX(0);
+    }
+  }
+}

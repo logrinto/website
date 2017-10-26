@@ -1,0 +1,4 @@
+b, strong {
+    @include font-bold(monospace);
+    color: #444;
+}

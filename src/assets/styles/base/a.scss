@@ -1,0 +1,9 @@
+a {
+    text-decoration: none;
+}
+
+@media print {
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+}

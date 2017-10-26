@@ -1,0 +1,126 @@
+$font-name: (
+  sans: 'Open Sans',
+  monospace: 'Source Code Pro'
+);
+
+$font-family: (
+  sans: #{map-get($font-name, sans), sans-serif},
+  monospace: #{map-get($font-name, monospace), monospace}
+);
+
+$font-weight-normal: (
+  sans: 400,
+  monospace: 400
+);
+
+$font-weight-bold: (
+  sans: 700,
+  monospace: 900
+);
+
+$fontFactors: (
+  base: 18px,
+  code: 0.9rem,
+  small: 0.8rem,
+	p: 1rem,
+	h1: 2.4rem,
+	h2: 1.85rem,
+  h3: 1.15rem,
+  h4: 1rem,
+	h5: 0.9rem,
+);
+
+@mixin font-normal($font:sans) {
+  font-family: map-get($font-family, $font);
+  font-weight: map-get($font-weight-normal, $font);
+  font-style: normal;
+}
+
+@mixin font-bold($font:sans) {
+  font-family: map-get($font-family, $font);
+  font-weight: map-get($font-weight-bold, $font);
+  font-style: normal;
+}
+
+@mixin typography() {
+
+  html {
+    // font-family: 'OpenSansSignalwerk', sans-serif;
+    font-size: map-get($fontFactors, base);
+    font-family: map-get($font-family, sans);
+    line-height: 1.7;
+  }
+
+  p,
+  ol,
+  ul {
+      font-size: map-get($fontFactors, p);
+      margin-top: 0;
+      margin-bottom: 0.6em;
+  }
+
+  ol,
+  ul {
+      padding-left: 1rem;
+  }
+
+  p.small,
+  small {
+      font-size: map-get($fontFactors, small);
+  }
+
+
+  hr {
+      display: block;
+      height: 0;
+      border: 0;
+      border-top: 0.1rem solid #ccc;
+      margin: 1rem 0;
+      padding: 0;
+  }
+
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+      margin-top: 1.2em;
+      margin-bottom: 0.6em;
+  }
+
+  h1,
+  h2 {
+      @include font-bold(monospace);
+      // letter-spacing: .01em;
+      color: #444;
+      line-height: 1.1;
+  }
+
+  h3,
+  h4,
+  h5 {
+      @include font-bold(sans);
+  }
+
+  h1 {
+    font-size: map-get($fontFactors, h1);
+    margin-bottom: 2.1em;
+  }
+
+  h2 {
+      font-size: map-get($fontFactors, h2);
+  }
+
+  h3 {
+      font-size: map-get($fontFactors, h3);
+  }
+
+  h4 {
+      font-size: map-get($fontFactors, h4);
+  }
+
+  h5 {
+      font-size: map-get($fontFactors, h5);
+  }
+}
