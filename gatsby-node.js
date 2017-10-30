@@ -144,7 +144,6 @@ exports.modifyWebpackConfig = ({ config }) => {
         unitPrecision: 5,
         propList: [
           'font',
-          'font-size',
           'line-height',
           'letter-spacing',
           'margin',
