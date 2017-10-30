@@ -1,7 +1,6 @@
 const _ = require('lodash');
 const Promise = require('bluebird');
 const path = require('path');
-const lost = require('lost');
 const pxtorem = require('postcss-pxtorem');
 const slash = require('slash');
 
@@ -140,7 +139,6 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
 exports.modifyWebpackConfig = ({ config }) => {
   config.merge({
     postcss: [
-      lost(),
       pxtorem({
         rootValue: 16,
         unitPrecision: 5,
