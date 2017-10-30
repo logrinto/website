@@ -47,8 +47,9 @@ class PostTemplateDetails extends React.Component {
           </div>
           <div className="post-single__body" dangerouslySetInnerHTML={{ __html: post.html }} />
           <div className="post-single__footer">
-            <div className="post-single__tags">{tagsBlock}</div>
             <hr />
+            <p>Tags</p>
+            <div className="post-single__tags">{tagsBlock}</div>
             <p className="post-single__footer-text">
               {subtitle}
               <a href={author.twitter} target="_blank" rel="noopener noreferrer">

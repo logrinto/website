@@ -78,6 +78,11 @@ $layout-post-single-width: $layout-post-single-max-width - 305px;
         }
     }
 
+
+    &__footer, &__footer p {
+      font-size: map-get($fontFactors, small);
+    }
+
     &__tags {
         &-list {
             list-style: none;
@@ -147,6 +152,7 @@ $layout-post-single-width: $layout-post-single-max-width - 305px;
               figure.float-left,
               figure.float-right {
                   max-width: span(4 of 12);
+                  padding-top: 0.6rem;
               }
               .float-right {
                   float: right;
