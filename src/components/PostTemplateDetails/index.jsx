@@ -20,33 +20,34 @@ class PostTemplateDetails extends React.Component {
     );
 
     const tagsBlock = (
-      <div className="post-single__tags">
-        <ul className="post-single__tags-list">
-          {tags.map((tag, i) =>
-            <li className="post-single__tags-list-item" key={tag}>
-              <Link to={tag} className="post-single__tags-list-item-link">
-                {post.frontmatter.tags[i]}
-              </Link>
-            </li>
-          )}
-        </ul>
-      </div>
+      <ul className="post-single__tags-list">
+        {tags.map((tag, i) =>
+          <li className="post-single__tags-list-item" key={tag}>
+            <Link to={tag} className="post-single__tags-list-item-link">
+              {post.frontmatter.tags[i]}
+            </Link>
+          </li>
+        )}
+      </ul>
     );
 
-    return (
-      <div>
-        {homeBlock}
-        <div className="post-single">
-          <div className="post-single__inner">
-            <h1 className="post-single__title">{post.frontmatter.title}</h1>
-            <div className="post-single__date">
-              <small>Veröffentlichung: {moment(post.frontmatter.date).format('DD. MMMM YYYY')}</small>
-            </div>
-            <div className="post-single__body" dangerouslySetInnerHTML={{ __html: post.html }} />
+    //
 
+    return (
+      <div className="post-single">
+
+        {homeBlock}
+
+        <div className="post-single__inner">
+          <h1 className="post-single__title">
+            {post.frontmatter.title}
+          </h1>
+          <div className="post-single__date">
+            <small>Veröffentlichung: {moment(post.frontmatter.date).format('DD. MMMM YYYY')}</small>
           </div>
+          <div className="post-single__body" dangerouslySetInnerHTML={{ __html: post.html }} />
           <div className="post-single__footer">
-            {tagsBlock}
+            <div className="post-single__tags">{tagsBlock}</div>
             <hr />
             <p className="post-single__footer-text">
               {subtitle}

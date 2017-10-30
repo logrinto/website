@@ -6,34 +6,51 @@ $layout-post-single-max-width: 945px;
 $layout-post-single-width: $layout-post-single-max-width - 305px;
 
 
+
+
+
 .post-single {
+
+    @include container();
+    // @include container-background-grid();
+
+
+    max-width: 55rem;
+
+    margin-left: auto;
+    margin-right: auto;
+
+
     &__inner {
-        max-width: $layout-post-single-max-width;
-        padding: 0 15px;
-        margin: 0 auto;
     }
+
+
     &__title {
-        max-width: $layout-post-single-width;
-        margin-left: auto;
-        margin-right: auto;
+
     }
+
+    &__date {
+        padding-bottom: 3rem;
+        text-align: right;
+    }
+
     &__body {
 
 
 
-        @include mediaQuery($min, $desktop) {
-            figure.float-left,
-            figure.float-right {
-                max-width: 310px;
-                padding: 0 1rem 0 1rem;
-            }
-            .float-right {
-                float: right;
-            }
-            .float-left {
-                float: left;
-            }
-        }
+        // @include mediaQuery($min, $desktop) {
+        //     figure.float-left,
+        //     figure.float-right {
+        //         max-width: 310px;
+        //         padding: 0 1rem 0 1rem;
+        //     }
+        //     .float-right {
+        //         float: right;
+        //     }
+        //     .float-left {
+        //         float: left;
+        //     }
+        // }
 
 
         & a {
@@ -59,27 +76,8 @@ $layout-post-single-width: $layout-post-single-max-width - 305px;
               display: none;
             }
         }
-        & :not(div) {
-            max-width: $layout-post-single-width;
-            margin-left: auto;
-            margin-right: auto;
-        }
     }
-    &__footer {
-        max-width: $layout-post-single-width;
-        margin-left: 15px;
-        margin-right: 15px;
-        &-text {
 
-        }
-    }
-    &__date {
-        max-width: $layout-post-single-width;
-        margin-left: auto;
-        margin-right: auto;
-        padding-bottom: 3rem;
-        text-align: right;
-    }
     &__tags {
         &-list {
             list-style: none;
@@ -129,28 +127,47 @@ $layout-post-single-width: $layout-post-single-max-width - 305px;
 
 @include mediaQuery($min, $tablet) {
     .post-single {
-        &__footer {
-            margin-left: auto;
-            margin-right: auto;
-        }
-        &__body {
-            & .gatsby-highlight {
-                margin-left: auto;
-                margin-right: auto;
-            }
-        }
+//         &__footer {
+//         }
+//         &__body {
+//             & .gatsby-highlight {
+//                 margin-left: auto;
+//                 margin-right: auto;
+//             }
+//         }
+      &__inner {
+        width: span(12);
+      }
+
+
+      &__body {
+
+
+
+              figure.float-left,
+              figure.float-right {
+                  max-width: span(4 of 12);
+              }
+              .float-right {
+                  float: right;
+                  padding-left: gutter(1 of 12);
+              }
+              .float-left {
+                  float: left;
+                  padding-right: gutter(1 of 12);
+              }
+
+      }
     }
 }
 
 @include mediaQuery($min, $desktop) {
     .post-single {
         &__inner {
-            padding: 0;
+          width: span(10);
+          margin: 0 span(1 of 12) + gutter(1 of 12);
         }
-        &__title {
-        }
-        &__body {
-        }
+
         &__home-button {
             position: fixed;
             max-width: auto;
@@ -158,5 +175,28 @@ $layout-post-single-width: $layout-post-single-max-width - 305px;
             top: 30px;
             left: 30px;
         }
+
+
+
+        &__body {
+
+
+
+                figure.float-left,
+                figure.float-right {
+                    max-width: span(3 of 10);
+                }
+                .float-right {
+                    padding-left: gutter(1 of 10);
+                    margin-right: 0 - span(1 of 10) - gutter(1 of 10);
+                }
+                .float-left {
+                    padding-right: gutter(1 of 10);
+                    margin-left: 0 - span(1 of 10) - gutter(1 of 10);
+                }
+
+        }
+
+
     }
 }
