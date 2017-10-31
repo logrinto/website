@@ -41,7 +41,6 @@ $fontFactors: (
   font-weight: map-get($font-weight-bold, $font);
   font-style: normal;
 }
-
 @mixin typography() {
 
   html {
@@ -51,56 +50,53 @@ $fontFactors: (
     line-height: 1.7;
   }
 
+  ol,
   p,
+  ul {
+    font-size: map-get($fontFactors, p);
+    margin-top: 0;
+    margin-bottom: 0.6em;
+  }
+
   ol,
   ul {
-      font-size: map-get($fontFactors, p);
-      margin-top: 0;
-      margin-bottom: 0.6em;
+    padding-left: 1rem;
   }
 
-  ol,
-  ul {
-      padding-left: 1rem;
+  small,
+  p.small {
+    font-size: map-get($fontFactors, small);
   }
-
-  p.small,
-  small {
-      font-size: map-get($fontFactors, small);
-  }
-
 
   hr {
-      display: block;
-      height: 0;
-      border: 0;
-      border-top: 0.1rem solid #ccc;
-      margin: 1rem 0;
-      padding: 0;
+    display: block;
+    height: 0;
+    border: 0;
+    border-top: 0.1rem solid #ccc;
+    margin: 1rem 0;
+    padding: 0;
   }
-
 
   h1,
   h2,
   h3,
   h4,
   h5 {
-      margin-top: 1.2em;
-      margin-bottom: 0.6em;
+    margin-top: 1.2em;
+    margin-bottom: 0.6em;
   }
 
   h1,
   h2 {
-      @include font-bold(monospace);
-      // letter-spacing: .01em;
-      color: #444;
-      line-height: 1.1;
+    @include font-bold(monospace);
+    color: #444;
+    line-height: 1.1;
   }
 
   h3,
   h4,
   h5 {
-      @include font-bold(sans);
+    @include font-bold(sans);
   }
 
   h1 {
@@ -109,18 +105,18 @@ $fontFactors: (
   }
 
   h2 {
-      font-size: map-get($fontFactors, h2);
+    font-size: map-get($fontFactors, h2);
   }
 
   h3 {
-      font-size: map-get($fontFactors, h3);
+    font-size: map-get($fontFactors, h3);
   }
 
   h4 {
-      font-size: map-get($fontFactors, h4);
+    font-size: map-get($fontFactors, h4);
   }
 
   h5 {
-      font-size: map-get($fontFactors, h5);
+    font-size: map-get($fontFactors, h5);
   }
 }

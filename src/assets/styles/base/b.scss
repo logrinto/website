@@ -1,4 +1,5 @@
-b, strong {
-    @include font-bold(monospace);
-    color: #444;
+b,
+strong {
+  @include font-bold(monospace);
+  color: #444;
 }
