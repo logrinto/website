@@ -1,3 +1,5 @@
+@import "../mediaquery";
+
 $font-name: (
   sans: 'Open Sans',
   monospace: 'Source Code Pro'
@@ -19,7 +21,7 @@ $font-weight-bold: (
 );
 
 $fontFactors: (
-  base: 18px,
+  base: 16px,
   code: 0.9rem,
   small: 0.8rem,
 	p: 1rem,
@@ -29,6 +31,11 @@ $fontFactors: (
   h4: 1rem,
 	h5: 0.9rem,
 );
+
+$fontTabletDesktop: 17px;
+$fontBaseDesktop: 18px;
+
+
 
 @mixin font-normal($font:sans) {
   font-family: map-get($font-family, $font);
@@ -46,6 +53,12 @@ $fontFactors: (
   html {
     // font-family: 'OpenSansSignalwerk', sans-serif;
     font-size: map-get($fontFactors, base);
+    @include mediaQuery($min, $tablet) {
+      font-size: $fontTabletDesktop;
+    }
+    @include mediaQuery($min, $desktop) {
+      font-size: $fontBaseDesktop;
+    }
     font-family: map-get($font-family, sans);
     line-height: 1.7;
   }

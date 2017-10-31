@@ -1,18 +1,12 @@
-@import "../../assets/styles/base/typography";
-@import "../../assets/styles/colors";
-@import "../../templates/_mixin";
+@import "../../assets/styles/_mixin";
 // Layout
 $layout-post-single-max-width: 945px;
 $layout-post-single-width: $layout-post-single-max-width - 305px;
 
 
-
-
-
 .post-single {
 
     // @include container();
-
 
     // max-width: 55rem;
 

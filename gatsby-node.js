@@ -140,7 +140,7 @@ exports.modifyWebpackConfig = ({ config }) => {
   config.merge({
     postcss: [
       pxtorem({
-        rootValue: 18,
+        rootValue: 16,
         unitPrecision: 5,
         propList: [
           'font',
