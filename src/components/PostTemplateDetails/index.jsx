@@ -43,7 +43,7 @@ class PostTemplateDetails extends React.Component {
             {post.frontmatter.title}
           </h1>
           <div className="post-single__date">
-            <small>Veröffentlichung: {moment(post.frontmatter.date).format('DD. MMMM YYYY')}</small>
+            <small>{post.frontmatter.author}&nbsp;&nbsp;·&nbsp;&nbsp;{moment(post.frontmatter.date).format('DD. MMMM YYYY')}</small>
           </div>
           <div className="post-single__body" dangerouslySetInnerHTML={{ __html: post.html }} />
           <div className="post-single__footer">

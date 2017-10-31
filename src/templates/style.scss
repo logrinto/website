@@ -7,21 +7,31 @@ $color-white: white;
 
 // Layout
 .layout {
-  max-width: $desktop-max;
+  max-width: 65rem;
+  padding: 0 1rem;
   margin-left: auto;
   margin-right: auto;
-  @include container();
 
+  &__inner {
+    @include container();
+    // @include container-background-grid();
+  }
+
+}
+
+h1.page__title {
+  padding-top: 0;
+  margin-top: 0;
 }
 
 .content {
     &__inner {
-        padding: 25px 20px;
+        // padding: 25px 20px;
     }
 }
 .content,
 .sidebar {
-  margin-top: 4rem;
+  margin-top: 5rem;
   @include col(12);
 }
 
@@ -31,14 +41,14 @@ $color-white: white;
   .content {
       @include col(8);
       &__inner {
-          padding: 30px 20px;
+          // padding: 30px 20px;
       }
   }
 
   .sidebar {
       @include col(4);
       &__inner {
-          padding: 30px 20px 0;
+          // padding: 30px 20px 0;
           &:before {
               background: $color-gray-border;
               background: linear-gradient(to bottom, $color-gray-border 0%, $color-gray-border 48%, $color-white 100%);
@@ -46,7 +56,7 @@ $color-white: white;
               content: "";
               width: 1px;
               height: 540px;
-              top: 30px;
+              top: 0px;
               left: -10px;
               bottom: 0;
           }
@@ -58,13 +68,13 @@ $color-white: white;
     .content {
         @include col(8);
         &__inner {
-            padding: 40px 35px;
+            // padding: 40px 35px;
         }
     }
     .sidebar {
         @include col(4);
         &__inner {
-            padding: 40px;
+            // padding: 40px;
         }
     }
 }

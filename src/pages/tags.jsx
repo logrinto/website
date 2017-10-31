@@ -13,29 +13,31 @@ class TagsRoute extends React.Component {
 
     return (
       <div className="layout">
-        <Helmet title={`Alle Tags - ${title}`} />
-        <Navigation {...this.props} />
-        <div className="content">
-          <div className="content__inner">
-            <div className="page">
-              <h1 className="page__title">Tags</h1>
-              <div className="page__body">
-                <div className="tags">
-                  <ul className="tags__list">
-                    {tags.map(tag =>
-                      <li key={tag.fieldValue} className="tags__list-item">
-                        <Link to={`/tags/${kebabCase(tag.fieldValue)}/`} className="tags__list-item-link">
-                          {tag.fieldValue} ({tag.totalCount})
-                        </Link>
-                      </li>
-                    )}
-                  </ul>
+        <div className="layout__inner">
+          <Helmet title={`Alle Tags - ${title}`} />
+          <Navigation {...this.props} />
+          <div className="content">
+            <div className="content__inner">
+              <div className="page">
+                <h1 className="page__title">Tags</h1>
+                <div className="page__body">
+                  <div className="tags">
+                    <ul className="tags__list">
+                      {tags.map(tag =>
+                        <li key={tag.fieldValue} className="tags__list-item">
+                          <Link to={`/tags/${kebabCase(tag.fieldValue)}/`} className="tags__list-item-link">
+                            {tag.fieldValue} ({tag.totalCount})
+                          </Link>
+                        </li>
+                      )}
+                    </ul>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
+          <Sidebar {...this.props} />
         </div>
-        <Sidebar {...this.props} />
       </div>
     );
   }

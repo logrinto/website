@@ -1,5 +1,6 @@
 @import "../../assets/styles/base/typography";
 @import "../../assets/styles/colors";
+@import "../../templates/_mixin";
 
 
 @keyframes teaser__move {
@@ -57,9 +58,10 @@
         // font-size: $typographic-base-font-size;
         // @include line-height(1);
         // @include margin-bottom(.75);
-        padding-left: 10%;
-        padding-right: 10%;
+        padding-left: span(1 of 8) + gutter(1 of 8);
+        padding-right: span(1 of 8) + gutter(1 of 8);
         padding-bottom: 0.4rem;
+
     }
     &__meta {
       text-align: right;

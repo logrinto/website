@@ -19,17 +19,19 @@ class IndexRoute extends React.Component {
 
     return (
       <div className="layout">
-        <Helmet>
-          <title>{title}</title>
-          <meta name="description" content={subtitle} />
-        </Helmet>
-        <Navigation {...this.props} />
-        <div className="content">
-          <div className="content__inner">
-            {items}
+        <div className="layout__inner">
+          <Helmet>
+            <title>{title}</title>
+            <meta name="description" content={subtitle} />
+          </Helmet>
+          <Navigation {...this.props} />
+          <div className="content">
+            <div className="content__inner">
+              {items}
+            </div>
           </div>
+          <Sidebar {...this.props} />
         </div>
-        <Sidebar {...this.props} />
       </div>
     );
   }

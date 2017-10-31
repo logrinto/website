@@ -18,11 +18,13 @@ class PostTemplate extends React.Component {
 
     return (
       <div className="layout">
-        <Helmet>
-          <title>{`${post.frontmatter.title} - ${title}`}</title>
-          <meta name="description" content={description} />
-        </Helmet>
-        <PostTemplateDetails {...this.props} />
+        <div className="layout__inner">
+          <Helmet>
+            <title>{`${post.frontmatter.title} - ${title}`}</title>
+            <meta name="description" content={description} />
+          </Helmet>
+          <PostTemplateDetails {...this.props} />
+        </div>
       </div>
     );
   }
@@ -59,6 +61,7 @@ export const pageQuery = graphql`
       }
       frontmatter {
         title
+        author
         tags
         date
         description

@@ -13,23 +13,25 @@ class CategoriesRoute extends React.Component {
 
     return (
       <div className="layout">
-        <Helmet title={`Kategorien - ${title}`} />
-        <Navigation {...this.props} />
-        <div className="content">
-          <div className="content__inner">
-            <div className="page">
-              <h1 className="page__title">Kategorien</h1>
-              <div className="page__body">
-                <div className="categories">
-                  <ul className="categories__list">
-                    {categories.map(category =>
-                      <li key={category.fieldValue} className="categories__list-item">
-                        <Link to={`/categories/${kebabCase(category.fieldValue)}/`} className="categories__list-item-link">
-                          {category.fieldValue} ({category.totalCount})
-                        </Link>
-                      </li>
-                    )}
-                  </ul>
+        <div className="layout__inner">
+          <Helmet title={`Kategorien - ${title}`} />
+          <Navigation {...this.props} />
+          <div className="content">
+            <div className="content__inner">
+              <div className="page">
+                <h1 className="page__title">Kategorien</h1>
+                <div className="page__body">
+                  <div className="categories">
+                    <ul className="categories__list">
+                      {categories.map(category =>
+                        <li key={category.fieldValue} className="categories__list-item">
+                          <Link to={`/categories/${kebabCase(category.fieldValue)}/`} className="categories__list-item-link">
+                            {category.fieldValue} ({category.totalCount})
+                          </Link>
+                        </li>
+                      )}
+                    </ul>
+                  </div>
                 </div>
               </div>
             </div>

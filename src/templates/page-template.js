@@ -20,13 +20,15 @@ class PageTemplate extends React.Component {
 
     return (
       <div className="layout">
-        <Helmet>
-          <title>{`${page.frontmatter.title} - ${title}`}</title>
-          <meta name="description" content={description} />
-        </Helmet>
-        <Navigation {...this.props} />
-        <PageTemplateDetails {...this.props} />
-        <Sidebar {...this.props} />
+        <div className="layout__inner">
+          <Helmet>
+            <title>{`${page.frontmatter.title} - ${title}`}</title>
+            <meta name="description" content={description} />
+          </Helmet>
+          <Navigation {...this.props} />
+          <PageTemplateDetails {...this.props} />
+          <Sidebar {...this.props} />
+        </div>
       </div>
     );
   }

@@ -7,7 +7,7 @@ module.exports = {
     copyright: 'CC-BY-SA 4.0',
     menu: [
       {
-        label: 'Artikel',
+        label: 'Home',
         path: '/'
       },
       {
