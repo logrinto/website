@@ -55,10 +55,14 @@
         // font-size: $typographic-base-font-size;
         // @include line-height(1);
         // @include margin-bottom(.75);
-        padding-left: span(1 of 8) + gutter(1 of 8);
-        padding-right: span(1 of 8) + gutter(1 of 8);
         padding-bottom: 0.4rem;
 
+
+
+        @include mediaQuery($min, $desktop) {
+          padding-left: span(1 of 8) + gutter(1 of 8);
+          padding-right: span(1 of 8) + gutter(1 of 8);
+        }
     }
     &__meta {
       text-align: right;
