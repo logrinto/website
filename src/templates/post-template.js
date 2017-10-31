@@ -66,6 +66,9 @@ export const pageQuery = graphql`
         date
         description
       }
+      wordCount {
+        words
+      }
     }
   }
 `;

@@ -10,7 +10,17 @@ moment.locale('de');
 class PostTemplateDetails extends React.Component {
   render() {
     const { subtitle, author } = this.props.data.site.siteMetadata;
+
+
     const post = this.props.data.markdownRemark;
+    const words = post.wordCount.words;
+
+    // https://help.medium.com/hc/en-us/articles/214991667-Read-time
+    // http://iovs.arvojournals.org/article.aspx?articleid=2166061
+    // german: words: 179, Characters: 920
+    const avgWPM = 179;
+    const timeToRead = Math.round(words / avgWPM) || 1;
+
     const tags = post.fields.tagSlugs;
 
     const homeBlock = (
@@ -43,7 +53,7 @@ class PostTemplateDetails extends React.Component {
             {post.frontmatter.title}
           </h1>
           <div className="post-single__date">
-            <small>{post.frontmatter.author}&nbsp;&nbsp;·&nbsp;&nbsp;{moment(post.frontmatter.date).format('DD. MMMM YYYY')}</small>
+            <small>~{timeToRead && (timeToRead || 1)}&nbsp;min&nbsp;&nbsp;·&nbsp;&nbsp;{post.frontmatter.author}&nbsp;&nbsp;·&nbsp;&nbsp;{moment(post.frontmatter.date).format('DD. MMMM YYYY')}</small>
           </div>
           <div className="post-single__body" dangerouslySetInnerHTML={{ __html: post.html }} />
           <div className="post-single__footer">

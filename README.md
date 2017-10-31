@@ -10,6 +10,9 @@
 ### Status
 [![Build Status](https://travis-ci.org/logrinto/website.svg?branch=master)](https://travis-ci.org/logrinto/website)
 
+### Todo
+* Build Admin-Console with [netlifycms](https://www.netlifycms.org/)
+
 ### License
 MIT. See also `license.txt`
 
