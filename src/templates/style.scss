@@ -13,8 +13,7 @@ $color-white: white;
   margin-right: auto;
 
   &__inner {
-    @include container();
-    // @include container-background-grid();
+    @include container(12);
   }
 
 }

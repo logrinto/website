@@ -60,8 +60,8 @@
 
 
         @include mediaQuery($min, $desktop) {
-          padding-left: span(1 of 8) + gutter(1 of 8);
-          padding-right: span(1 of 8) + gutter(1 of 8);
+          padding-left: span(1 of 8) + gutter(8);
+          padding-right: span(1 of 8) + gutter(8);
         }
     }
     &__meta {

@@ -151,13 +151,13 @@ $layout-post-single-width: $layout-post-single-max-width - 305px;
               }
               .float-right {
                   float: right;
-                  padding-left: gutter(1 of 8);
-                  margin-right: 0 - span(1 of 8) - gutter(1 of 8);
+                  padding-left: gutter(8);
+                  margin-right: 0 - span(1 of 8) - gutter(8);
               }
               .float-left {
                   float: left;
-                  padding-right: gutter(1 of 8);
-                  margin-left: 0 - span(1 of 8) - gutter(1 of 8);
+                  padding-right: gutter(8);
+                  margin-left: 0 - span(1 of 8) - gutter(8);
               }
 
       }
@@ -168,8 +168,8 @@ $layout-post-single-width: $layout-post-single-max-width - 305px;
     .post-single {
         &__inner {
           width: span(7);
-          margin-left: span(2.5) + gutter(1);
-          margin-right: span(2.5) + gutter(1);
+          margin-left: span(3) + gutter(12);
+          margin-right: span(2) + gutter(12);
         }
 
         &__home-button {
@@ -191,12 +191,12 @@ $layout-post-single-width: $layout-post-single-max-width - 305px;
                 max-width: span(4 of 7);
             }
             .float-right {
-                padding-left: gutter(1 of 7);
-                margin-right: 0 - span(2 of 7) - gutter(1 of 7);
+                padding-left: gutter(7);
+                margin-right: 0 - span(2 of 7) - gutter(7);
             }
             .float-left {
-                padding-right: gutter(1 of 7);
-                margin-left: 0 - span(2 of 7) - gutter(1 of 7);
+                padding-right: gutter(7);
+                margin-left: 0 - span(2 of 7) - gutter(7);
             }
 
         }

@@ -1,6 +1,10 @@
 @import "./colors";
 @import "./base/typography";
 
+$flegrix-grid: (
+  // debug: true,
+  debug-container-column-midline: true, // draw column-midline in debug-mode → default: false
+  debug-container-gutter-midline: true, // draw gutter-midline in debug-mode → default: false
+);
 
-$flegrix-grid-gutter: 3%;
 @import "~flegrix/flegrix.scss";
