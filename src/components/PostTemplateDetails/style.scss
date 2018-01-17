@@ -329,12 +329,12 @@ $picW-wide-desktop: 4;
         margin-right: auto;
         max-width: 90px;
         padding: 0 16px;
-        height: 35px;
-        line-height: 35px;
+        height: 1.8rem;
+        line-height: 1.8rem;
         text-align: center;
         color: lighten($color-base, 20%);
         background: $color-gray-bg;
-        border-radius: 3px;
+        border-radius: 0.3rem;
         margin-top: 1.3rem;
         z-index: 9000;
         &:hover,
@@ -348,8 +348,8 @@ $picW-wide-desktop: 4;
               position: fixed;
               max-width: auto;
               margin: 0;
-              top: 30px;
-              left: 30px;
+              top: 1.8rem;
+              left: 1.8rem;
         }
 
     }
