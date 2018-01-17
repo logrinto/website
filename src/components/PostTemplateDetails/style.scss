@@ -336,6 +336,7 @@ $picW-wide-desktop: 4;
         background: $color-gray-bg;
         border-radius: 3px;
         margin-top: 1.3rem;
+        z-index: 9000;
         &:hover,
         &:focus {
             color: $color-base;
