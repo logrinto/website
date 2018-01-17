@@ -53,8 +53,25 @@ Die Anzeige erfolgt mittels LCD-Display und die Hardware scheint auf der Höhe d
 
 
 
+
 ## Analyse zum Gebrauch
 In der Klasse wurden nachfolgende Bedürfnisse zusammengetragen. Diese lassen sich beliebig erweitern, jedoch beschränken wir uns bei der neugestaltung auf die heir abgebildeten.
+
+
+<div class="wide-grid bg">
+  <div class="col-6">
+    <figure>
+      <img src="img/impressions/IMG_3921.jpg" alt="test">
+      <figcaption></figcaption>
+    </figure>
+  </div>
+  <div class="col-6">
+    <figure>
+      <img src="img/impressions/IMG_9672.jpg" alt="test">
+      <figcaption></figcaption>
+    </figure>
+  </div>
+</div>
 
 
 <div class="grid">
@@ -155,6 +172,34 @@ Die Analyse, Betrachtung vor Ort und das Redesign des Panels erfolgte innert 8 S
 * Entwurf (2:15h)
 * Präsentation in Klasse (1h)
 
+
+
+<div class="wide-grid bg">
+  <div class="col-3">
+    <figure>
+      <img src="img/impressions/IMG_2800.jpg" alt="test">
+      <figcaption></figcaption>
+    </figure>
+  </div>
+  <div class="col-3">
+    <figure>
+      <img src="img/impressions/IMG_3396.jpg" alt="test">
+      <figcaption></figcaption>
+    </figure>
+  </div>
+  <div class="col-3">
+    <figure>
+      <img src="img/impressions/IMG_8841.jpg" alt="test">
+      <figcaption></figcaption>
+    </figure>
+  </div>
+  <div class="col-3">
+    <figure>
+      <img src="img/impressions/IMG_8927.jpg" alt="test">
+      <figcaption></figcaption>
+    </figure>
+  </div>
+</div>
 
 <br>
 <br>
@@ -305,7 +350,7 @@ Wolfgang, Nils, Nadia und Lars haben einen Entwurf erarbeitet, bei dem die Wahl 
 <br>
 
 ## Entwurf «Slide»
-Stephanie, Matthias, Marc
+Stephanie, Matthias und Marc haben einen Entwurf erarbeitet, in der die Zeitnavigation klar hinter der Information zurück tritt. Die ursprüngliche Idee Vormittag und Nachmittag zu trennen wurde im ausgearbeiteten Entwurf zu gunsten der Benutzerführung verworfen.
 
 
 <div class="wide-grid bg">
@@ -379,7 +424,7 @@ Stephanie, Matthias, Marc
 <br>
 
 ## Entwurf «One-Touch»
-Tioe, Severin, Marius
+Tioe, Severin und Marius haben durch eine geschickte Aufteilung der Zeit eine sehr klare Führung über die Zeit erreicht. Die Anzeige der Information wurde an die anderen Info-Screens im Zugsverkehr angelehnt.
 
 
 <div class="wide-grid bg">
@@ -399,19 +444,11 @@ Tioe, Severin, Marius
       <li>Klares Interface-Konzept</li>
       <li>Schnelle Stundenwahl</li>
       <li>Die 4 Blöcke für die Tageszeiten funktionieren sehr gut!</li>
-      <li></li>
-      <li></li>
-      <li></li>
     </ul>
     <h4>Inputs/Verbessern</h4>
     <ul>
       <li>Eine Zeitmarke, wo die aktuell Zeit gerade steht würde helfen.</li>
       <li>Können vielleicht noch mehr Informationen erschlossen werden?</li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
     </ul>
   </div>
 </div>
