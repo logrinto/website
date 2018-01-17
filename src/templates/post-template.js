@@ -54,20 +54,10 @@ export const pageQuery = graphql`
       ...postTemplateDetailsFragment
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
-      id
-      html
-      fields {
-        tagSlugs
-      }
+      ...postTemplateDetailsMdFragment
       frontmatter {
         title
-        author
-        tags
-        date
         description
-      }
-      wordCount {
-        words
       }
     }
   }

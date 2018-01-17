@@ -4,49 +4,269 @@ $layout-post-single-max-width: 945px;
 $layout-post-single-width: $layout-post-single-max-width - 305px;
 
 
+$columnW-tablet: 8;
+$columnL-tablet: 2;
+$picW-tablet: 4;
+
+$columnW-desktop: 9;
+$columnL-desktop: 1.5;
+$picW-desktop: 4;
+
+$columnW-wide-desktop: 8;
+$columnL-wide-desktop: 2;
+$picW-wide-desktop: 4;
+
 .post-single {
-
-    // @include container();
-
-    // max-width: 55rem;
-
-    // margin-left: auto;
-    // margin-right: auto;
 
 
     &__inner {
+
+      @include mediaQuery($min, $tablet) {
+          width: span($columnW-tablet);
+          margin-left: span($columnL-tablet) + gutter(12);
+          margin-right: span($columnW-tablet - $columnL-tablet) + gutter(12);
+      }
+
+      @include mediaQuery($min, $desktop) {
+        width: span($columnW-desktop);
+        margin-left: span($columnL-desktop) + gutter(12);
+        margin-right: span($columnW-desktop - $columnL-desktop) + gutter(12);
+      }
+
+      @include mediaQuery($min, $wide-desktop) {
+          width: span($columnW-wide-desktop);
+          margin-left: span(2) + gutter(12);
+          margin-right: span($columnW-wide-desktop - $columnL-wide-desktop) + gutter(12);
+      }
     }
+
+
+    .grid,
+    .wide-grid {
+      @include mediaQuery($min, $tablet) {
+
+        div[class^="col-"] {
+          z-index: 900;
+        }
+
+        &.compact div[class^="col-"] {
+          & > h1:first-child,
+          & > h2:first-child,
+          & > h3:first-child,
+          & > h4:first-child {
+            margin-top: -.4em;
+          }
+        }
+
+        position: relative;
+
+        &.bg {
+          margin-top: 2rem;
+          margin-bottom: 2rem;
+          padding-top: 2rem;
+
+          &:before {
+            z-index: 100;
+            content: " ";
+            position: absolute;
+            width: 100vw;
+            height: 100%;
+            left: 50%;
+
+            margin-left: -50vw;
+
+            background-color: rgb(230,230,230);
+            margin-top: -1.7rem;
+            display: block;
+          }
+        }
+
+      }
+    }
+    .grid {
+
+      @include mediaQuery($min, $tablet) {
+        @include container($columnW-tablet);
+
+
+        @for $i from 1 through $columnW-tablet {
+          .col-#{$i} {
+              @include col($i of $columnW-tablet);
+          }
+        }
+      }
+
+      @include mediaQuery($min, $desktop) {
+
+        @include container($columnW-desktop);
+
+        @for $i from 1 through $columnW-desktop {
+          .col-#{$i} {
+              @include col($i of $columnW-desktop);
+          }
+        }
+      }
+
+      @include mediaQuery($min, $wide-desktop) {
+
+        @include container($columnW-wide-desktop);
+
+        @for $i from 1 through $columnW-wide-desktop {
+          .col-#{$i} {
+              @include col($i of $columnW-wide-desktop);
+          }
+        }
+      }
+
+
+    }
+
+    .wide-grid {
+
+
+
+      @include mediaQuery($min, $tablet) {
+        @include container(12);
+
+        margin-left: 0 - span($columnL-tablet of $columnW-tablet) - gutter($columnW-tablet);
+        width: span(12 of $columnW-tablet);
+      }
+
+      @include mediaQuery($min, $desktop) {
+        margin-left: 0 - span($columnL-desktop of $columnW-desktop) - gutter($columnW-desktop);
+        width: span(12 of $columnW-desktop);
+
+      }
+      @include mediaQuery($min, $wide-desktop) {
+        margin-left: 0 - span($columnL-wide-desktop of $columnW-wide-desktop) - gutter($columnW-wide-desktop);
+        width: span(12 of $columnW-wide-desktop);
+
+      }
+
+
+      @include mediaQuery($min, $tablet) {
+
+                @for $i from 1 through 12 {
+                  .col-#{$i} {
+                      @include col($i of 12);
+                  }
+                }
+
+      }
+
+
+    }
+
+
+
+    // inline floating images
+    .float-left,
+    .float-right {
+
+        @include mediaQuery($min, $tablet) {
+          padding-top: 0.6rem;
+          width: span($picW-tablet of $columnW-tablet);
+        }
+
+        @include mediaQuery($min, $desktop) {
+          width: span($picW-desktop of $columnW-desktop);
+
+        }
+        @include mediaQuery($min, $wide-desktop) {
+          width: span($picW-wide-desktop of $columnW-wide-desktop);
+        }
+
+    }
+
+    .float-right {
+
+
+              @include mediaQuery($min, $tablet) {
+                  float: right;
+                  padding-left: gutter($columnW-tablet);
+                  margin-right: 0 - span(1 of $columnW-tablet) - gutter($columnW-tablet);
+
+              }
+
+              @include mediaQuery($min, $desktop) {
+                padding-left: gutter($columnW-desktop);
+                margin-right: 0 - span(1 of $columnW-desktop) - gutter($columnW-desktop);
+              }
+
+              @include mediaQuery($min, $wide-desktop) {
+                padding-left: gutter($columnW-wide-desktop);
+                margin-right: 0 - span(1 of $columnW-wide-desktop) - gutter($columnW-wide-desktop);
+              }
+    }
+    .float-left {
+
+              @include mediaQuery($min, $tablet) {
+                  float: left;
+                  padding-right: gutter($columnW-tablet);
+                  margin-left: 0 - span(1 of $columnW-tablet) - gutter($columnW-tablet);
+              }
+
+              @include mediaQuery($min, $desktop) {
+                padding-right: gutter($columnW-desktop);
+                margin-left: 0 - span(1 of $columnW-desktop) - gutter($columnW-desktop);
+
+              }
+              @include mediaQuery($min, $wide-desktop) {
+                padding-right: gutter($columnW-wide-desktop);
+                margin-left: 0 - span(1 of $columnW-wide-desktop) - gutter($columnW-wide-desktop);
+              }
+    }
+
+
 
 
     &__title {
 
     }
 
-    &__date {
-        padding-bottom: 3rem;
+    &__category {
+      padding-top: 1rem;
+      font-size: map-get($fontFactors, small);
+      color: $color-base;
+
+      &:hover,
+      &:focus {
+          color: $color-primary;
+          border-bottom: 2px solid $color-primary;
+      }
+    }
+
+
+    &__meta {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
         text-align: right;
+    }
+
+    &__lead p {
+      @include font-bold(monospace);
+      font-size: map-get($fontFactors, h3);
+      line-height: 1.7;
+
+      @include mediaQuery($min, $desktop) {
+          padding-left: span(2 of 8) + gutter(8);
+          padding-bottom: 2rem;
+      }
     }
 
     &__body {
 
+      ul {
+        li {
+          > p {
+            // na extra space in lists
+            margin-bottom: 0;
+          }
+        }
+      }
 
 
-        // @include mediaQuery($min, $desktop) {
-        //     figure.float-left,
-        //     figure.float-right {
-        //         max-width: 310px;
-        //         padding: 0 1rem 0 1rem;
-        //     }
-        //     .float-right {
-        //         float: right;
-        //     }
-        //     .float-left {
-        //         float: left;
-        //     }
-        // }
-
-
-        & a {
+       a {
             color: #006984;
 
             &:visited {
@@ -61,13 +281,15 @@ $layout-post-single-width: $layout-post-single-max-width - 305px;
                 content: "→ ";
             }
 
-            // hide arrow before external links
-            a[href^="http"]:before,
-            a[href^="slack:"]:before,
-            a[href^="mailto:"]:before,
-            a[href^="tel:"]:before {
-              display: none;
-            }
+        }
+
+
+        // hide arrow before external links
+        a[href^="http"]:before,
+        a[href^="slack:"]:before,
+        a[href^="mailto:"]:before,
+        a[href^="tel:"]:before {
+          display: none;
         }
     }
 
@@ -120,87 +342,14 @@ $layout-post-single-width: $layout-post-single-max-width - 305px;
             background: darken($color-gray-bg, 5%);
             border: 0;
         }
-    }
-}
 
-@include mediaQuery($min, $tablet) {
-    .post-single {
-//         &__footer {
-//         }
-//         &__body {
-//             & .gatsby-highlight {
-//                 margin-left: auto;
-//                 margin-right: auto;
-//             }
-//         }
-      &__inner {
-        width: span(8);
-        margin-left: span(2) + gutter(1);
-        margin-right: span(2) + gutter(1);
-      }
-
-
-      &__body {
-
-
-
-              figure.float-left,
-              figure.float-right {
-                  max-width: span(3 of 8);
-                  padding-top: 0.6rem;
-              }
-              .float-right {
-                  float: right;
-                  padding-left: gutter(8);
-                  margin-right: 0 - span(1 of 8) - gutter(8);
-              }
-              .float-left {
-                  float: left;
-                  padding-right: gutter(8);
-                  margin-left: 0 - span(1 of 8) - gutter(8);
-              }
-
-      }
-    }
-}
-
-@include mediaQuery($min, $desktop) {
-    .post-single {
-        &__inner {
-          width: span(7);
-          margin-left: span(3) + gutter(12);
-          margin-right: span(2) + gutter(12);
+        @include mediaQuery($min, $desktop) {
+              position: fixed;
+              max-width: auto;
+              margin: 0;
+              top: 30px;
+              left: 30px;
         }
-
-        &__home-button {
-            position: fixed;
-            max-width: auto;
-            margin: 0;
-            top: 30px;
-            left: 30px;
-        }
-
-
-
-        &__body {
-
-
-
-            figure.float-left,
-            figure.float-right {
-                max-width: span(4 of 7);
-            }
-            .float-right {
-                padding-left: gutter(7);
-                margin-right: 0 - span(2 of 7) - gutter(7);
-            }
-            .float-left {
-                padding-right: gutter(7);
-                margin-left: 0 - span(2 of 7) - gutter(7);
-            }
-
-        }
-
 
     }
 }

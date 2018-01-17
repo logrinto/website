@@ -26,15 +26,17 @@ $fontFactors: (
   small: 0.8rem,
 	p: 1rem,
 	h1: 2.4rem,
-	h2: 1.85rem,
-  h3: 1.15rem,
+	h2: 1.6rem,
+  h3: 1.25rem,
   h4: 1rem,
 	h5: 0.9rem,
 );
 
 $fontTabletDesktop: 17px;
 $fontBaseDesktop: 18px;
+$fontBaseWideDesktop: 20px;
 
+$fontDefaultLineHeight: 1.55;
 
 
 @mixin font-normal($font:sans) {
@@ -59,8 +61,12 @@ $fontBaseDesktop: 18px;
     @include mediaQuery($min, $desktop) {
       font-size: $fontBaseDesktop;
     }
+    @include mediaQuery($min, $wide-desktop) {
+      font-size: $fontBaseWideDesktop;
+    }
+
     font-family: map-get($font-family, sans);
-    line-height: 1.7;
+    line-height: $fontDefaultLineHeight;
   }
 
   ol,
@@ -103,7 +109,7 @@ $fontBaseDesktop: 18px;
   h2 {
     @include font-bold(monospace);
     color: #444;
-    line-height: 1.1;
+    line-height: 1.2;
   }
 
   h3,
@@ -118,15 +124,21 @@ $fontBaseDesktop: 18px;
   }
 
   h2 {
+    margin-top: 1.6em;
+    margin-bottom: 0.4em;
     font-size: map-get($fontFactors, h2);
   }
 
   h3 {
+    margin-top: 1.6em;
+    margin-bottom: 0.4em;
     font-size: map-get($fontFactors, h3);
   }
 
   h4 {
     font-size: map-get($fontFactors, h4);
+    margin-top: 1.2em;
+    margin-bottom: 0.1em;
   }
 
   h5 {

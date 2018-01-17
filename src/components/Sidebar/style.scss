@@ -19,6 +19,7 @@
         &-title {
             @include font-bold(monospace)
             font-size: map-get($fontFactors, h3);
+            margin-top: 0.4rem;
 
             &-link {
                 color: $color-base;

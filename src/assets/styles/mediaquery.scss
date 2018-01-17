@@ -14,19 +14,19 @@ $desktop-max: 65rem; // customize to suite
 // @media min-width
 // @media max-width
 // @media min-width and max-width
-$viewport-increment: 0.1px; // customize to suite
+$viewport-increment: 0.01rem; // customize to suite
 
 // Wide-Desktop
-$wide-desktop: 1240px; // customize to suite
+$wide-desktop: 60rem; // customize to suite
 $pre-wide-desktop: $wide-desktop - $viewport-increment;
 // Desktop
-$desktop: 1024px; // customize to suite
+$desktop: 49rem; // customize to suite
 $pre-desktop: $desktop - $viewport-increment;
 // Tablet
-$tablet: 768px; // customize to suite
+$tablet: 39rem; // customize to suite
 $pre-tablet: $tablet - $viewport-increment;
 // mobile
-$mobile: 560px; // customize to suite
+$mobile: 30rem; // customize to suite
 $post-mobile: $mobile + $viewport-increment;
 // Constraints
 $min: min-width;

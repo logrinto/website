@@ -71,16 +71,7 @@ export const pageQuery = graphql`
       ){
       edges {
         node {
-          fields {
-            slug
-            categorySlug
-          }
-          frontmatter {
-            title
-            date
-            category
-            description
-          }
+          ...postFragment
         }
       }
     }

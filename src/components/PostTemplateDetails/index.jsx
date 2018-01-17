@@ -1,4 +1,5 @@
 import React from 'react';
+const _ = require('lodash');
 import PropTypes from 'prop-types';
 import Link from 'gatsby-link';
 import moment from 'moment';
@@ -42,6 +43,7 @@ class PostTemplateDetails extends React.Component {
     );
 
     //
+    const categorySlug = `/categories/${_.kebabCase(post.frontmatter.category)}/`;
 
     return (
       <div className="post-single">
@@ -49,13 +51,28 @@ class PostTemplateDetails extends React.Component {
         {homeBlock}
 
         <div className="post-single__inner">
+
+          {/* <span className="post-single__category" key={categorySlug}>
+            <Link to={categorySlug} className="post-single__category-link">
+              {post.frontmatter.category}
+            </Link>
+          </span> */}
+
+          <div className="post-single__meta">
+            <small>~{timeToRead && (timeToRead || 1)}&nbsp;min&nbsp;&nbsp;·&nbsp;&nbsp;{post.frontmatter.author}&nbsp;&nbsp;·&nbsp;&nbsp;{moment(post.frontmatter.date).format('DD. MMMM YYYY')}</small>
+          </div>
+
+
           <h1 className="post-single__title">
             {post.frontmatter.title}
           </h1>
-          <div className="post-single__date">
-            <small>~{timeToRead && (timeToRead || 1)}&nbsp;min&nbsp;&nbsp;·&nbsp;&nbsp;{post.frontmatter.author}&nbsp;&nbsp;·&nbsp;&nbsp;{moment(post.frontmatter.date).format('DD. MMMM YYYY')}</small>
+
+          <div className="post-single__lead">
+            <p>{post.frontmatter.description}</p>
           </div>
+
           <div className="post-single__body" dangerouslySetInnerHTML={{ __html: post.html }} />
+
           <div className="post-single__footer">
             <hr />
             <p>Tags</p>
@@ -98,4 +115,24 @@ export const postTemplateDetailsFragment = graphql`
       }
     }
   }
+
+  fragment postTemplateDetailsMdFragment on MarkdownRemark {
+    id
+    html
+    fields {
+      tagSlugs
+    }
+    frontmatter {
+      title
+      author
+      category
+      tags
+      date
+      description
+    }
+    wordCount {
+      words
+    }
+  }
+
 `;
