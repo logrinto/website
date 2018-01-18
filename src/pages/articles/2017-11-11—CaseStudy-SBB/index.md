@@ -11,7 +11,7 @@ tags:
   - "Case Study"
   - "Interface"
   - "Typografie"
-description: "In einem eintägigen Workshop wurde ein bestehendes Touch Panel für die Fahrplanauskunft am Zürich Hauptbahnhof überarbeitet und die bestehende Mängel von vier Teams analysiert und neue Lösungsvorschläge vorgeschlagen."
+description: "In einem eintägigen Workshop wurde ein bestehendes Touch Panel für die Fahrplanauskunft am Zürich Hauptbahnhof überarbeitet und die bestehende Mängel von vier Teams analysiert und neue Lösungen vorgeschlagen."
 ---
 
 
@@ -34,7 +34,7 @@ description: "In einem eintägigen Workshop wurde ein bestehendes Touch Panel f�
 </div>
 
 
-Bis anhin wurden die Abfahrtszeiten an mehreren Orten innerhalb des Hauptbahnhof angezeigt. Nicht nur auf den Gleisen und in Gleisnähe dienen die gelb markierten Plakate oder Screens zur Orientierung, sondern es gibt auch an vielen Stellen im Hauptbahnhof diese Information zum ansehen ohne dass eine Interaktion über Berührung gesetzt werden muss. Die reisenden Informieren sich und können dann auf Ihr jeweiliges Gleis – dem Orientierungssystem folgend – gehen. Die Gestaltung ist klar und funktional und dem Lesenden dienend.
+Bis anhin wurden die Abfahrtszeiten an mehreren Orten innerhalb des Hauptbahnhof angezeigt. Nicht nur auf den Gleisen und in Gleisnähe dienen die gelb markierten Plakate oder Screens zur Orientierung, sondern es gibt auch an vielen Stellen im Hauptbahnhof diese Information zum ansehen ohne dass eine Interaktion über Berührung getätigt werden muss. Die Reisenden informieren sich und können dann auf ihr jeweiliges Gleis – dem Orientierungssystem folgend – gehen. Die Gestaltung ist klar und funktional und dem Lesenden dienend.
 
 
 ## Ausgangslage – Neues Panel
@@ -55,7 +55,7 @@ Die Anzeige erfolgt mittels LCD-Display und die Hardware scheint auf der Höhe d
 
 
 ## Analyse zum Gebrauch
-In der Klasse wurden nachfolgende Bedürfnisse zusammengetragen. Diese lassen sich beliebig erweitern, jedoch beschränken wir uns bei der neugestaltung auf die heir abgebildeten.
+In der Klasse wurden nachfolgende Bedürfnisse zusammengetragen. Diese lassen sich beliebig erweitern, jedoch beschränken wir uns bei der Neugestaltung auf die hier abgebildeten.
 
 
 <div class="wide-grid bg">
@@ -79,7 +79,7 @@ In der Klasse wurden nachfolgende Bedürfnisse zusammengetragen. Diese lassen si
     <h4>Zielgruppen/Persona</h4>
     <ul>
       <li>Personen mit Informationsbedürfins</li>
-      <li>Personen ohne Smartphone oder wissen um Online-Angebote</li>
+      <li>Personen ohne Smartphone oder dem Wissen um Online-Angebote</li>
       <li>Ältere Touristen</li>
       <li>Möchten Information innert 10–30 Sekunden</li>
       <li>Personen, die eine Fart antreten möchten</li>
@@ -97,7 +97,7 @@ In der Klasse wurden nachfolgende Bedürfnisse zusammengetragen. Diese lassen si
       <li>Linie (Name)</li>
       <li>Einschränkungen im Schienensystem</li>
       <li>Verpflegung/Restaurant</li>
-      <li>Wager der 1./2. Klasse</li>
+      <li>Wo sind die Wagen der 1. oder 2. Klasse</li>
     </ul>
   </div>
 </div>
@@ -105,7 +105,7 @@ In der Klasse wurden nachfolgende Bedürfnisse zusammengetragen. Diese lassen si
 
 
 ## Analyse zur Gestaltung
-Die nachfolgende Analyse und die daraus erarbeiteten Vorschläge der Studenten beziehen sich lediglich auf den Teil der Abfahrtszeiten. Dies, da es sich dabei wohl um einer der häufigst benutzten Teile handeln dürfe, bei dem eine Interaktion von Vorteil sein kann.
+Die nachfolgende Analyse und die daraus erarbeiteten Vorschläge der Studenten beziehen sich lediglich auf den Teil der Abfahrtszeiten. Da es sich dabei wohl um einer der am häufigst benutzten Teile handeln dürfe, kann eine Interaktion von Vorteil sein.
 
 <div class="wide-grid bg">
   <div class="col-7">
@@ -140,7 +140,7 @@ Das Blättern zwischen den drei Screens ist eher schwerfällig. Es muss relativ 
 Die Lupe verdeckt durch ihre eigene Grösse sehr viel Text. Eine Navigation innerhalb des Screens ist schwierig, da man den Finger bewegen muss und dabei die Lupe beobachten kann, nicht aber den Finger gezielt an eine Position bewegen, da die gesuchte Zeit durch die Lube eventuell verdeckt wurde.
 
 #### Rollstuhl-Modus
-Die Anordnung der Abfahrtszeiten zieht sich über ⅔ der Höhe des Screens dadurch wird es für Rollstuhlfahrende und kleine Personen schwierig die oberen Teile des Screens zu lesen. Da in der Gestaltung auf dies keine Rücksicht genommen wurde, wird mit einem Druck auf ein Rollstuhl-Icon der Screen herunter gefahren. Für ältere Personen, die am unteren Rand lesen möchten, sich aber nicht mehr Bücken können gibt es keine Hilfe um die Gestaltung hoch zu stellen.
+Die Anordnung der Abfahrtszeiten zieht sich über ⅔ der Höhe des Screens dadurch wird es für Rollstuhlfahrende und kleine Personen schwierig die oberen Teile des Screens zu lesen. Da in der Gestaltung auf dies keine Rücksicht genommen wurde, wird mit einem Touch auf ein Rollstuhl-Icon der Screen herunter gefahren. Für ältere Personen, die am unteren Rand lesen möchten, sich aber nicht mehr Bücken können, gibt es keine Hilfe um die Gestaltung hoch zu stellen.
 
 <div class="grid">
   <div class="col-4">
@@ -165,12 +165,12 @@ Der Home-Button ist rot unterlegt und mit einem Haus markiert. Die Symbolik und 
 <br>
 
 # Redesign
-Die Analyse, Betrachtung vor Ort und das Redesign des Panels erfolgte innert 8 Schullektionen. Somit blieb für die einzelnen Schritte nicht viel Zeit. Nachdem in der Klasse die Analyse des bestehenden Panels gemacht wurde, wurde folgender Zeitplan für den Rest des Tages eingehalten:
+Die Betrachtung vor Ort, Analyse und das Redesign des Panels erfolgte innert 8 Schullektionen. Somit blieb für die einzelnen Schritte nicht viel Zeit. Nachdem in der Klasse die Analyse des bestehenden Panels erfolgte, wurde folgender Zeitplan für den Rest des Tages eingehalten:
 
 * Paper-Prototype (1h)
 * Austausch und Präsentation in Klasse (45min)
 * Entwurf (2:15h)
-* Präsentation in Klasse (1h)
+* Präsentation in der Klasse (1h)
 
 
 
@@ -206,7 +206,7 @@ Die Analyse, Betrachtung vor Ort und das Redesign des Panels erfolgte innert 8 S
 <br>
 
 ## Entwurf «Classic»
-Pascale, Natascha und Nicole haben eine sehr reduzierte und einfache Form für das Interface gewählt. Der Entwurf kann grafisch und puncto Interface mit wenigen Korrekturen zu einer sehr guten Lösung ausgebaut werden.
+Pascale, Natascha und Nicole haben eine sehr reduzierte und einfache Form für das Interface gewählt. Der Entwurf kann grafisch und puncto Interface mit wenigen Korrekturen zu einer guten Lösung ausgebaut werden.
 
 
 <div class="wide-grid bg">
@@ -223,7 +223,7 @@ Pascale, Natascha und Nicole haben eine sehr reduzierte und einfache Form für d
     <h4>Positives</h4>
     <ul>
       <li>Lesbarkeit des Panels gegeben.</li>
-      <li>Klarer Aufbau zwischen Navigation (touch) und Informationsanzeige</li>
+      <li>Klarer Aufbau zwischen Navigation (Touch) und Informationsanzeige</li>
       <li>Aktuelle Zeit ergibt sichtbarer Ausschnitt des Tages</li>
     </ul>
     <h4>Inputs/Verbessern</h4>
@@ -243,7 +243,7 @@ Pascale, Natascha und Nicole haben eine sehr reduzierte und einfache Form für d
   <div class="col-7">
     <figure class="border">
       <img src="img/gruppen/gruppe_a_abgabe.jpg" alt="test">
-      <figcaption>Der Entwurf ist leicht verständlich und aufs wesentliche reduziert.</figcaption>
+      <figcaption>Der Entwurf ist leicht verständlich und auf das wesentliche reduziert.</figcaption>
     </figure>
   </div>
   <div class="col-5">
@@ -256,10 +256,10 @@ Pascale, Natascha und Nicole haben eine sehr reduzierte und einfache Form für d
     <h4>Inputs/Verbessern</h4>
     <ul>
       <li>Die Schriftgrösse der Züge ist zu klein</li>
-      <li>Eine Zeitmarke, wo die aktuell Zeit gerade steht würde helfen</li>
-      <li>Funktion der grauen Fläche links müsste noch geprüft werden.</li>
-      <li>Button (Haus- & Rollsthul-Icon) haben die selbe Erscheinung wie Status-Wahl (10 Uhr). Verschiedene Funktion, verschiedene Erscheinung.</li>
-      <li>Die Wahl der Uhrzeit links ist eher schwer zu erkennen, dass es sich um Uhrzeiten handelt.</li>
+      <li>Eine Zeitmarke, wo die aktuell Zeit gerade steht, würde helfen</li>
+      <li>Funktion der grauen Fläche (links) müsste noch geprüft werden.</li>
+      <li>Button (Haus- & Rollsthul-Icon) haben die selbe Erscheinung wie Statuswahl (10 Uhr). Verschiedene Funktion, verschiedene Erscheinung.</li>
+      <li>Bei der Wahl der Uhrzeit links ist es eher schwer zu erkennen, dass es sich um Uhrzeiten handelt.</li>
       <li>Die beiden Spalten sind eher eng beieinander.</li>
     </ul>
     <h4>Übersicht</h4>
@@ -288,14 +288,14 @@ Wolfgang, Nils, Nadia und Lars haben einen Entwurf erarbeitet, bei dem die Wahl 
   <div class="col-7">
     <figure>
       <img src="img/gruppen/IMG_6425.jpg" alt="test">
-      <figcaption>Paper-Prototype zeigt, dass die Navigation in der Zeit das Hauptthema ist.</figcaption>
+      <figcaption>Paper-Prototype zeigt, dass die Navigation durch die Zeit das Hauptthema ist.</figcaption>
     </figure>
   </div>
   <div class="col-5">
     <h4>Positives</h4>
     <ul>
       <li>Lesbarkeit des Panels gegeben. </li>
-      <li>Klarer Aufbau zwischen Navigation (touch) und Informationsanzeige.</li>
+      <li>Klarer Aufbau zwischen Navigation (Touch) und Informationsanzeige.</li>
       <li>Scrolling in der Zeit klarer von Zeitwahl unterscheiden.</li>
     </ul>
     <h4>Inputs/Verbessern</h4>
@@ -330,8 +330,8 @@ Wolfgang, Nils, Nadia und Lars haben einen Entwurf erarbeitet, bei dem die Wahl 
     <ul>
       <li>Die Schriftgrösse der Züge ist zu klein</li>
       <li>Es gibt Blau, was als Status benutzt wird (bei DE) aber auch als Button (Rollsthul-Icon und Pfeile). Verschiedene Funktion, verschiedene Erscheinung.</li>
-      <li>Der nächste Zug, der fährt ist ersichtlich anhand der «Legende». Diese Markierung könnte man verstärken, dass glar wird alle über der Legende sind bereits gefahren.</li>
-      <li>Zeichenerklärung sollte allenfalls bei den Zügen integriert werden (Informationserschliessung über Touch)</li>
+      <li>Der nächste abfahrende Zug ist ersichtlich anhand der «Legende». Diese Markierung könnte man so verstärken, dass klar wird alle über der Legende sind bereits gefahren.</li>
+      <li>Zeichenerklärung sollte allenfals bei den Zügen integriert werden (Informationserschliessung über Touch)</li>
     </ul>
     <h4>Übersicht</h4>
     <p>
@@ -350,7 +350,7 @@ Wolfgang, Nils, Nadia und Lars haben einen Entwurf erarbeitet, bei dem die Wahl 
 <br>
 
 ## Entwurf «Slide»
-Stephanie, Matthias und Marc haben einen Entwurf erarbeitet, in der die Zeitnavigation klar hinter der Information zurück tritt. Die ursprüngliche Idee Vormittag und Nachmittag zu trennen wurde im ausgearbeiteten Entwurf zu gunsten der Benutzerführung verworfen.
+Stephanie, Matthias und Marc haben einen Entwurf erarbeitet, in der die Zeitnavigation hinter die Information zurück tritt. Die ursprüngliche Idee, Vormittag und Nachmittag zu trennen, wurde im ausgearbeiteten Entwurf zu gunsten der Benutzerführung verworfen.
 
 
 <div class="wide-grid bg">
@@ -393,16 +393,16 @@ Stephanie, Matthias und Marc haben einen Entwurf erarbeitet, in der die Zeitnavi
   <div class="col-5">
     <h4>Positives</h4>
     <ul>
-      <li>Eine Zeitmarke, wo die aktuell Zeit gerade steht würde helfen</li>
+      <li>Eine Zeitmarke, wo die aktuell Zeit gerade steht, würde helfen</li>
       <li>Vertraute Elemente vom Interface-Design wurden verwendet. </li>
       <li>Informationserschliessung über +-Symbol erweiterbar.</li>
     </ul>
     <h4>Inputs/Verbessern</h4>
     <ul>
       <li>Die Schriftgrösse der Züge ist zu klein</li>
-      <li>Die Zeitwahl ist in der Höhe verteilt dadurch erschwert man die Bedienung für kleinere Menschen.</li>
-      <li>Für die Zeitwahl abweichend von Jetzt müssen unter umständen viele Touches gemacht werden.</li>
-      <li>Sprachwahl und Schriftgrösse für kleinere Menschen nicht zu erreichen. «Rollsthul-Modus wohl» für viele Personen.</li>
+      <li>Die Zeitwahl ist in der Höhe verteilt; dadurch erschwert man die Bedienung für kleinere Menschen.</li>
+      <li>Für die Zeitwahl abweichend von «Jetzt» müssen unter umständen viele Touches gemacht werden.</li>
+      <li>Sprachwahl und Schriftgrösse für kleinere Menschen nicht zu erreichen. «Rollsthul-Modus» wohl für viele Personen die einzige Möglichkeit.</li>
     </ul>
     <h4>Übersicht</h4>
     <p>
@@ -424,7 +424,7 @@ Stephanie, Matthias und Marc haben einen Entwurf erarbeitet, in der die Zeitnavi
 <br>
 
 ## Entwurf «One-Touch»
-Tioe, Severin und Marius haben durch eine geschickte Aufteilung der Zeit eine sehr klare Führung über die Zeit erreicht. Die Anzeige der Information wurde an die anderen Info-Screens im Zugsverkehr angelehnt.
+Tioe, Severin und Marius haben durch eine geschickte Aufteilung des Tages eine sehr klare Führung über die Zeit erreicht. Die Anzeige der Information wurde an die anderen Info-Screens im Zugsverkehr angelehnt.
 
 
 <div class="wide-grid bg">
@@ -447,7 +447,7 @@ Tioe, Severin und Marius haben durch eine geschickte Aufteilung der Zeit eine se
     </ul>
     <h4>Inputs/Verbessern</h4>
     <ul>
-      <li>Eine Zeitmarke, wo die aktuell Zeit gerade steht würde helfen.</li>
+      <li>Eine Zeitmarke, wo die aktuell Zeit gerade steht, würde helfen.</li>
       <li>Können vielleicht noch mehr Informationen erschlossen werden?</li>
     </ul>
   </div>
@@ -470,7 +470,7 @@ Tioe, Severin und Marius haben durch eine geschickte Aufteilung der Zeit eine se
       <li>Typografie der Züge eher klein.</li>
       <li>Information und Interaktion sind optisch gut getrennt.</li>
       <li>Es gibt ein Haupt-Interface (Zeitwahl) und dieses wurde sehr klar gestaltet.</li>
-      <li>Das Blau der sonstigen Anzeige im Bahnhof für Info-Displays wurde übernommen.</li>
+      <li>Das Blau für Info-Displays der sonstigen Anzeigen im Bahnhof wurde übernommen.</li>
     </ul>
     <h4>Inputs/Verbessern</h4>
     <ul>
