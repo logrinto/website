@@ -215,22 +215,22 @@ Pascale, Natascha und Nicole haben eine sehr reduzierte und einfache Form für d
   </div>
   <div class="col-7">
     <figure>
-      <img src="img/gruppen/IMG_7891.jpg" alt="test">
-      <figcaption>Paper-Prototype zeigt schon klar die Aufteilung von Navigation und Anzeige.</figcaption>
+      <img src="img/gruppen/IMG_0149.jpg" alt="test">
+      <figcaption>Paper-Prototype ist noch in einem sehr rohen Zustand.</figcaption>
     </figure>
   </div>
   <div class="col-5">
     <h4>Positives</h4>
     <ul>
-      <li>Lesbarkeit des Panels gegeben.</li>
-      <li>Klarer Aufbau zwischen Navigation (Touch) und Informationsanzeige</li>
-      <li>Aktuelle Zeit ergibt sichtbarer Ausschnitt des Tages</li>
+      <li>Aktuelle Zeit gleich ersichtlich.</li>
+      <li>Wenige Interface-Elemente die verwirren.</li>
+      <li>Einschränkungen im Schienensystem gut ersichtlich.</li>
     </ul>
     <h4>Inputs/Verbessern</h4>
     <ul>
-      <li>Touch-Flächen sind teilweise eher klein.</li>
-      <li>Einsatz von Farben noch einmal überlegen. Rot mehrfach belegt für ganz verschiedene Dinge.</li>
-      <li>Home-Button an der richtigen Stelle?</li>
+      <li>Eine Auswahl der Zeit einige Stunden später ist eher schwer möglich.</li>
+      <li>Die Aufteilung der zwei Spalten müsste man noch einmal prüfen.</li>
+      <li>Schrift ist eher klein.</li>
     </ul>
   </div>
 </div>
@@ -360,7 +360,7 @@ Stephanie, Matthias und Marc haben einen Entwurf erarbeitet, in der die Zeitnavi
   <div class="col-7">
     <figure>
       <img src="img/gruppen/IMG_2905.jpg" alt="test">
-      <figcaption></figcaption>
+      <figcaption>Der Paper-Prototype hat noch eine Aufteilung des Tages (Zeit) in zwei Spalten.</figcaption>
     </figure>
   </div>
   <div class="col-5">
@@ -387,7 +387,7 @@ Stephanie, Matthias und Marc haben einen Entwurf erarbeitet, in der die Zeitnavi
   <div class="col-7">
     <figure class="border">
       <img src="img/gruppen/gruppe_c_abgabe.jpg" alt="test">
-      <figcaption></figcaption>
+      <figcaption>Der Entwurf kann mit wenigen Korrekturen zu einem tollen Panel ausgebaut werden.</figcaption>
     </figure>
   </div>
   <div class="col-5">
@@ -434,7 +434,7 @@ Tioe, Severin und Marius haben durch eine geschickte Aufteilung des Tages eine s
   <div class="col-7">
     <figure>
       <img src="img/gruppen/IMG_0011.jpg" alt="test">
-      <figcaption></figcaption>
+      <figcaption>Die Aufteilung des Tages in vier «Tageszeiten» ist im Paper-Prototye bereits ersichtlich.</figcaption>
     </figure>
   </div>
   <div class="col-5">
@@ -461,7 +461,7 @@ Tioe, Severin und Marius haben durch eine geschickte Aufteilung des Tages eine s
   <div class="col-7">
     <figure class="border">
       <img src="img/gruppen/gruppe_d_abgabe.jpg" alt="test">
-      <figcaption></figcaption>
+      <figcaption>Der fertige Entwruf führt den Benutzer über die klare Zeitnavigation schnell zu den gewünschten Abfahrtszeiten.</figcaption>
     </figure>
   </div>
   <div class="col-5">
