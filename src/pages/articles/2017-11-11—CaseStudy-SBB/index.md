@@ -268,7 +268,6 @@ Pascale, Natascha und Nicole haben eine sehr reduzierte und einfache Form für d
       ★★★★☆ – Inhaltliche Struktur<br>
       ★★★<span class="star half">☆</span>☆ – Interaktion/Führung<br>
       ★★★★☆ – Grafisches Konzept<br>
-      Note: 4.85<br>
     </p>
   </div>
 </div>
@@ -339,7 +338,6 @@ Wolfgang, Nils, Nadia und Lars haben einen Entwurf erarbeitet, bei dem die Wahl 
       ★★★★☆ – Inhaltliche Struktur<br>
       ★★★★☆ – Interaktion/Führung<br>
       ★★★★☆ – Grafisches Konzept<br>
-      Note: 5.1<br>
     </p>
   </div>
 </div>
@@ -410,7 +408,6 @@ Stephanie, Matthias und Marc haben einen Entwurf erarbeitet, in der die Zeitnavi
       ★★★☆☆ – Inhaltliche Struktur<br>
       ★★★<span class="star half">☆</span>☆ – Interaktion/Führung<br>
       ★★★★☆ – Grafisches Konzept<br>
-      Note: 4.75<br>
     </p>
   </div>
 </div>
@@ -484,7 +481,6 @@ Tioe, Severin und Marius haben durch eine geschickte Aufteilung des Tages eine s
       ★★★★<span class="star half">☆</span> – Inhaltliche Struktur<br>
       ★★★★<span class="star half">☆</span> – Interaktion/Führung<br>
       ★★★<span class="star half">☆</span>☆ – Grafisches Konzept<br>
-      Note: 5.25<br>
     </p>
   </div>
 </div>
