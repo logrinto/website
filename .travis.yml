@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-  - "6"
+  - "8"
 install:
   - npm install
 script:
@@ -12,3 +12,6 @@ env:
   - DEPLOY_DIR: "public"
   - SOURCE_BRANCH: "master"
   - TARGET_BRANCH: "gh-pages"
+branches:
+  only:
+  - master
