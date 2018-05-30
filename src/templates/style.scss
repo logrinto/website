@@ -31,21 +31,21 @@ h1.page__title {
 .content,
 .sidebar {
   margin-top: 5rem;
-  @include col(12);
+  @include col(1 to 12);
 }
 
 
 @include mediaQuery($min, $tablet) {
 
   .content {
-      @include col(8);
+      @include col(1 to 8);
       &__inner {
           // padding: 30px 20px;
       }
   }
 
   .sidebar {
-      @include col(4);
+      @include col(5 to 12);
       &__inner {
           // padding: 30px 20px 0;
           &:before {
@@ -65,13 +65,13 @@ h1.page__title {
 
 @include mediaQuery($min, $desktop) {
     .content {
-        @include col(8);
+        @include col(1 to 8);
         &__inner {
             // padding: 40px 35px;
         }
     }
     .sidebar {
-        @include col(4);
+        @include col(9 to 12);
         &__inner {
             // padding: 40px;
         }
