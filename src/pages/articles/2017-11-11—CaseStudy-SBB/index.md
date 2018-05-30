@@ -19,13 +19,13 @@ description: "In einem eintägigen Workshop wurde ein bestehendes Touch Panel f�
 ## Ausgangslage – Konventionelle Anzeige
 
 <div class="wide-grid bg">
-  <div class="col-8">
+  <div class="col-1to8">
     <figure>
       <img src="img/20171111_084024.jpg" alt="test">
     	<figcaption>Abfahrtszeiten als Plakate</figcaption>
     </figure>
   </div>
-  <div class="col-4">
+  <div class="col-9to12">
     <figure>
       <img src="img/20171111_083648.jpg" alt="test">
       <figcaption>Abfahrtszeiten als Screen ohne Interaktion</figcaption>
@@ -59,13 +59,13 @@ In der Klasse wurden nachfolgende Bedürfnisse zusammengetragen. Diese lassen si
 
 
 <div class="wide-grid bg">
-  <div class="col-6">
+  <div class="col-1to6">
     <figure>
       <img src="img/impressions/IMG_3921.jpg" alt="test">
       <figcaption></figcaption>
     </figure>
   </div>
-  <div class="col-6">
+  <div class="col-7to12">
     <figure>
       <img src="img/impressions/IMG_9672.jpg" alt="test">
       <figcaption></figcaption>
@@ -75,7 +75,7 @@ In der Klasse wurden nachfolgende Bedürfnisse zusammengetragen. Diese lassen si
 
 
 <div class="grid">
-  <div class="col-4">
+  <div class="col-1to4">
     <h4>Zielgruppen/Persona</h4>
     <ul>
       <li>Personen mit Informationsbedürfins</li>
@@ -87,7 +87,7 @@ In der Klasse wurden nachfolgende Bedürfnisse zusammengetragen. Diese lassen si
       <li>Verschiedene Personen haben verschiedene Ansprüche an die Informationstiefe</li>
     </ul>
   </div>
-  <div class="col-4">
+  <div class="col-5to8">
     <h4>Informationsbedarf</h4>
     <ul>
       <li>Abfartszeiten</li>
@@ -108,13 +108,13 @@ In der Klasse wurden nachfolgende Bedürfnisse zusammengetragen. Diese lassen si
 Die nachfolgende Analyse und die daraus erarbeiteten Vorschläge der Studenten beziehen sich lediglich auf den Teil der Abfahrtszeiten. Da es sich dabei wohl um einer der am häufigst benutzten Teile handeln dürfe, kann eine Interaktion von Vorteil sein.
 
 <div class="wide-grid bg">
-  <div class="col-7">
+  <div class="col-1to7">
     <figure>
       <img src="img/panel_lupe_IMG_2161.jpg" alt="test">
       <figcaption>Die Schriftgrösse auf dem Panel ist zu klein für die Auflösung des Screens und kann kaum gelesen werden. Mit einer «Lupe» kann man sich einzelne Teile vergrössert darstellen. </figcaption>
     </figure>
   </div>
-  <div class="col-5">
+  <div class="col-8to12">
     <figure>
       <img src="img/poster.jpg" alt="test">
       <figcaption>Das Poster (hier in der Abbildung) diente ganz offensichtlich dem Screendesign als Vorlage</figcaption>
@@ -143,13 +143,13 @@ Die Lupe verdeckt durch ihre eigene Grösse sehr viel Text. Eine Navigation inne
 Die Anordnung der Abfahrtszeiten zieht sich über ⅔ der Höhe des Screens dadurch wird es für Rollstuhlfahrende und kleine Personen schwierig die oberen Teile des Screens zu lesen. Da in der Gestaltung auf dies keine Rücksicht genommen wurde, wird mit einem Touch auf ein Rollstuhl-Icon der Screen herunter gefahren. Für ältere Personen, die am unteren Rand lesen möchten, sich aber nicht mehr Bücken können, gibt es keine Hilfe um die Gestaltung hoch zu stellen.
 
 <div class="grid">
-  <div class="col-4">
+  <div class="col-1to4">
     <figure>
       <img src="img/panel_lupe_IMG_2161.jpg" alt="test">
       <figcaption>Normale Ansicht</figcaption>
     </figure>
   </div>
-  <div class="col-4">
+  <div class="col-5to8">
     <figure>
       <img src="img/panel_IMG_0980.jpg" alt="test">
       <figcaption>«Rollstuhl-Modus»</figcaption>
@@ -175,25 +175,25 @@ Die Betrachtung vor Ort, Analyse und das Redesign des Panels erfolgte innert 8 S
 
 
 <div class="wide-grid bg">
-  <div class="col-3">
+  <div class="col-1to3">
     <figure>
       <img src="img/impressions/IMG_2800.jpg" alt="test">
       <figcaption></figcaption>
     </figure>
   </div>
-  <div class="col-3">
+  <div class="col-4to6">
     <figure>
       <img src="img/impressions/IMG_3396.jpg" alt="test">
       <figcaption></figcaption>
     </figure>
   </div>
-  <div class="col-3">
+  <div class="col-7to9">
     <figure>
       <img src="img/impressions/IMG_8841.jpg" alt="test">
       <figcaption></figcaption>
     </figure>
   </div>
-  <div class="col-3">
+  <div class="col-10to12">
     <figure>
       <img src="img/impressions/IMG_8927.jpg" alt="test">
       <figcaption></figcaption>
@@ -213,13 +213,13 @@ Pascale, Natascha und Nicole haben eine sehr reduzierte und einfache Form für d
   <div class="col-12">
     <h3>Prototype</h3>
   </div>
-  <div class="col-7">
+  <div class="col-1to7">
     <figure>
       <img src="img/gruppen/IMG_0149.jpg" alt="test">
       <figcaption>Paper-Prototype ist noch in einem sehr rohen Zustand.</figcaption>
     </figure>
   </div>
-  <div class="col-5">
+  <div class="col-8to12">
     <h4>Positives</h4>
     <ul>
       <li>Aktuelle Zeit gleich ersichtlich.</li>
@@ -240,13 +240,13 @@ Pascale, Natascha und Nicole haben eine sehr reduzierte und einfache Form für d
   <div class="col-12">
     <h3>Entwurf</h3>
   </div>
-  <div class="col-7">
+  <div class="col-1to7">
     <figure class="border">
       <img src="img/gruppen/gruppe_a_abgabe.jpg" alt="test">
       <figcaption>Der Entwurf ist leicht verständlich und auf das wesentliche reduziert.</figcaption>
     </figure>
   </div>
-  <div class="col-5">
+  <div class="col-8to12">
     <h4>Positives</h4>
     <ul>
       <li>Schnelle Stundenwahl</li>
@@ -284,13 +284,13 @@ Wolfgang, Nils, Nadia und Lars haben einen Entwurf erarbeitet, bei dem die Wahl 
   <div class="col-12">
     <h3>Prototype</h3>
   </div>
-  <div class="col-7">
+  <div class="col-1to7">
     <figure>
       <img src="img/gruppen/IMG_6425.jpg" alt="test">
       <figcaption>Paper-Prototype zeigt, dass die Navigation durch die Zeit das Hauptthema ist.</figcaption>
     </figure>
   </div>
-  <div class="col-5">
+  <div class="col-8to12">
     <h4>Positives</h4>
     <ul>
       <li>Lesbarkeit des Panels gegeben. </li>
@@ -309,16 +309,16 @@ Wolfgang, Nils, Nadia und Lars haben einen Entwurf erarbeitet, bei dem die Wahl 
 
 
 <div class="wide-grid bg">
-  <div class="col-12">
+  <div class="col-1to12">
     <h3>Entwurf</h3>
   </div>
-  <div class="col-7">
+  <div class="col-1to7">
     <figure class="border">
       <img src="img/gruppen/gruppe_b_abgabe.jpg" alt="test">
       <figcaption>Der Entwurf fokussiert auf die aktuellen Abfahrtszeiten und ermöglicht eine gezielte Wahl der Anzeigezeit.</figcaption>
     </figure>
   </div>
-  <div class="col-5">
+  <div class="col-8to12">
     <h4>Positives</h4>    
     <ul>
       <li>Auffindbarkeit für Züge in den nächsten Minuten gegeben.</li>
@@ -352,16 +352,16 @@ Stephanie, Matthias und Marc haben einen Entwurf erarbeitet, in der die Zeitnavi
 
 
 <div class="wide-grid bg">
-  <div class="col-12">
+  <div class="col-1to12">
     <h3>Prototype</h3>
   </div>
-  <div class="col-7">
+  <div class="col-1to7">
     <figure>
       <img src="img/gruppen/IMG_2905.jpg" alt="test">
       <figcaption>Der Paper-Prototype hat noch eine Aufteilung des Tages (Zeit) in zwei Spalten.</figcaption>
     </figure>
   </div>
-  <div class="col-5">
+  <div class="col-8to12">
     <h4>Positives</h4>
     <ul>
       <li>Grosse Typografie, Lesbarkeit</li>
@@ -379,16 +379,16 @@ Stephanie, Matthias und Marc haben einen Entwurf erarbeitet, in der die Zeitnavi
 
 
 <div class="wide-grid bg">
-  <div class="col-12">
+  <div class="col-1to12">
     <h3>Entwurf</h3>
   </div>
-  <div class="col-7">
+  <div class="col-1to7">
     <figure class="border">
       <img src="img/gruppen/gruppe_c_abgabe.jpg" alt="test">
       <figcaption>Der Entwurf kann mit wenigen Korrekturen zu einem tollen Panel ausgebaut werden.</figcaption>
     </figure>
   </div>
-  <div class="col-5">
+  <div class="col-8to12">
     <h4>Positives</h4>
     <ul>
       <li>Eine Zeitmarke, wo die aktuell Zeit gerade steht, würde helfen</li>
@@ -425,16 +425,16 @@ Tioe, Severin und Marius haben durch eine geschickte Aufteilung des Tages eine s
 
 
 <div class="wide-grid bg">
-  <div class="col-12">
+  <div class="col-1to12">
     <h3>Prototype</h3>
   </div>
-  <div class="col-7">
+  <div class="col-1to7">
     <figure>
       <img src="img/gruppen/IMG_0011.jpg" alt="test">
       <figcaption>Die Aufteilung des Tages in vier «Tageszeiten» ist im Paper-Prototye bereits ersichtlich.</figcaption>
     </figure>
   </div>
-  <div class="col-5">
+  <div class="col-8to12">
     <h4>Positives</h4>
     <ul>
       <li>Klare Typografie und strukturierter Aufbau.</li>
@@ -452,16 +452,16 @@ Tioe, Severin und Marius haben durch eine geschickte Aufteilung des Tages eine s
 
 
 <div class="wide-grid bg">
-  <div class="col-12">
+  <div class="col-1to12">
     <h3>Entwurf</h3>
   </div>
-  <div class="col-7">
+  <div class="col-1to7">
     <figure class="border">
       <img src="img/gruppen/gruppe_d_abgabe.jpg" alt="test">
       <figcaption>Der fertige Entwruf führt den Benutzer über die klare Zeitnavigation schnell zu den gewünschten Abfahrtszeiten.</figcaption>
     </figure>
   </div>
-  <div class="col-5">
+  <div class="col-8to12">
     <h4>Positives</h4>
     <ul>
       <li>Typografie der Züge eher klein.</li>

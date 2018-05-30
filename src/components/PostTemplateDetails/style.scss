@@ -4,13 +4,10 @@ $layout-post-single-max-width: 945px;
 $layout-post-single-width: $layout-post-single-max-width - 305px;
 
 
-$columnW-tablet: 8;
-$columnL-tablet: 2;
+$columnW-tablet: 10;
+$columnL-tablet: 1;
 $picW-tablet: 4;
 
-$columnW-desktop: 9;
-$columnL-desktop: 1.5;
-$picW-desktop: 4;
 
 $columnW-wide-desktop: 8;
 $columnL-wide-desktop: 2;
@@ -18,27 +15,17 @@ $picW-wide-desktop: 4;
 
 .post-single {
 
+      @include col(1 to 12 of 12);
 
-    &__inner {
 
       @include mediaQuery($min, $tablet) {
-          width: span($columnW-tablet);
-          margin-left: span($columnL-tablet) + gutter(12);
-          margin-right: span($columnW-tablet - $columnL-tablet) + gutter(12);
+        @include col((1 + $columnL-tablet) to ($columnL-tablet + $columnW-tablet), $push: $columnL-tablet);
       }
 
-      @include mediaQuery($min, $desktop) {
-        width: span($columnW-desktop);
-        margin-left: span($columnL-desktop) + gutter(12);
-        margin-right: span($columnW-desktop - $columnL-desktop) + gutter(12);
-      }
 
       @include mediaQuery($min, $wide-desktop) {
-          width: span($columnW-wide-desktop);
-          margin-left: span(2) + gutter(12);
-          margin-right: span($columnW-wide-desktop - $columnL-wide-desktop) + gutter(12);
+        @include col((1 + $columnL-wide-desktop) to ($columnL-wide-desktop + $columnW-wide-desktop), $push: $columnL-wide-desktop);
       }
-    }
 
 
     .grid,
@@ -49,14 +36,7 @@ $picW-wide-desktop: 4;
           z-index: 900;
         }
 
-        // &.compact div[class^="col-"] {
-        //   & > h1:first-child,
-        //   & > h2:first-child,
-        //   & > h3:first-child,
-        //   & > h4:first-child {
-        //     margin-top: -.4em;
-        //   }
-        // }
+
 
         position: relative;
 
@@ -76,7 +56,8 @@ $picW-wide-desktop: 4;
             margin-left: -50vw;
 
             background-color: rgb(230,230,230);
-            margin-top: -1.7rem;
+            margin-top: 0rem;
+
             display: block;
           }
         }
@@ -84,37 +65,21 @@ $picW-wide-desktop: 4;
       }
     }
     .grid {
+      @include container(8);
+
+      div[class^="col-"] {
+        @include col(1 to 8 of 8);
+      }
 
       @include mediaQuery($min, $tablet) {
-        @include container($columnW-tablet);
 
+        div.col-1to4 {
+          @include col(1 to 4 of 8);
 
-        @for $i from 1 through $columnW-tablet {
-          .col-#{$i} {
-              @include col($i of $columnW-tablet);
-          }
         }
-      }
+        div.col-5to8 {
+          @include col(5 to 8 of 8);
 
-      @include mediaQuery($min, $desktop) {
-
-        @include container($columnW-desktop);
-
-        @for $i from 1 through $columnW-desktop {
-          .col-#{$i} {
-              @include col($i of $columnW-desktop);
-          }
-        }
-      }
-
-      @include mediaQuery($min, $wide-desktop) {
-
-        @include container($columnW-wide-desktop);
-
-        @for $i from 1 through $columnW-wide-desktop {
-          .col-#{$i} {
-              @include col($i of $columnW-wide-desktop);
-          }
         }
       }
 
@@ -122,38 +87,63 @@ $picW-wide-desktop: 4;
     }
 
     .wide-grid {
+      @include container(12);
+
+      div[class^="col-"] {
+        @include col(1 to 12);
+      }
 
 
+      div.col-1to3 {
+        @include col(1 to 3);
+      }
+      div.col-1to6 {
+        @include col(1 to 6);
+      }
+      div.col-1to7 {
+        @include col(1 to 7);
+      }
+      div.col-1to8 {
+        @include col(1 to 8);
+      }
+      div.col-7to12 {
+        @include col(7 to 12);
+      }
+      div.col-8to12 {
+        @include col(8 to 12);
+      }
+      div.col-9to12 {
+        @include col(9 to 12);
+      }
+
+      div.col-4to6 {
+        @include col(4 to 6);
+
+      }
+      div.col-7to9 {
+        @include col(7 to 9);
+
+      }
+
+      div.col-10to12 {
+        @include col(10 to 12);
+
+      }
+      div.col-1to12 {
+        @include col(1 to 12);
+      }
 
       @include mediaQuery($min, $tablet) {
-        @include container(12);
 
         margin-left: 0 - span($columnL-tablet of $columnW-tablet) - gutter($columnW-tablet);
         width: span(12 of $columnW-tablet);
       }
 
-      @include mediaQuery($min, $desktop) {
-        margin-left: 0 - span($columnL-desktop of $columnW-desktop) - gutter($columnW-desktop);
-        width: span(12 of $columnW-desktop);
-
-      }
       @include mediaQuery($min, $wide-desktop) {
         margin-left: 0 - span($columnL-wide-desktop of $columnW-wide-desktop) - gutter($columnW-wide-desktop);
         width: span(12 of $columnW-wide-desktop);
 
       }
-
-
-      @include mediaQuery($min, $tablet) {
-
-                @for $i from 1 through 12 {
-                  .col-#{$i} {
-                      @include col($i of 12);
-                  }
-                }
-
-      }
-
 
     }
 
@@ -168,10 +158,6 @@ $picW-wide-desktop: 4;
           width: span($picW-tablet of $columnW-tablet);
         }
 
-        @include mediaQuery($min, $desktop) {
-          width: span($picW-desktop of $columnW-desktop);
-
-        }
         @include mediaQuery($min, $wide-desktop) {
           width: span($picW-wide-desktop of $columnW-wide-desktop);
         }
@@ -188,10 +174,6 @@ $picW-wide-desktop: 4;
 
               }
 
-              @include mediaQuery($min, $desktop) {
-                padding-left: gutter($columnW-desktop);
-                margin-right: 0 - span(1 of $columnW-desktop) - gutter($columnW-desktop);
-              }
 
               @include mediaQuery($min, $wide-desktop) {
                 padding-left: gutter($columnW-wide-desktop);
@@ -206,11 +188,6 @@ $picW-wide-desktop: 4;
                   margin-left: 0 - span(1 of $columnW-tablet) - gutter($columnW-tablet);
               }
 
-              @include mediaQuery($min, $desktop) {
-                padding-right: gutter($columnW-desktop);
-                margin-left: 0 - span(1 of $columnW-desktop) - gutter($columnW-desktop);
-
-              }
               @include mediaQuery($min, $wide-desktop) {
                 padding-right: gutter($columnW-wide-desktop);
                 margin-left: 0 - span(1 of $columnW-wide-desktop) - gutter($columnW-wide-desktop);

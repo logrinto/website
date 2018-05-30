@@ -26,6 +26,7 @@
   "author": "Stefan Huber <sh@signalwerk.ch>",
   "license": "MIT",
   "dependencies": {
+    "flegrix": "^0.1.11",
     "gatsby": "^1.8.12",
     "gatsby-image": "^1.0.31",
     "gatsby-link": "^1.6.8",
@@ -57,7 +58,6 @@
     "eslint-plugin-jsx-a11y": "^2.2.3",
     "eslint-plugin-react": "^6.8.0",
     "file-loader": "^0.10.0",
-    "flegrix": "0.1.9",
     "gh-pages": "^0.12.0",
     "postcss-pxtorem": "^4.0.1"
   }
