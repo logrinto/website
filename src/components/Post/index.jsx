@@ -1,13 +1,13 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import Link from 'gatsby-link';
-import moment from 'moment';
-import Img from 'gatsby-image';
-import './style.scss';
+import React from "react";
+import PropTypes from "prop-types";
+import Link from "gatsby-link";
+import moment from "moment";
+import Img from "gatsby-image";
+import "./style.scss";
 
 class Post extends React.Component {
   render() {
-    const data = this.props.data;
+    const { data } = this.props;
     const post = {
       title: data.node.frontmatter.title,
       slug: data.node.fields.slug,
@@ -20,7 +20,6 @@ class Post extends React.Component {
 
     return (
       <div className="post">
-
         <Link to={post.slug}>
           <h2 className="post__title">
             <span className="post__title-link">{post.title}</span>
@@ -28,27 +27,31 @@ class Post extends React.Component {
         </Link>
 
         <div className="post__meta">
-          <time className="post__meta-time" dateTime={moment(post.date).format('MMMM D, YYYY')}>
-            {moment(post.date).format('MMMM YYYY')}
+          <time className="post__meta-time" dateTime={moment(post.date).format("MMMM D, YYYY")}>
+            {moment(post.date).format("MMMM YYYY")}
           </time>
           <span className="post__meta-divider" />
           {/* <Link to={post.categorySlug}> */}
-            <span className="post__meta-category" key={post.categorySlug}>
-              {post.category}
-            </span>
+          <span className="post__meta-category" key={post.categorySlug}>
+            {post.category}
+          </span>
           {/* </Link> */}
         </div>
 
-        {post.featuredImage && (<Link to={post.slug}>
-          <div className="post__img">
-            <Img sizes={post.featuredImage.childImageSharp.sizes} fadeIn={false} />
-          </div>
-        </Link>)}
+        {post.featuredImage && (
+          <Link to={post.slug}>
+            <div className="post__img">
+              <Img sizes={post.featuredImage.childImageSharp.sizes} fadeIn={false} />
+            </div>
+          </Link>
+        )}
 
         <div className="post__description">
           <p>{post.description}</p>
         </div>
-        <Link className="post__readmore" to={post.slug}>→ Weiterlesen</Link>
+        <Link className="post__readmore" to={post.slug}>
+          → Weiterlesen
+        </Link>
       </div>
     );
   }
@@ -60,6 +63,7 @@ Post.propTypes = {
 
 export default Post;
 
+//eslint-disable-next-line no-undef
 export const postFragment = graphql`
   fragment postFragment on MarkdownRemark {
     fields {
@@ -73,10 +77,10 @@ export const postFragment = graphql`
       description
 
       featuredImage {
-        childImageSharp{
-            sizes(maxWidth: 800) {
-              ...GatsbyImageSharpSizes
-            }
+        childImageSharp {
+          sizes(maxWidth: 800) {
+            ...GatsbyImageSharpSizes
+          }
         }
       }
     }

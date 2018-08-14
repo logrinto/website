@@ -1,7 +1,7 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import Menu from '../Menu';
-import './style.scss';
+import React from "react";
+import PropTypes from "prop-types";
+import Menu from "../Menu";
+import "./style.scss";
 
 // <svg width="24" height="12" viewBox="0 0 24 12" >
 //   <title>icon-menu icon</title>
@@ -9,12 +9,11 @@ import './style.scss';
 // </svg>
 
 class Navigation extends React.Component {
-
   state = { open: false };
 
   onItemClick = () => {
     this.setState({ open: !this.state.open });
-  }
+  };
 
   render = () => {
     const { menu } = this.props.data.site.siteMetadata;
@@ -22,8 +21,7 @@ class Navigation extends React.Component {
     return (
       <div className="navigation">
         <div className="navigation__inner">
-
-          <div className={`navigation__menu ${this.state.open ? 'open' : 'close'}`}>
+          <div className={`navigation__menu ${this.state.open ? "open" : "close"}`}>
             <div>
               <Menu data={menu} />
             </div>
@@ -36,15 +34,14 @@ class Navigation extends React.Component {
             aria-expanded="true"
             aria-label="Menu"
           >
-            <span className={`navigation__hamburger ${this.state.open ? 'open' : 'close'}`}>
+            <span className={`navigation__hamburger ${this.state.open ? "open" : "close"}`}>
               <span className="navigation__label">Hauptmenü</span>
             </span>
           </button>
-
         </div>
       </div>
     );
-  }
+  };
 }
 
 Navigation.propTypes = {
@@ -59,6 +56,7 @@ Navigation.propTypes = {
 
 export default Navigation;
 
+//eslint-disable-next-line no-undef
 export const navigationFragment = graphql`
   fragment navigationFragment on Site {
     siteMetadata {

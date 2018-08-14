@@ -1,20 +1,17 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import Helmet from 'react-helmet';
-import Post from '../components/Post';
-import Navigation from '../components/Navigation';
-import Sidebar from '../components/Sidebar';
+import React from "react";
+import PropTypes from "prop-types";
+import Helmet from "react-helmet";
+import Post from "../components/Post";
+import Navigation from "../components/Navigation";
+import Sidebar from "../components/Sidebar";
 
 class IndexRoute extends React.Component {
-
   render() {
     const items = [];
     const { title, subtitle } = this.props.data.site.siteMetadata;
     const posts = this.props.data.allMarkdownRemark.edges;
-    posts.forEach((post) => {
-      items.push(
-        <Post data={post} key={post.node.fields.slug} />
-      );
+    posts.forEach(post => {
+      items.push(<Post data={post} key={post.node.fields.slug} />);
     });
 
     return (
@@ -26,9 +23,7 @@ class IndexRoute extends React.Component {
           </Helmet>
           <Navigation {...this.props} />
           <div className="content">
-            <div className="content__inner">
-              {items}
-            </div>
+            <div className="content__inner">{items}</div>
           </div>
           <Sidebar {...this.props} />
         </div>
@@ -53,7 +48,7 @@ IndexRoute.propTypes = {
 
 export default IndexRoute;
 
-
+//eslint-disable-next-line no-undef
 export const pageQuery = graphql`
   query IndexQuery {
     site {
@@ -65,10 +60,10 @@ export const pageQuery = graphql`
       ...sidebarFragment
     }
     allMarkdownRemark(
-        limit: 1000,
-        filter: { frontmatter: { layout: { eq: "post" }, draft: { ne: true } } },
-        sort: { order: DESC, fields: [frontmatter___date] }
-      ){
+      limit: 1000
+      filter: { frontmatter: { layout: { eq: "post" }, draft: { ne: true } } }
+      sort: { order: DESC, fields: [frontmatter___date] }
+    ) {
       edges {
         node {
           ...postFragment

@@ -1,10 +1,10 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import Helmet from 'react-helmet';
-import Navigation from '../components/Navigation';
-import Sidebar from '../components/Sidebar';
-import CategoryTemplateDetails from '../components/CategoryTemplateDetails';
-import './style.scss';
+import React from "react";
+import PropTypes from "prop-types";
+import Helmet from "react-helmet";
+import Navigation from "../components/Navigation";
+import Sidebar from "../components/Sidebar";
+import CategoryTemplateDetails from "../components/CategoryTemplateDetails";
+import "./style.scss";
 
 class CategoryTemplate extends React.Component {
   render() {
@@ -39,6 +39,7 @@ CategoryTemplate.propTypes = {
 
 export default CategoryTemplate;
 
+//eslint-disable-next-line no-undef
 export const pageQuery = graphql`
   query CategoryPage($category: String) {
     site {
@@ -49,10 +50,12 @@ export const pageQuery = graphql`
       ...sidebarFragment
     }
     allMarkdownRemark(
-        limit: 1000,
-        filter: { frontmatter: { category: { eq: $category }, layout: { eq: "post" }, draft: { ne: true } } },
-        sort: { order: DESC, fields: [frontmatter___date] }
-      ){
+      limit: 1000
+      filter: {
+        frontmatter: { category: { eq: $category }, layout: { eq: "post" }, draft: { ne: true } }
+      }
+      sort: { order: DESC, fields: [frontmatter___date] }
+    ) {
       edges {
         node {
           ...postFragment

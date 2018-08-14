@@ -1,8 +1,8 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import Helmet from 'react-helmet';
-import PostTemplateDetails from '../components/PostTemplateDetails';
-import './style.scss';
+import React from "react";
+import PropTypes from "prop-types";
+import Helmet from "react-helmet";
+import PostTemplateDetails from "../components/PostTemplateDetails";
+import "./style.scss";
 
 class PostTemplate extends React.Component {
   render() {
@@ -44,6 +44,7 @@ PostTemplate.propTypes = {
 
 export default PostTemplate;
 
+//eslint-disable-next-line no-undef
 export const pageQuery = graphql`
   query PostBySlug($slug: String!) {
     site {

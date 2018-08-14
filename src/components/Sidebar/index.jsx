@@ -70,7 +70,7 @@ Sidebar.propTypes = {
 
 export default Sidebar;
 
-
+//eslint-disable-next-line no-undef
 export const sidebarFragment = graphql`
   fragment sidebarFragment on Site {
     siteMetadata {

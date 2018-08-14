@@ -3,8 +3,6 @@
 $color-gray-border: gray;
 $color-white: white;
 
-
-
 // Layout
 .layout {
   max-width: 58rem;
@@ -15,7 +13,6 @@ $color-white: white;
   &__inner {
     @include container(12);
   }
-
 }
 
 h1.page__title {
@@ -24,9 +21,9 @@ h1.page__title {
 }
 
 .content {
-    &__inner {
-        // padding: 25px 20px;
-    }
+  &__inner {
+    // padding: 25px 20px;
+  }
 }
 .content,
 .sidebar {
@@ -34,46 +31,49 @@ h1.page__title {
   @include col(1 to 12);
 }
 
-
 @include mediaQuery($min, $tablet) {
-
   .content {
-      @include col(1 to 8);
-      &__inner {
-          // padding: 30px 20px;
-      }
+    @include col(1 to 8);
+    &__inner {
+      // padding: 30px 20px;
+    }
   }
 
   .sidebar {
-      @include col(5 to 12);
-      &__inner {
-          // padding: 30px 20px 0;
-          &:before {
-              background: $color-gray-border;
-              background: linear-gradient(to bottom, $color-gray-border 0%, $color-gray-border 48%, $color-white 100%);
-              position: absolute;
-              content: "";
-              width: 1px;
-              height: 540px;
-              top: 0px;
-              left: -10px;
-              bottom: 0;
-          }
+    @include col(5 to 12);
+    &__inner {
+      // padding: 30px 20px 0;
+      &:before {
+        background: $color-gray-border;
+        background: linear-gradient(
+          to bottom,
+          $color-gray-border 0%,
+          $color-gray-border 48%,
+          $color-white 100%
+        );
+        position: absolute;
+        content: "";
+        width: 1px;
+        height: 540px;
+        top: 0px;
+        left: -10px;
+        bottom: 0;
       }
+    }
   }
 }
 
 @include mediaQuery($min, $desktop) {
-    .content {
-        @include col(1 to 9);
-        &__inner {
-            // padding: 40px 35px;
-        }
+  .content {
+    @include col(1 to 9);
+    &__inner {
+      // padding: 40px 35px;
     }
-    .sidebar {
-        @include col(10 to 12);
-        &__inner {
-            // padding: 40px;
-        }
+  }
+  .sidebar {
+    @include col(10 to 12);
+    &__inner {
+      // padding: 40px;
     }
+  }
 }

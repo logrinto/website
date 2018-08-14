@@ -3,8 +3,10 @@
 
 $flegrix-grid: (
   // debug: true,
-  debug-container-column-midline: true, // draw column-midline in debug-mode → default: false
-  debug-container-gutter-midline: true, // draw gutter-midline in debug-mode → default: false
+    // draw column-midline in debug-mode → default: false
+    debug-container-column-midline: true,
+  // draw gutter-midline in debug-mode → default: false
+    debug-container-gutter-midline: true
 );
 
 @import "~flegrix/flegrix.scss";

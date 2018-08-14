@@ -1,10 +1,10 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import Helmet from 'react-helmet';
-import Navigation from '../components/Navigation';
-import Sidebar from '../components/Sidebar';
-import PageTemplateDetails from '../components/PageTemplateDetails';
-import './style.scss';
+import React from "react";
+import PropTypes from "prop-types";
+import Helmet from "react-helmet";
+import Navigation from "../components/Navigation";
+import Sidebar from "../components/Sidebar";
+import PageTemplateDetails from "../components/PageTemplateDetails";
+import "./style.scss";
 
 class PageTemplate extends React.Component {
   render() {
@@ -48,6 +48,7 @@ PageTemplate.propTypes = {
 
 export default PageTemplate;
 
+//eslint-disable-next-line no-undef
 export const pageQuery = graphql`
   query PageBySlug($slug: String!) {
     site {

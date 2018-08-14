@@ -1,6 +1,6 @@
-import React from 'react';
-import Navigation from '../components/Navigation';
-import Sidebar from '../components/Sidebar';
+import React from "react";
+import Navigation from "../components/Navigation";
+import Sidebar from "../components/Sidebar";
 
 class NotFoundRoute extends React.Component {
   render() {
@@ -26,6 +26,8 @@ class NotFoundRoute extends React.Component {
 }
 
 export default NotFoundRoute;
+
+//eslint-disable-next-line no-undef
 export const pageQuery = graphql`
   query NotFoundQuery {
     site {

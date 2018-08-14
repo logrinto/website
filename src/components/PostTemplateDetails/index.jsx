@@ -1,17 +1,16 @@
-import React from 'react';
-const _ = require('lodash');
-import PropTypes from 'prop-types';
-import Link from 'gatsby-link';
-import moment from 'moment';
-import 'moment/locale/de';  // without this like it didn't work
-import './style.scss';
+import React from "react";
+const _ = require("lodash");
+import PropTypes from "prop-types";
+import Link from "gatsby-link";
+import moment from "moment";
+import "moment/locale/de"; // without this like it didn't work
+import "./style.scss";
 
-moment.locale('de');
+moment.locale("de");
 
 class PostTemplateDetails extends React.Component {
   render() {
     const { subtitle, author } = this.props.data.site.siteMetadata;
-
 
     const post = this.props.data.markdownRemark;
     const words = post.wordCount.words;
@@ -26,19 +25,21 @@ class PostTemplateDetails extends React.Component {
 
     const homeBlock = (
       <div>
-        <Link className="post-single__home-button" to="/">Home</Link>
+        <Link className="post-single__home-button" to="/">
+          Home
+        </Link>
       </div>
     );
 
     const tagsBlock = (
       <ul className="post-single__tags-list">
-        {tags.map((tag, i) =>
+        {tags.map((tag, i) => (
           <li className="post-single__tags-list-item" key={tag}>
             <Link to={tag} className="post-single__tags-list-item-link">
               {post.frontmatter.tags[i]}
             </Link>
           </li>
-        )}
+        ))}
       </ul>
     );
 
@@ -47,11 +48,9 @@ class PostTemplateDetails extends React.Component {
 
     return (
       <div className="post-single">
-
         {homeBlock}
 
         <div className="post-single__inner">
-
           {/* <span className="post-single__category" key={categorySlug}>
             <Link to={categorySlug} className="post-single__category-link">
               {post.frontmatter.category}
@@ -59,13 +58,16 @@ class PostTemplateDetails extends React.Component {
           </span> */}
 
           <div className="post-single__meta">
-            <small>~{timeToRead && (timeToRead || 1)}&nbsp;min&nbsp;&nbsp;·&nbsp;&nbsp;{post.frontmatter.author}&nbsp;&nbsp;·&nbsp;&nbsp;{moment(post.frontmatter.date).format('DD. MMMM YYYY')}</small>
+            <small>
+              ~{timeToRead && (timeToRead || 1)}
+              &nbsp;min&nbsp;&nbsp;·&nbsp;&nbsp;
+              {post.frontmatter.author}
+              &nbsp;&nbsp;·&nbsp;&nbsp;
+              {moment(post.frontmatter.date).format("DD. MMMM YYYY")}
+            </small>
           </div>
 
-
-          <h1 className="post-single__title">
-            {post.frontmatter.title}
-          </h1>
+          <h1 className="post-single__title">{post.frontmatter.title}</h1>
 
           <div className="post-single__lead">
             <p>{post.frontmatter.description}</p>
@@ -104,7 +106,7 @@ PostTemplateDetails.propTypes = {
 
 export default PostTemplateDetails;
 
-
+//eslint-disable-next-line no-undef
 export const postTemplateDetailsFragment = graphql`
   fragment postTemplateDetailsFragment on Site {
     siteMetadata {
@@ -134,5 +136,4 @@ export const postTemplateDetailsFragment = graphql`
       words
     }
   }
-
 `;

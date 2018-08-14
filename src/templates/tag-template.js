@@ -1,10 +1,10 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import Helmet from 'react-helmet';
-import Navigation from '../components/Navigation';
-import Sidebar from '../components/Sidebar';
-import TagTemplateDetails from '../components/TagTemplateDetails';
-import './style.scss';
+import React from "react";
+import PropTypes from "prop-types";
+import Helmet from "react-helmet";
+import Navigation from "../components/Navigation";
+import Sidebar from "../components/Sidebar";
+import TagTemplateDetails from "../components/TagTemplateDetails";
+import "./style.scss";
 
 class TagTemplate extends React.Component {
   render() {
@@ -39,6 +39,7 @@ TagTemplate.propTypes = {
 
 export default TagTemplate;
 
+//eslint-disable-next-line no-undef
 export const pageQuery = graphql`
   query TagPage($tag: String) {
     site {
@@ -49,10 +50,10 @@ export const pageQuery = graphql`
       ...sidebarFragment
     }
     allMarkdownRemark(
-        limit: 1000,
-        filter: { frontmatter: { tags: { in: [$tag] }, layout: { eq: "post" }, draft: { ne: true } } },
-        sort: { order: DESC, fields: [frontmatter___date] }
-      ){
+      limit: 1000
+      filter: { frontmatter: { tags: { in: [$tag] }, layout: { eq: "post" }, draft: { ne: true } } }
+      sort: { order: DESC, fields: [frontmatter___date] }
+    ) {
       edges {
         node {
           ...postFragment
