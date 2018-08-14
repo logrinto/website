@@ -1,0 +1,2 @@
+webpackJsonp([0xe70826b53c04],{383:function(t,e){t.exports={data:{site:{siteMetadata:{menu:[{label:"Home",path:"/"},{label:"Über uns",path:"/ueber-uns/"},{label:"Kontakt",path:"/kontakt/"}],subtitle:"Blog zum Interaction Designer an der Schule für Gestaltung Zürich begleitet.",copyright:"CC-BY-SA 4.0",author:{name:"Logrinto",email:"info@logrinto.ch",instagram:"https://www.instagram.com/logrinto/",twitter:"https://twitter.com/logrinto",github:"https://github.com/logrinto/"}}}},pathContext:{}}}});
+//# sourceMappingURL=path---404-5d70b46410d41f66e0d7.js.map
