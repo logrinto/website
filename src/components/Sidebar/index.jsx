@@ -6,6 +6,16 @@ import Links from '../Links';
 import profilePic from '../../assets/img/logo/github_icon.svg';
 import './style.scss';
 
+/*
+  <Link to="/">
+    <img
+      src={profilePic}
+      className="sidebar__author-photo"
+      alt={author.name}
+    />
+  </Link>
+*/
+
 class Sidebar extends React.Component {
   render() {
     const { location } = this.props;
@@ -15,24 +25,14 @@ class Sidebar extends React.Component {
     /* eslint-disable jsx-a11y/img-redundant-alt*/
     const authorBlock = (
       <div>
-        { isHomePage ? (
+        { isHomePage && (
           <h1 className="sidebar__author-title">
             <Link className="sidebar__author-title-link" to="/">{author.name}</Link>
           </h1>
-        ) :
-          <h2 className="sidebar__author-title">
-            <Link className="sidebar__author-title-link" to="/">{author.name}</Link>
-          </h2>
+        )
         }
         <p className="sidebar__author-subtitle">{subtitle}</p>
-      
-        <Link to="/">
-          <img
-            src={profilePic}
-            className="sidebar__author-photo"
-            alt={author.name}
-          />
-        </Link>
+
       </div>
     );
     /* eslint-enable jsx-a11y/img-redundant-alt*/

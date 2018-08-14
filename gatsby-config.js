@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     url: 'https://logrinto.ch',
     title: 'Logrinto Blog',
-    subtitle: 'Blog der die Ausbildung zum Interaction Designer an der Schule für Gestaltung Zürich begleitet.',
+    subtitle: 'Blog zum Interaction Designer an der Schule für Gestaltung Zürich begleitet.',
     copyright: 'CC-BY-SA 4.0',
     menu: [
       {
