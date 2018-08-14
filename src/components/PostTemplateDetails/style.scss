@@ -3,97 +3,88 @@
 $layout-post-single-max-width: 945px;
 $layout-post-single-width: $layout-post-single-max-width - 305px;
 
-
 $columnW-tablet: 10;
 $columnL-tablet: 1;
 $picW-tablet: 4;
-
 
 $columnW-wide-desktop: 8;
 $columnL-wide-desktop: 2;
 $picW-wide-desktop: 4;
 
 .post-single {
+  @include col(1 to 12 of 12);
 
-      @include col(1 to 12 of 12);
+  @include mediaQuery($min, $tablet) {
+    @include col(
+      (1 + $columnL-tablet) to ($columnL-tablet + $columnW-tablet),
+      $push: $columnL-tablet
+    );
+  }
 
+  @include mediaQuery($min, $wide-desktop) {
+    @include col(
+      (1 + $columnL-wide-desktop) to ($columnL-wide-desktop + $columnW-wide-desktop),
+      $push: $columnL-wide-desktop
+    );
+  }
 
-      @include mediaQuery($min, $tablet) {
-        @include col((1 + $columnL-tablet) to ($columnL-tablet + $columnW-tablet), $push: $columnL-tablet);
+  .grid,
+  .wide-grid {
+    @include mediaQuery($min, $tablet) {
+      div[class^="col-"] {
+        z-index: 900;
       }
 
+      position: relative;
 
-      @include mediaQuery($min, $wide-desktop) {
-        @include col((1 + $columnL-wide-desktop) to ($columnL-wide-desktop + $columnW-wide-desktop), $push: $columnL-wide-desktop);
-      }
+      &.bg {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        padding-top: 2rem;
 
+        &:before {
+          z-index: 100;
+          content: " ";
+          position: absolute;
+          width: 100vw;
+          height: 100%;
+          left: 50%;
 
-    .grid,
-    .wide-grid {
-      @include mediaQuery($min, $tablet) {
+          margin-left: -50vw;
 
-        div[class^="col-"] {
-          z-index: 900;
+          background-color: rgb(230, 230, 230);
+          margin-top: 0rem;
+
+          display: block;
         }
-
-
-
-        position: relative;
-
-        &.bg {
-          margin-top: 2rem;
-          margin-bottom: 2rem;
-          padding-top: 2rem;
-
-          &:before {
-            z-index: 100;
-            content: " ";
-            position: absolute;
-            width: 100vw;
-            height: 100%;
-            left: 50%;
-
-            margin-left: -50vw;
-
-            background-color: rgb(230,230,230);
-            margin-top: 0rem;
-
-            display: block;
-          }
-        }
-
       }
     }
-    .grid {
-      @include container(8);
+  }
+  .grid {
+    @include container(8);
 
-      div[class^="col-"] {
-        @include col(1 to 8 of 8);
-      }
-
-      @include mediaQuery($min, $tablet) {
-
-        div.col-1to4 {
-          @include col(1 to 4 of 8);
-
-        }
-        div.col-5to8 {
-          @include col(5 to 8 of 8);
-
-        }
-      }
-
-
+    div[class^="col-"] {
+      @include col(1 to 8 of 8);
     }
 
-    .wide-grid {
-      @include container(12);
-
-      div[class^="col-"] {
-        @include col(1 to 12);
+    @include mediaQuery($min, $tablet) {
+      div.col-1to4 {
+        @include col(1 to 4 of 8);
       }
+      div.col-5to8 {
+        @include col(5 to 8 of 8);
+      }
+    }
+  }
 
+  .wide-grid {
+    @include container(12);
 
+    div[class^="col-"] {
+      @include col(1 to 12);
+    }
+
+    @include mediaQuery($min, $desktop) {
       div.col-1to3 {
         @include col(1 to 3);
       }
@@ -118,216 +109,191 @@ $picW-wide-desktop: 4;
 
       div.col-4to6 {
         @include col(4 to 6);
-
       }
       div.col-7to9 {
         @include col(7 to 9);
-
       }
 
       div.col-10to12 {
         @include col(10 to 12);
-
       }
       div.col-1to12 {
         @include col(1 to 12);
       }
 
-      @include mediaQuery($min, $tablet) {
-
-        margin-left: 0 - span($columnL-tablet of $columnW-tablet) - gutter($columnW-tablet);
-        width: span(12 of $columnW-tablet);
-      }
-
-      @include mediaQuery($min, $wide-desktop) {
-        margin-left: 0 - span($columnL-wide-desktop of $columnW-wide-desktop) - gutter($columnW-wide-desktop);
-        width: span(12 of $columnW-wide-desktop);
-
-      }
-
+      margin-left: 0 - span($columnL-tablet of $columnW-tablet) - gutter($columnW-tablet);
+      width: span(12 of $columnW-tablet);
     }
 
+    @include mediaQuery($min, $wide-desktop) {
+      margin-left: 0 - span($columnL-wide-desktop of $columnW-wide-desktop) -
+        gutter($columnW-wide-desktop);
+      width: span(12 of $columnW-wide-desktop);
+    }
+  }
 
-
-    // inline floating images
-    .float-left,
-    .float-right {
-
-        @include mediaQuery($min, $tablet) {
-          padding-top: 0.6rem;
-          width: span($picW-tablet of $columnW-tablet);
-        }
-
-        @include mediaQuery($min, $wide-desktop) {
-          width: span($picW-wide-desktop of $columnW-wide-desktop);
-        }
-
+  // inline floating images
+  .float-left,
+  .float-right {
+    @include mediaQuery($min, $tablet) {
+      padding-top: 0.6rem;
+      width: span($picW-tablet of $columnW-tablet);
     }
 
-    .float-right {
-
-
-              @include mediaQuery($min, $tablet) {
-                  float: right;
-                  padding-left: gutter($columnW-tablet);
-                  margin-right: 0 - span(1 of $columnW-tablet) - gutter($columnW-tablet);
-
-              }
-
-
-              @include mediaQuery($min, $wide-desktop) {
-                padding-left: gutter($columnW-wide-desktop);
-                margin-right: 0 - span(1 of $columnW-wide-desktop) - gutter($columnW-wide-desktop);
-              }
+    @include mediaQuery($min, $wide-desktop) {
+      width: span($picW-wide-desktop of $columnW-wide-desktop);
     }
-    .float-left {
+  }
 
-              @include mediaQuery($min, $tablet) {
-                  float: left;
-                  padding-right: gutter($columnW-tablet);
-                  margin-left: 0 - span(1 of $columnW-tablet) - gutter($columnW-tablet);
-              }
-
-              @include mediaQuery($min, $wide-desktop) {
-                padding-right: gutter($columnW-wide-desktop);
-                margin-left: 0 - span(1 of $columnW-wide-desktop) - gutter($columnW-wide-desktop);
-              }
+  .float-right {
+    @include mediaQuery($min, $tablet) {
+      float: right;
+      padding-left: gutter($columnW-tablet);
+      margin-right: 0 - span(1 of $columnW-tablet) - gutter($columnW-tablet);
     }
 
-
-
-
-    &__title {
-
+    @include mediaQuery($min, $wide-desktop) {
+      padding-left: gutter($columnW-wide-desktop);
+      margin-right: 0 - span(1 of $columnW-wide-desktop) - gutter($columnW-wide-desktop);
+    }
+  }
+  .float-left {
+    @include mediaQuery($min, $tablet) {
+      float: left;
+      padding-right: gutter($columnW-tablet);
+      margin-left: 0 - span(1 of $columnW-tablet) - gutter($columnW-tablet);
     }
 
-    &__category {
-      padding-top: 1rem;
-      font-size: map-get($fontFactors, small);
-      color: $color-base;
-
-      &:hover,
-      &:focus {
-          color: $color-primary;
-          border-bottom: 2px solid $color-primary;
-      }
+    @include mediaQuery($min, $wide-desktop) {
+      padding-right: gutter($columnW-wide-desktop);
+      margin-left: 0 - span(1 of $columnW-wide-desktop) - gutter($columnW-wide-desktop);
     }
+  }
 
+  &__title {
+  }
 
-    &__meta {
-        margin-top: 2rem;
-        margin-bottom: 2rem;
-        text-align: right;
+  &__category {
+    padding-top: 1rem;
+    font-size: map-get($fontFactors, small);
+    color: $color-base;
+
+    &:hover,
+    &:focus {
+      color: $color-primary;
+      border-bottom: 2px solid $color-primary;
     }
+  }
 
-    &__lead p {
-      @include font-bold(sans);
-      font-size: map-get($fontFactors, h3);
-      line-height: 1.7;
+  &__meta {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: right;
+  }
 
-      @include mediaQuery($min, $desktop) {
-          padding-left: span(2 of 8) + gutter(8);
-          padding-bottom: 6rem;
-      }
+  &__lead p {
+    @include font-bold(sans);
+    font-size: map-get($fontFactors, h3);
+    line-height: 1.7;
+
+    @include mediaQuery($min, $desktop) {
+      padding-left: span(2 of 8) + gutter(8);
+      padding-bottom: 6rem;
     }
+  }
 
-    &__body {
-
-      ul {
-        li {
-          > p {
-            // na extra space in lists
-            margin-bottom: 0;
-          }
+  &__body {
+    ul {
+      li {
+        > p {
+          // na extra space in lists
+          margin-bottom: 0;
         }
       }
-
-
-       a {
-            color: #006984;
-
-            &:visited {
-                color: #0054a2;
-            }
-
-            &:hover {
-                color: black;
-            }
-
-            a:before {
-                content: "→ ";
-            }
-
-        }
-
-
-        // hide arrow before external links
-        a[href^="http"]:before,
-        a[href^="slack:"]:before,
-        a[href^="mailto:"]:before,
-        a[href^="tel:"]:before {
-          display: none;
-        }
     }
 
+    a {
+      color: #006984;
 
-    &__footer, &__footer p {
-      font-size: map-get($fontFactors, small);
+      &:visited {
+        color: #0054a2;
+      }
+
+      &:hover {
+        color: black;
+      }
+
+      a:before {
+        content: "→ ";
+      }
     }
 
-    &__tags {
-        &-list {
-            list-style: none;
-            margin: 0 -5px;
-            padding: 0;
-            &-item {
-                display: inline-block;
-                margin: 10px 5px;
-                &-link {
-                    background: $color-gray-bg;
-                    text-decoration: none;
-                    border: 0;
-                    border-radius: 3px;
-                    color: lighten($color-base, 20%);
-                    padding: 8px 16px;
-                    &:hover,
-                    &:focus {
-                        color: $color-base;
-                        background: darken($color-gray-bg, 5%);
-                        border: 0;
-                    }
-                }
-            }
-        }
+    // hide arrow before external links
+    a[href^="http"]:before,
+    a[href^="slack:"]:before,
+    a[href^="mailto:"]:before,
+    a[href^="tel:"]:before {
+      display: none;
     }
-    &__home-button {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        max-width: 90px;
-        padding: 0 16px;
-        height: 1.8rem;
-        line-height: 1.8rem;
-        text-align: center;
-        color: lighten($color-base, 20%);
-        background: $color-gray-bg;
-        border-radius: 0.3rem;
-        margin-top: 1.3rem;
-        z-index: 9000;
-        &:hover,
-        &:focus {
+  }
+
+  &__footer,
+  &__footer p {
+    font-size: map-get($fontFactors, small);
+  }
+
+  &__tags {
+    &-list {
+      list-style: none;
+      margin: 0 -5px;
+      padding: 0;
+      &-item {
+        display: inline-block;
+        margin: 10px 5px;
+        &-link {
+          background: $color-gray-bg;
+          text-decoration: none;
+          border: 0;
+          border-radius: 3px;
+          color: lighten($color-base, 20%);
+          padding: 8px 16px;
+          &:hover,
+          &:focus {
             color: $color-base;
             background: darken($color-gray-bg, 5%);
             border: 0;
+          }
         }
-
-        @include mediaQuery($min, $desktop) {
-              position: fixed;
-              max-width: auto;
-              margin: 0;
-              top: 1.8rem;
-              left: 1.8rem;
-        }
-
+      }
     }
+  }
+  &__home-button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 90px;
+    padding: 0 16px;
+    height: 1.8rem;
+    line-height: 1.8rem;
+    text-align: center;
+    color: lighten($color-base, 20%);
+    background: $color-gray-bg;
+    border-radius: 0.3rem;
+    margin-top: 1.3rem;
+    z-index: 9000;
+    &:hover,
+    &:focus {
+      color: $color-base;
+      background: darken($color-gray-bg, 5%);
+      border: 0;
+    }
+
+    @include mediaQuery($min, $desktop) {
+      position: fixed;
+      max-width: auto;
+      margin: 0;
+      top: 1.8rem;
+      left: 1.8rem;
+    }
+  }
 }

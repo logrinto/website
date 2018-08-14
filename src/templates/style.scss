@@ -65,13 +65,13 @@ h1.page__title {
 
 @include mediaQuery($min, $desktop) {
   .content {
-    @include col(1 to 9);
+    @include col(1 to 10);
     &__inner {
       // padding: 40px 35px;
     }
   }
   .sidebar {
-    @include col(10 to 12);
+    @include col(11 to 12);
     &__inner {
       // padding: 40px;
     }

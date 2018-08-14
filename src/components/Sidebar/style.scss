@@ -2,23 +2,27 @@
 
 .sidebar {
     width: 100%;
+
+    p {
+      font-size: 0.7rem;
+    }
     &__inner {
         position: relative;
         // padding: 25px 20px 0;
 
     }
     &__author {
-        &-photo {
-            display: inline-block;
-            margin-bottom: 0;
-            width: 100%;
-            max-width: 190px;
-            max-height: 190px;
-            height: auto;
-        }
+        // &-photo {
+        //     display: inline-block;
+        //     margin-bottom: 0;
+        //     width: 100%;
+        //     max-width: 190px;
+        //     max-height: 190px;
+        //     height: auto;
+        // }
         &-title {
             @include font-bold(monospace)
-            font-size: map-get($fontFactors, h3);
+            font-size: 0.7rem;
             margin-top: 0.4rem;
 
             &-link {
