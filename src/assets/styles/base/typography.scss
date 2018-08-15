@@ -1,13 +1,16 @@
 @import "../mediaquery";
+@import "../colors";
 
 $font-name: (
-  sans: 'Open Sans',
-  monospace: 'Source Code Pro'
+  sans: "Open Sans",
+  monospace: "Source Code Pro"
 );
 
 $font-family: (
-  sans: #{map-get($font-name, sans), sans-serif},
-  monospace: #{map-get($font-name, monospace), monospace}
+  sans: #{map-get($font-name, sans),
+  sans-serif},
+  monospace: #{map-get($font-name, monospace),
+  monospace}
 );
 
 $font-weight-normal: (
@@ -24,12 +27,18 @@ $fontFactors: (
   base: 15px,
   code: 0.9rem,
   small: 0.8rem,
-	p: 1rem,
-	h1: 2.4rem,
-	h2: 1.6rem,
-  h3: 1.25rem,
+  p: 1rem,
+  h1: 1.3rem,
+  h2: 1.1rem,
+  h3: 1.08rem,
   h4: 1rem,
-	h5: 0.9rem,
+  h5: 0.9rem
+);
+
+$fontFactors-Desktop: (
+  h1: 3rem,
+  h2: 1.8rem,
+  h3: 1.3rem
 );
 
 $fontTabletDesktop: 16px;
@@ -38,20 +47,18 @@ $fontBaseWideDesktop: 18px;
 
 $fontDefaultLineHeight: 1.55;
 
-
-@mixin font-normal($font:sans) {
+@mixin font-normal($font: sans) {
   font-family: map-get($font-family, $font);
   font-weight: map-get($font-weight-normal, $font);
   font-style: normal;
 }
 
-@mixin font-bold($font:sans) {
+@mixin font-bold($font: sans) {
   font-family: map-get($font-family, $font);
   font-weight: map-get($font-weight-bold, $font);
   font-style: normal;
 }
 @mixin typography() {
-
   html {
     // font-family: 'OpenSansSignalwerk', sans-serif;
     font-size: map-get($fontFactors, base);
@@ -108,7 +115,7 @@ $fontDefaultLineHeight: 1.55;
   h1,
   h2 {
     @include font-bold(monospace);
-    color: #444;
+    color: $color-gray-text;
     line-height: 1.2;
   }
 
@@ -120,19 +127,30 @@ $fontDefaultLineHeight: 1.55;
 
   h1 {
     font-size: map-get($fontFactors, h1);
-    margin-bottom: 2.1em;
-  }
+    margin-bottom: 0.6em;
 
+    @include mediaQuery($min, $desktop) {
+      font-size: map-get($fontFactors-Desktop, h1);
+    }
+  }
   h2 {
     margin-top: 1.6em;
     margin-bottom: 0.4em;
     font-size: map-get($fontFactors, h2);
+
+    @include mediaQuery($min, $desktop) {
+      font-size: map-get($fontFactors-Desktop, h2);
+    }
   }
 
   h3 {
     margin-top: 1.6em;
     margin-bottom: 0.4em;
     font-size: map-get($fontFactors, h3);
+
+    @include mediaQuery($min, $desktop) {
+      font-size: map-get($fontFactors-Desktop, h3);
+    }
   }
 
   h4 {

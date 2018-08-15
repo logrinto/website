@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import Helmet from "react-helmet";
-import Navigation from "../components/Navigation";
+import Back from "../components/Back";
 import Sidebar from "../components/Sidebar";
 import PageTemplateDetails from "../components/PageTemplateDetails";
 import "./style.scss";
@@ -25,7 +25,7 @@ class PageTemplate extends React.Component {
             <title>{`${page.frontmatter.title} - ${title}`}</title>
             <meta name="description" content={description} />
           </Helmet>
-          <Navigation {...this.props} />
+          <Back />
           <PageTemplateDetails {...this.props} />
           <Sidebar {...this.props} />
         </div>
@@ -55,7 +55,6 @@ export const pageQuery = graphql`
       siteMetadata {
         title
       }
-      ...navigationFragment
       ...sidebarFragment
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {

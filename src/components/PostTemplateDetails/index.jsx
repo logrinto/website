@@ -3,6 +3,8 @@ const _ = require("lodash");
 import PropTypes from "prop-types";
 import Link from "gatsby-link";
 import moment from "moment";
+import Img from "gatsby-image";
+import PostHeader from "../PostHeader";
 import "moment/locale/de"; // without this like it didn't work
 import "./style.scss";
 
@@ -23,14 +25,6 @@ class PostTemplateDetails extends React.Component {
 
     const tags = post.fields.tagSlugs;
 
-    const homeBlock = (
-      <div>
-        <Link className="post-single__home-button" to="/">
-          Home
-        </Link>
-      </div>
-    );
-
     const tagsBlock = (
       <ul className="post-single__tags-list">
         {tags.map((tag, i) => (
@@ -48,26 +42,23 @@ class PostTemplateDetails extends React.Component {
 
     return (
       <div className="post-single">
-        {homeBlock}
-
         <div className="post-single__inner">
-          {/* <span className="post-single__category" key={categorySlug}>
-            <Link to={categorySlug} className="post-single__category-link">
-              {post.frontmatter.category}
-            </Link>
-          </span> */}
+          <PostHeader
+            featuredImage={post.frontmatter.featuredImage}
+            title={post.frontmatter.title}
+          />
+
+          <h1>{post.frontmatter.title}</h1>
 
           <div className="post-single__meta">
             <small>
               ~{timeToRead && (timeToRead || 1)}
-              &nbsp;min&nbsp;&nbsp;·&nbsp;&nbsp;
+              <span className="post-single__meta-dot"> · </span>
               {post.frontmatter.author}
-              &nbsp;&nbsp;·&nbsp;&nbsp;
-              {moment(post.frontmatter.date).format("DD. MMMM YYYY")}
+              <span className="post-single__meta-dot"> · </span>
+              {moment(post.frontmatter.date).format("DD. MMMM YYYY").replace(/ /g, "\u00a0")}
             </small>
           </div>
-
-          <h1 className="post-single__title">{post.frontmatter.title}</h1>
 
           <div className="post-single__lead">
             <p>{post.frontmatter.description}</p>
@@ -131,6 +122,13 @@ export const postTemplateDetailsFragment = graphql`
       tags
       date
       description
+      featuredImage {
+        childImageSharp {
+          sizes(maxWidth: 3000) {
+            ...GatsbyImageSharpSizes
+          }
+        }
+      }
     }
     wordCount {
       words

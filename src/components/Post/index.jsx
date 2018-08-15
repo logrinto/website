@@ -48,10 +48,13 @@ class Post extends React.Component {
 
         <div className="post__description">
           <p>{post.description}</p>
-        </div>
-        <div className="post__readmore" to={post.slug}>
-          <Link to={post.slug}>→ Weiterlesen</Link>
-        </div>
+          <div className="post__readmore">
+
+            <Link className="post__link" to={post.slug}>
+            → Weiterlesen
+            </Link>
+            </div>
+      </div>
       </div>
     );
   }

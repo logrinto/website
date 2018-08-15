@@ -16,16 +16,17 @@ class Navigation extends React.Component {
   };
 
   render = () => {
-    const { menu } = this.props.data.site.siteMetadata;
     const { onItemClick } = this;
     return (
       <div className="navigation">
         <div className="navigation__inner">
-          <div className={`navigation__menu ${this.state.open ? "open" : "close"}`}>
-            <div>
-              <Menu data={menu} />
+          {this.props.data && (
+            <div className={`navigation__menu ${this.state.open ? "open" : "close"}`}>
+              <div>
+                <Menu data={this.props.data.site.siteMetadata.menu} />
+              </div>
             </div>
-          </div>
+          )}
 
           <button
             onClick={onItemClick}
@@ -35,7 +36,7 @@ class Navigation extends React.Component {
             aria-label="Menu"
           >
             <span className={`navigation__hamburger ${this.state.open ? "open" : "close"}`}>
-              <span className="navigation__label">Hauptmenü</span>
+              <span className="navigation__label hidden">Hauptmenü</span>
             </span>
           </button>
         </div>

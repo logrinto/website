@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import Helmet from "react-helmet";
+import Back from "../components/Back";
 import PostTemplateDetails from "../components/PostTemplateDetails";
 import "./style.scss";
 
@@ -23,6 +24,7 @@ class PostTemplate extends React.Component {
             <title>{`${post.frontmatter.title} - ${title}`}</title>
             <meta name="description" content={description} />
           </Helmet>
+          <Back />
           <PostTemplateDetails {...this.props} />
         </div>
       </div>
