@@ -164,7 +164,7 @@ Der Home-Button ist rot unterlegt und mit einem Haus markiert. Die Symbolik und 
 <br>
 <br>
 
-# Redesign
+## Redesign
 Die Betrachtung vor Ort, Analyse und das Redesign des Panels erfolgte innert 8 Schullektionen. Somit blieb für die einzelnen Schritte nicht viel Zeit. Nachdem in der Klasse die Analyse des bestehenden Panels erfolgte, wurde folgender Zeitplan für den Rest des Tages eingehalten:
 
 * Paper-Prototype (1h)
@@ -205,7 +205,7 @@ Die Betrachtung vor Ort, Analyse und das Redesign des Panels erfolgte innert 8 S
 <br>
 <br>
 
-## Entwurf «Classic»
+### Entwurf «Classic»
 Pascale, Natascha und Nicole haben eine sehr reduzierte und einfache Form für das Interface gewählt. Der Entwurf kann grafisch und puncto Interface mit wenigen Korrekturen zu einer guten Lösung ausgebaut werden.
 
 
@@ -276,7 +276,7 @@ Pascale, Natascha und Nicole haben eine sehr reduzierte und einfache Form für d
 <br>
 <br>
 
-## Entwurf «Simple»
+### Entwurf «Simple»
 Wolfgang, Nils, Nadia und Lars haben einen Entwurf erarbeitet, bei dem die Wahl der Zeit möglichst einfach geschehen soll. Die Wahl ist mehrfach geführt (Stunde, Jetzt, Zeitwähler) und man müsste mit einer Testgruppe prüfen, ob dies verwirrend oder unterstützend ist.
 
 
@@ -347,7 +347,7 @@ Wolfgang, Nils, Nadia und Lars haben einen Entwurf erarbeitet, bei dem die Wahl 
 <br>
 <br>
 
-## Entwurf «Slide»
+### Entwurf «Slide»
 Stephanie, Matthias und Marc haben einen Entwurf erarbeitet, in der die Zeitnavigation hinter die Information zurück tritt. Die ursprüngliche Idee, Vormittag und Nachmittag zu trennen, wurde im ausgearbeiteten Entwurf zu gunsten der Benutzerführung verworfen.
 
 
@@ -420,7 +420,7 @@ Stephanie, Matthias und Marc haben einen Entwurf erarbeitet, in der die Zeitnavi
 <br>
 <br>
 
-## Entwurf «One-Touch»
+### Entwurf «One-Touch»
 Tioe, Severin und Marius haben durch eine geschickte Aufteilung des Tages eine sehr klare Führung über die Zeit erreicht. Die Anzeige der Information wurde an die anderen Info-Screens im Zugsverkehr angelehnt.
 
 
