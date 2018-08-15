@@ -15,5 +15,6 @@ figure {
 
   figcaption {
     font-size: map-get($fontFactors, small);
+    padding-top: 0.2rem;
   }
 }
