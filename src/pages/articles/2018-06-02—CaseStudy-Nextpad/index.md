@@ -11,12 +11,12 @@ tags:
   - "Case Study"
   - "Interface"
   - "Typografie"
-description: "Bei der Case Study im Sommer 2018 wurden in einem intensiven Arbeitstag Entwürfe erarbeitet, wie die bestehende Software Etherpad um weitere Funktionen erweitert werden kann und wie das User-Interface zu erweitern wäre."
+description: "Bei der Case Study im Sommer 2018 wurden in einem intensiven Arbeitstag Entwürfe erarbeitet, wie die bestehende Software Etherpad um weitere Funktionen ergänzt werden kann und wie das User-Interface zu erweitern wäre."
 ---
 
 
 ## Intro
-Kollaboratives Arbeiten mittels Software bietet viele Chancen für verteilte Gruppen sich trots Räumlicher Distanz zu ergänzen oder am selben Ort gleichzeitig einen Effort zu lseiten. Die Opensource-Software [Etherpad](http://etherpad.org/) bietet hierzu einen einfachen Einstieg, wenn es um Texterstellung geht. Doch ist das freie Produkt für gewisse Anforderungen fast zu einfach gestrickt.
+Kollaboratives Arbeiten mittels Software bietet viele Chancen für verteilte Gruppen, sich trotz räumlicher Distanz zu ergänzen oder am selben Ort gleichzeitig einen Effort zu leisten. Die Opensource-Software [Etherpad](http://etherpad.org/) bietet hierzu einen einfachen Einstieg, wenn es um Texterstellung geht. Doch ist das freie Produkt für gewisse Anforderungen fast zu einfach gestrickt.
 
 ### Struktur 
 Etherpad kann beim installieren verschieden konfiguriert werden. So hilft es zum Beispiel für strukturierte Texte dem Benutzer die Möglichkeit zu geben, Titel einzufügen. Für andere Bereiche bietet die Software dem Benutzer keine visuelle Hilfe, sondern der Text dient als universelle «Schnittstelle».
@@ -40,7 +40,7 @@ Etherpad kann beim installieren verschieden konfiguriert werden. So hilft es zum
 ## Probleme
 So vielfältig wie die Anwendungen, so divers sind auch die Probleme mit Etherpad. Die Nachfolgenden Probleme wurden für den durchgeführten Tag in den Fokus genommen:
 
-* Persönliche, für andere nicht sichtbare Kommentare/Dokumente/Notizen müssen ausserhalb von Etherpad erfasst werden und können dem Dokument nicht im Kontext mitgegeben werden. Persönliche Anreicherung des Dokuments soll möglich sein. Die Lösung, die für dieses Problem gefunden wird, sollte auch für öffentliche (also für alle sichtbare) Anreicherungen funktionieren.
+* Persönliche, für andere nicht sichtbare Kommentare/Dokumente/Notizen müssen ausserhalb von Etherpad erfasst werden und können dem Dokument nicht im Kontext mitgegeben werden. Persönliche Anreicherung des Dokuments soll möglich sein. Die Lösung, die für dieses Problem gefunden wird, sollte auch für öffentliche (also für Alle sichtbare) Anreicherungen funktionieren.
 * Aus dem Text resultierende Aufgaben sind nicht ohne den Text vertieft zu lesen ersichtlich und es gibt keine Fortschrittsanzeige über bereits erledigte Aufgaben.
 
 
@@ -59,14 +59,14 @@ Nach einer kurzen Einführung wurde von den Studierenden eine Analyse zu bereits
 
 ### Dropbox Paper
 - Starke Kommentarfunktion (einzelne Wörter oder Zeilen können kommentiert werden)
-- ToDo's können direkt im Dokument vergeben werden, Nutzer die erwähnten Personen werden werden benachrichtigt.
-- Möglichkeiten zum Einfügen weiterer Inhalte (Bilder, Tabellen, ...) sind sehr schön gelöst.
+- ToDo's können direkt im Dokument vergeben werden – Nutzer werden benachrichtigt.
+- Möglichkeiten zum Einfügen weiterer Inhalte (Bilder, Tabellen, ...) sind sehr gut integriert.
 
 
 ### HackMD
 - Eingabe erfolgt mittels der Auszeichnungssprache Markdown
 - Für normale Benutzer schwierig in der Anwendung 
-- Direkte Integration mit GitHub um mittels [Gist](https://gist.github.com/) daten (privat) zu speichern
+- Direkte Integration mit GitHub um mittels [Gist](https://gist.github.com/) Daten (privat) zu speichern
 - Keine Kommentarfunktion
 - Integration verschiedenster Dienste für Video/Slideshows/Bilder
 - Automatische Navigationserstellung (Table of Content)
@@ -81,10 +81,10 @@ Nach einer kurzen Einführung wurde von den Studierenden eine Analyse zu bereits
 
 ### Github Issues
 - Keine Echtzeit-Editierung mit anderen Personen
-- Ein Repo (Repository) beinhaltet «Issues»
+- Ein Repository beinhaltet «Issues»
 - Über Issues können Aufgaben erstellt werden
 - Personen und Teams können zu Issues zugewiesen werden
-- Issues sind in Milestones zusammengefasst. Beide haben Fortschrittsanzeigen.
+- Issues sind in Milestones zusammengefasst (mit Fortschrittsanzeige)
 - Milestones können terminiert werden
 - Issues können nach Milestones und Labels sortiert werden
 
@@ -124,7 +124,7 @@ Severin, Nicole und Matthias haben einen [Entwurf](https://xd.adobe.com/view/8f4
 
 #### Inputs/Verbessern
 
-* Die Erstellung von Kommentaren und Aufgaben ist noch nicht gelöst (Ansicht schon).
+* Die Erstellung von Kommentaren und Aufgaben ist noch nicht gezeigt (Ansicht schon).
 * Farbsystem für Kommentare (nebst Avatar) allenfalls auch für Aufgaben nutzen.
 
 
@@ -173,7 +173,7 @@ Der Entwurf von Nils, Lars, Marius, Natasha basiert auf einem Sidebar, der sich 
 * kontextsensitive Formatierung
 * Inhaltsverzeichnis hilft beim Navigieren im Dokument
 * Taskverwaltung sehr ausgefeilt
-* Gute sichtbarkeit von Public/Private in Kommentaren
+* Gute Sichtbarkeit von Public/Private in Kommentaren
 
 #### Inputs/Verbessern
 
@@ -181,8 +181,8 @@ Der Entwurf von Nils, Lars, Marius, Natasha basiert auf einem Sidebar, der sich 
 * Tasks sind im Text nich ersichtlich (bei Kommentaren mit Farbe gelöst).
 * Filterung von Aufgaben/Kommentaren visuell noch zu sehr wie ein Link.
 * drei verschieden Symboliken (segmentierter Kreis, Balken in Anzahl Schritten, Balken in Prozent) für Fortschrittsanzeige wohl nicht ideal.
-* Sehr lange Zeilen im Text. Allenfalls maximale breite beschränken.
-* Der eingeklappte Sidebar animiert nicht aufgemacht zu werden. Allenfalls gleich drei Icons für Kommentare, Files und Aufgaben dort einführen. Klick darauf öffnet gleich im richtigen Tab.
+* Sehr lange Zeilen im Text. Allenfalls maximale Breite beschränken.
+* Der eingeklappte Sidebar animiert nicht aufgemacht zu werden, da man nicht sieht, was sich dahinter verbirgt. Allenfalls gleich drei Icons für Kommentare, Files und Aufgaben dort einführen. Klick darauf öffnet gleich im richtigen Tab.
 
 #### Übersicht
 
@@ -234,12 +234,12 @@ Tiö, Wolfgang und Marc haben ein Entwurf gemacht, bei dem sie die Trennung von 
 
 #### Inputs/Verbessern
 
-* Man müsste im Interface dennoch einmal erklären, dass Notizen privat und Kommentare öffentlich sind (da sehr wichtig nicht zu verwechseln).
-* Visuell hätte man im Text für Tasks wohl noch mehr mehr Infos anzeigen können. Siehe Entwurf «Fokus»
+* Man müsste im Interface trotzdem noch einmal erklären, dass Notizen privat und Kommentare öffentlich sind (da sehr wichtig nicht zu verwechseln).
+* Visuell hätte man im Text für Tasks wohl noch mehr Infos anzeigen können. Siehe Entwurf «Fokus»
 * Durchgängige Bezeichnungen verwenden (Post it & Speichern)
 * Hauptverantwortlicher und Benutzer in Ansicht nicht unterschieden (ausser Position)
 * Muss man das Abhacke von Teilaufgaben wirklich speichern?
-* Andere Symbolik/Interface-Elemente für das hinzufügen von Personen oder Teilaufgaben
+* Unterschiedliche Symbolik/Interface-Elemente für das hinzufügen von Personen und Teilaufgaben ungünstig
 * Teils noch Fehler in den Mockups (Beispiel: beim erstellen der Aufgabe können nicht schon Teilaufgaben erledigt sein)
 
 #### Übersicht
