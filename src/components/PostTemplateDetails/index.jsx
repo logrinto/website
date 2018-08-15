@@ -52,11 +52,14 @@ class PostTemplateDetails extends React.Component {
 
           <div className="post-single__meta">
             <small>
-              ~{timeToRead && (timeToRead || 1)}&nbsp;min
+              ~{timeToRead && (timeToRead || 1)}
+              &nbsp;min
               <span className="post-single__meta-dot"> · </span>
               {post.frontmatter.author}
               <span className="post-single__meta-dot"> · </span>
-              {moment(post.frontmatter.date).format("DD. MMMM YYYY").replace(/ /g, "\u00a0")}
+              {moment(post.frontmatter.date)
+                .format("DD. MMMM YYYY")
+                .replace(/ /g, "\u00a0")}
             </small>
           </div>
 

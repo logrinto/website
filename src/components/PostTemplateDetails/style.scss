@@ -88,9 +88,9 @@ $picW-wide-desktop: 4;
       div.col-1to3 {
         @include col(1 to 3);
       }
-        div.col-1to4 {
-          @include col(1 to 4);
-        }
+      div.col-1to4 {
+        @include col(1 to 4);
+      }
       div.col-1to5 {
         @include col(1 to 5);
       }
@@ -104,12 +104,12 @@ $picW-wide-desktop: 4;
         @include col(1 to 8);
       }
 
-            div.col-5to12 {
-              @include col(5 to 12);
-            }
-                  div.col-6to12 {
-                    @include col(6 to 12);
-                  }
+      div.col-5to12 {
+        @include col(5 to 12);
+      }
+      div.col-6to12 {
+        @include col(6 to 12);
+      }
       div.col-7to12 {
         @include col(7 to 12);
       }

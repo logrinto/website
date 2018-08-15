@@ -1,14 +1,14 @@
 .star {
-    display: inline-block;
-    position:relative;
+  display: inline-block;
+  position: relative;
 }
 
 .star.half:after {
-    content:'★';
-    position: absolute;
-    left:0;
-    right:50%;
-    top:0;
-    bottom:0;
-    overflow: hidden;
+  content: "★";
+  position: absolute;
+  left: 0;
+  right: 50%;
+  top: 0;
+  bottom: 0;
+  overflow: hidden;
 }

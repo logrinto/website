@@ -1,47 +1,45 @@
 @import "../../assets/styles/_mixin";
 
 .sidebar {
-    width: 100%;
+  width: 100%;
 
-    p {
-      font-size: 0.7rem;
-    }
-    &__inner {
-        position: relative;
-        // padding: 25px 20px 0;
+  p {
+    font-size: 0.7rem;
+  }
+  &__inner {
+    position: relative;
+    // padding: 25px 20px 0;
+  }
+  &__author {
+    // &-photo {
+    //     display: inline-block;
+    //     margin-bottom: 0;
+    //     width: 100%;
+    //     max-width: 190px;
+    //     max-height: 190px;
+    //     height: auto;
+    // }
+    &-title {
+      @include font-bold(monospace) font-size: 0.7rem;
+      margin-top: 2.8rem;
+      margin-bottom: 0.4em;
 
-    }
-    &__author {
-        // &-photo {
-        //     display: inline-block;
-        //     margin-bottom: 0;
-        //     width: 100%;
-        //     max-width: 190px;
-        //     max-height: 190px;
-        //     height: auto;
-        // }
-        &-title {
-            @include font-bold(monospace)
-            font-size: 0.7rem;
-            margin-top: 2.8rem;
-            margin-bottom: 0.4em;
-
-            &-link {
-                color: $color-base;
-                &:hover,
-                &:focus {
-                    color: $color-base;
-                }
-            }
+      &-link {
+        color: $color-base;
+        &:hover,
+        &:focus {
+          color: $color-base;
         }
-        &-subtitle {
-            color: $color-gray;
-            line-height: 1.5;
-            margin-bottom: 1.7rem;
-        }
+      }
     }
-    &__copyright {
-        color: lighten($color-gray, 18%);
-        font-size: map-get($fontFactors, small);
+    &-subtitle {
+      color: $color-gray;
+      line-height: 1.5;
+      margin-bottom: 1.7rem;
     }
+  }
+  &__copyright {
+    color: lighten($color-gray, 18%);
+    font-size: map-get($fontFactors, small);
+  }
 }
