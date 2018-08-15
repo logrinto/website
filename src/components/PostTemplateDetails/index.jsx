@@ -52,7 +52,7 @@ class PostTemplateDetails extends React.Component {
 
           <div className="post-single__meta">
             <small>
-              ~{timeToRead && (timeToRead || 1)}
+              ~{timeToRead && (timeToRead || 1)}&nbsp;min
               <span className="post-single__meta-dot"> · </span>
               {post.frontmatter.author}
               <span className="post-single__meta-dot"> · </span>
