@@ -11,9 +11,9 @@ class NotFoundRoute extends React.Component {
           <div className="content">
             <div className="content__inner">
               <div className="page">
-                <h1 className="page__title">NOT FOUND</h1>
+                <h1 className="page__title">404 – NOT FOUND 🤬</h1>
                 <div className="page__body">
-                  <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+                  <p>Please check your URL again...</p>
                 </div>
               </div>
             </div>

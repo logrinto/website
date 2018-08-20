@@ -27,11 +27,13 @@ Die «Web-Worknight» trifft sich in unregelmässigen Abständen zum gemeinsamen
 * **23.11.2018** – Lightning Talk – [React.js](https://reactjs.org/)
 * **07.12.2018** – Lightning Talk – [Git](https://git-scm.com/  ) & [Github](https://github.com/)
 
-Jeweils 17 – 20 Uhr, um 18:30 Lightning Talk (15 – 20 min)
+Jeweils 17 – 20 Uhr, um 18:30 Uhr Lightning Talk (15 – 20 min)
 
+
+### Anmeldung
+Anmeldung über [meetup.com](https://www.meetup.com/Zurich-Web-Worknights/events/253937361/) oder einfach kommen.
 
 ### Infos
-**Zielgruppe**: vom Grafiker bis zum Entwickler. Ob du programmieren kannst oder nicht ist egal, Hauptsache du hast   
-**Interesse** dich mit Webtechnologie selbständig oder in der Gruppe zu vertiefen.  
+**Zielgruppe**: vom Grafiker bis zum Entwickler. Ob du programmieren kannst oder nicht ist egal, Hauptsache du hast Interesse dich mit Webtechnologie selbständig oder in der Gruppe zu vertiefen.  
 **Ort**: Die [→ Schule für Gestaltung Zürich](http://sfgz.ch/) (Ausstellungsstrasse 104, 8005 Zürich) bietet uns Räume und ein paar Getränke.  
 **Preis**: kostenlos  
