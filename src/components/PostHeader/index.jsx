@@ -6,7 +6,6 @@ import "./style.scss";
 class PostHeader extends React.Component {
   render() {
     const { featuredImage } = this.props;
-
     return (
       <div className="PostHeader">
         <div className="PostHeader--inner">

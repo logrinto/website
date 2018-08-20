@@ -211,14 +211,14 @@ $picW-wide-desktop: 4;
 
   &__lead {
     padding-top: 1rem;
-    padding-bottom: 1rem;
+    margin-bottom: 6rem;
     p {
       @include font-bold(sans);
       font-size: map-get($fontFactors, p);
 
       @include mediaQuery($min, $desktop) {
         padding-left: span(2 of 8) + gutter(8);
-        padding-bottom: 6rem;
+        // padding-bottom: 6rem;
       }
     }
   }

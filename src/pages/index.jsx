@@ -7,12 +7,9 @@ import Sidebar from "../components/Sidebar";
 
 class IndexRoute extends React.Component {
   render() {
-    const items = [];
     const { title, subtitle } = this.props.data.site.siteMetadata;
+    const firstPost = this.props.data.firstPost.edges;
     const posts = this.props.data.allMarkdownRemark.edges;
-    posts.forEach(post => {
-      items.push(<Post data={post} key={post.node.fields.slug} />);
-    });
 
     return (
       <div className="layout">
@@ -22,8 +19,17 @@ class IndexRoute extends React.Component {
             <meta name="description" content={subtitle} />
           </Helmet>
           <Navigation {...this.props} />
+          <div className="content-first">
+            <div className="content-first-inner">
+              <Post data={firstPost[0]} />
+            </div>
+          </div>
           <div className="content">
-            <div className="content__inner">{items}</div>
+            <div className="content-inner">
+              {posts.map(post => (
+                <Post data={post} key={post.node.fields.slug} />
+              ))}
+            </div>
           </div>
           <Sidebar {...this.props} />
         </div>
@@ -59,8 +65,20 @@ export const pageQuery = graphql`
       ...navigationFragment
       ...sidebarFragment
     }
+    firstPost: allMarkdownRemark(
+      limit: 1
+      filter: { frontmatter: { layout: { eq: "post" }, draft: { ne: true } } }
+      sort: { order: DESC, fields: [frontmatter___date] }
+    ) {
+      edges {
+        node {
+          ...postFragment
+        }
+      }
+    }
     allMarkdownRemark(
       limit: 1000
+      skip: 1
       filter: { frontmatter: { layout: { eq: "post" }, draft: { ne: true } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {

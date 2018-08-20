@@ -4,4 +4,4 @@ node_modules/
 public/
 npm-debug.log
 .eslintcache
-/__graphic__
+/__*

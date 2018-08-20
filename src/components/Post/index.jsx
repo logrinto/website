@@ -20,38 +20,40 @@ class Post extends React.Component {
 
     return (
       <div className="post">
-        <h2 className="post__title">
-          <Link to={post.slug}>
-            <span className="post__title-link">{post.title}</span>
-          </Link>
-        </h2>
-
-        <div className="post__meta">
-          <time className="post__meta-time" dateTime={moment(post.date).format("MMMM D, YYYY")}>
-            {moment(post.date).format("MMMM YYYY")}
-          </time>
-          <span className="post__meta-divider" />
-          {/* <Link to={post.categorySlug}> */}
-          <span className="post__meta-category" key={post.categorySlug}>
-            {post.category}
-          </span>
-          {/* </Link> */}
-        </div>
-
-        {post.featuredImage && (
-          <Link to={post.slug}>
-            <div className="post__img">
-              <Img sizes={post.featuredImage.childImageSharp.sizes} fadeIn={false} />
-            </div>
-          </Link>
-        )}
-
-        <div className="post__description">
-          <p>{post.description}</p>
-          <div className="post__readmore">
-            <Link className="post__link" to={post.slug}>
-              → Weiterlesen
+        <div className="post-inner">
+          <h2 className="post__title">
+            <Link to={post.slug}>
+              <span className="post__title-link">{post.title}</span>
             </Link>
+          </h2>
+
+          <div className="post__meta">
+            <time className="post__meta-time" dateTime={moment(post.date).format("MMMM D, YYYY")}>
+              {moment(post.date).format("MMMM YYYY")}
+            </time>
+            <span className="post__meta-divider" />
+            {/* <Link to={post.categorySlug}> */}
+            <span className="post__meta-category" key={post.categorySlug}>
+              {post.category}
+            </span>
+            {/* </Link> */}
+          </div>
+
+          {post.featuredImage && (
+            <Link to={post.slug}>
+              <div className="post__img">
+                <Img sizes={post.featuredImage.childImageSharp.sizes} fadeIn={false} />
+              </div>
+            </Link>
+          )}
+
+          <div className="post__description">
+            <p>{post.description}</p>
+            <div className="post__readmore">
+              <Link className="post__link" to={post.slug}>
+                → Weiterlesen
+              </Link>
+            </div>
           </div>
         </div>
       </div>
