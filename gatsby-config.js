@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/website",
+  // pathPrefix: "/website",
   siteMetadata: {
     url: "https://logrinto.ch",
     title: "Logrinto Blog",
