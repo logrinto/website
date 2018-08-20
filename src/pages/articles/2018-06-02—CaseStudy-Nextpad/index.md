@@ -18,7 +18,7 @@ description: "Bei der Case Study im Sommer 2018 wurden in einem intensiven Arbei
 ## Intro
 Kollaboratives Arbeiten mittels Software bietet viele Chancen für verteilte Gruppen, sich trotz räumlicher Distanz zu ergänzen oder am selben Ort gleichzeitig einen Effort zu leisten. Die Opensource-Software [Etherpad](http://etherpad.org/) bietet hierzu einen einfachen Einstieg, wenn es um Texterstellung geht. Doch ist das freie Produkt für gewisse Anforderungen fast zu einfach gestrickt.
 
-### Struktur 
+### Struktur
 Etherpad kann beim installieren verschieden konfiguriert werden. So hilft es zum Beispiel für strukturierte Texte dem Benutzer die Möglichkeit zu geben, Titel einzufügen. Für andere Bereiche bietet die Software dem Benutzer keine visuelle Hilfe, sondern der Text dient als universelle «Schnittstelle».
 
 <div class="wide-grid bg">
@@ -65,7 +65,7 @@ Nach einer kurzen Einführung wurde von den Studierenden eine Analyse zu bereits
 
 ### HackMD
 - Eingabe erfolgt mittels der Auszeichnungssprache Markdown
-- Für normale Benutzer schwierig in der Anwendung 
+- Für normale Benutzer schwierig in der Anwendung
 - Direkte Integration mit GitHub um mittels [Gist](https://gist.github.com/) Daten (privat) zu speichern
 - Keine Kommentarfunktion
 - Integration verschiedenster Dienste für Video/Slideshows/Bilder
@@ -135,7 +135,6 @@ Severin, Nicole und Matthias haben einen [Entwurf](https://xd.adobe.com/view/8f4
 ★★★★<span class="star half">☆</span> – Interaktion/Führung    
 ★★★★<span class="star half">☆</span> – Konzept
 
-Note: ?
 
 
 
@@ -157,7 +156,7 @@ Der Entwurf von Nils, Lars, Marius, Natasha basiert auf einem Sidebar, der sich 
       <figcaption>Kommentare anzeigen</figcaption>
     </figure>
   </div>
-  
+
   <div class="col-1to12">
     <figure>
       <img src="img/abgaben/sidebar/task_overview.png" alt="test">
@@ -191,7 +190,6 @@ Der Entwurf von Nils, Lars, Marius, Natasha basiert auf einem Sidebar, der sich 
 ★★★<span class="star half">☆</span>☆ – Interaktion/Führung    
 ★★★★☆ – Konzept
 
-Note: ?
 
 
 ### Entwurf «Trennung»
@@ -249,7 +247,6 @@ Tiö, Wolfgang und Marc haben ein Entwurf gemacht, bei dem sie die Trennung von 
 ★★★<span class="star half">☆</span>☆ – Interaktion/Führung    
 ★★★★☆ – Konzept
 
-Note: ?
 
 
 
@@ -258,5 +255,3 @@ An dieser Case Study ist der Unterschied von UX- und UI-Design exemplarisch erke
 
 
 Danke an Matthias Koch fürs mitschreiben der Analyse.
-
-
