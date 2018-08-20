@@ -1,10 +1,10 @@
 ---
-title: "Meetup – Web‑Worknight"
+title: "Meetup – Web‑Worknights"
 author: "Stefan Huber"
 date: "2018-08-19"
 layout: post
 draft: false
-path: "/events/web-worknight-hs-2018/"
+path: "/events/web-worknights-hs-2018/"
 category: "Event"
 featuredImage: "img/header.png"
 tags:
@@ -16,7 +16,7 @@ description: "Zum ersten Mal organisieren wir in diesem Semester sechs Abende, a
 
 
 ## Idee
-Die «Web-Worknight» trifft sich in unregelmässigen Abständen zum gemeinsamen Coden und Austausch von Erfahrungen. Bei jedem Meetup git es einen kleinen Lightning Talk (15 – 20 min), der einen Einblick in ein Framework oder ein Thema rund um Webtechnologie geben soll. Davor und danach kannst du deinen Laptop aufklappen und an deinem Projekt, Portfolio oder Experiment werken. Ein Frontend-Developer wird vor Ort sein und wenn du Fragen hast, kann er weiterhelfen und dir Inputs geben und mögliche Referenzen zeigen.
+Die «Web-Worknights» trifft sich in unregelmässigen Abständen zum gemeinsamen Coden und Austausch von Erfahrungen. Bei jedem Meetup git es einen kleinen Lightning Talk (15 – 20 min), der einen Einblick in ein Framework oder ein Thema rund um Webtechnologie geben soll. Davor und danach kannst du deinen Laptop aufklappen und an deinem Projekt, Portfolio oder Experiment werken. Ein Frontend-Developer wird vor Ort sein und wenn du Fragen hast, kann er weiterhelfen und dir Inputs geben und mögliche Referenzen zeigen.
 
 ## Daten
 
