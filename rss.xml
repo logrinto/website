@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Logrinto Blog]]></title><description><![CDATA[Logrinto Blog]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Sat, 18 Aug 2018 21:54:42 GMT</lastBuildDate><item><title><![CDATA[Texteditor – Redesign Etherpad]]></title><description><![CDATA[Bei der Case Study im Sommer 2018 wurden in einem intensiven Arbeitstag Entwürfe erarbeitet, wie die bestehende Software Etherpad um weitere Funktionen ergänzt werden kann und wie das User-Interface zu erweitern wäre.]]></description><link>https://logrinto.ch/posts/case-study-redesign-etherpad/</link><guid isPermaLink="false">https://logrinto.ch/posts/case-study-redesign-etherpad/</guid><pubDate>Sat, 02 Jun 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Intro&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Logrinto Blog]]></title><description><![CDATA[Logrinto Blog]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Mon, 20 Aug 2018 02:01:38 GMT</lastBuildDate><item><title><![CDATA[Meetup – Web‑Worknight]]></title><description><![CDATA[Zum ersten Mal organisieren wir in diesem Semester sechs Abende, an denen eure Projekte im Zentrum stehen.]]></description><link>https://logrinto.ch/events/web-worknight-hs-2018/</link><guid isPermaLink="false">https://logrinto.ch/events/web-worknight-hs-2018/</guid><pubDate>Sun, 19 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Idee&lt;/h2&gt;
+&lt;p&gt;Die «Web-Worknight» trifft sich in unregelmässigen Abständen zum gemeinsamen Coden und Austausch von Erfahrungen. Bei jedem Meetup git es einen kleinen Lightning Talk (15 – 20 min), der einen Einblick in ein Framework oder ein Thema rund um Webtechnologie geben soll. Davor und danach kannst du deinen Laptop aufklappen und an deinem Projekt, Portfolio oder Experiment werken. Ein Frontend-Developer wird vor Ort sein und wenn du Fragen hast, kann er weiterhelfen und dir Inputs geben und mögliche Referenzen zeigen.&lt;/p&gt;
+&lt;h2&gt;Daten&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;24.08.2018&lt;/strong&gt; – Lightning Talk – &lt;a href=&quot;https://travis-ci.org/&quot;&gt;Travis CI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;05.10.2018&lt;/strong&gt; – Lightning Talk – &lt;a href=&quot;http://paperjs.org/&quot;&gt;paper.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;26.10.2018&lt;/strong&gt; – Lightning Talk – &lt;a href=&quot;https://ramdajs.com/&quot;&gt;ramdajs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;09.11.2018&lt;/strong&gt; – Lightning Talk – Typografie vs. Web&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;23.11.2018&lt;/strong&gt; – Lightning Talk – &lt;a href=&quot;https://reactjs.org/&quot;&gt;React.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;07.12.2018&lt;/strong&gt; – Lightning Talk – &lt;a href=&quot;https://git-scm.com/&quot;&gt;Git&lt;/a&gt; &amp;#x26; &lt;a href=&quot;https://github.com/&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Jeweils 17 – 20 Uhr, um 18:30 Lightning Talk (15 – 20 min)&lt;/p&gt;
+&lt;h3&gt;Infos&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Zielgruppe&lt;/strong&gt;: vom Grafiker bis zum Entwickler. Ob du programmieren kannst oder nicht ist egal, Hauptsache du hast&lt;br&gt;
+&lt;strong&gt;Interesse&lt;/strong&gt; dich mit Webtechnologie selbständig oder in der Gruppe zu vertiefen.&lt;br&gt;
+&lt;strong&gt;Ort&lt;/strong&gt;: Die &lt;a href=&quot;http://sfgz.ch/&quot;&gt;→ Schule für Gestaltung Zürich&lt;/a&gt; (Ausstellungsstrasse 104, 8005 Zürich) bietet uns Räume und ein paar Getränke.&lt;br&gt;
+&lt;strong&gt;Preis&lt;/strong&gt;: kostenlos  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Texteditor – Redesign Etherpad]]></title><description><![CDATA[Bei der Case Study im Sommer 2018 wurden in einem intensiven Arbeitstag Entwürfe erarbeitet, wie die bestehende Software Etherpad um weitere Funktionen ergänzt werden kann und wie das User-Interface zu erweitern wäre.]]></description><link>https://logrinto.ch/posts/case-study-redesign-etherpad/</link><guid isPermaLink="false">https://logrinto.ch/posts/case-study-redesign-etherpad/</guid><pubDate>Sat, 02 Jun 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Intro&lt;/h2&gt;
 &lt;p&gt;Kollaboratives Arbeiten mittels Software bietet viele Chancen für verteilte Gruppen, sich trotz räumlicher Distanz zu ergänzen oder am selben Ort gleichzeitig einen Effort zu leisten. Die Opensource-Software &lt;a href=&quot;http://etherpad.org/&quot;&gt;Etherpad&lt;/a&gt; bietet hierzu einen einfachen Einstieg, wenn es um Texterstellung geht. Doch ist das freie Produkt für gewisse Anforderungen fast zu einfach gestrickt.&lt;/p&gt;
 &lt;h3&gt;Struktur&lt;/h3&gt;
 &lt;p&gt;Etherpad kann beim installieren verschieden konfiguriert werden. So hilft es zum Beispiel für strukturierte Texte dem Benutzer die Möglichkeit zu geben, Titel einzufügen. Für andere Bereiche bietet die Software dem Benutzer keine visuelle Hilfe, sondern der Text dient als universelle «Schnittstelle».&lt;/p&gt;
@@ -56,7 +72,7 @@
 &lt;h3&gt;HackMD&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Eingabe erfolgt mittels der Auszeichnungssprache Markdown&lt;/li&gt;
-&lt;li&gt;Für normale Benutzer schwierig in der Anwendung &lt;/li&gt;
+&lt;li&gt;Für normale Benutzer schwierig in der Anwendung&lt;/li&gt;
 &lt;li&gt;Direkte Integration mit GitHub um mittels &lt;a href=&quot;https://gist.github.com/&quot;&gt;Gist&lt;/a&gt; Daten (privat) zu speichern&lt;/li&gt;
 &lt;li&gt;Keine Kommentarfunktion&lt;/li&gt;
 &lt;li&gt;Integration verschiedenster Dienste für Video/Slideshows/Bilder&lt;/li&gt;
@@ -130,7 +146,6 @@
 ★★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt; – Inhalt&lt;br&gt;
 ★★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt; – Interaktion/Führung&lt;br&gt;
 ★★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt; – Konzept&lt;/p&gt;
-&lt;p&gt;Note: ?&lt;/p&gt;
 &lt;h2&gt;Redesign&lt;/h2&gt;
 &lt;h3&gt;Entwurf «Sidebar»&lt;/h3&gt;
 &lt;p&gt;Der Entwurf von Nils, Lars, Marius, Natasha basiert auf einem Sidebar, der sich für Kommentare, Dateien und Aufgaben nutzen lässt. Die Erstellung erfolgt mit einem Layover direkt im Text.&lt;/p&gt;
@@ -162,9 +177,8 @@
   
       &lt;figcaption&gt;Kommentare anzeigen&lt;/figcaption&gt;
     &lt;/figure&gt;
-  &lt;/div&gt;
-  
-  &lt;div class=&quot;col-1to12&quot;&gt;
+  &lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;col-1to12&quot;&gt;
     &lt;figure&gt;
       
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 2880px; margin-left: auto; margin-right: auto;&quot;&gt;
@@ -178,7 +192,7 @@
       &lt;figcaption&gt;Aufgaben anzeigen&lt;/figcaption&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
-&lt;/div&gt;
+
 &lt;h4&gt;Positives&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Klares Interface-Konzept&lt;/li&gt;
@@ -201,7 +215,6 @@
 ★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt;☆ – Inhalt&lt;br&gt;
 ★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt;☆ – Interaktion/Führung&lt;br&gt;
 ★★★★☆ – Konzept&lt;/p&gt;
-&lt;p&gt;Note: ?&lt;/p&gt;
 &lt;h3&gt;Entwurf «Trennung»&lt;/h3&gt;
 &lt;p&gt;Tiö, Wolfgang und Marc haben ein Entwurf gemacht, bei dem sie die Trennung von öffentlichen und privaten Ergänzungen sehr klar getrennt haben. So sind die Notizen immer privat und die Kommentare immer öffentlich.&lt;/p&gt;
 &lt;div class=&quot;wide-grid bg&quot;&gt;
@@ -279,7 +292,6 @@
 ★★★☆☆ – Inhalt&lt;br&gt;
 ★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt;☆ – Interaktion/Führung&lt;br&gt;
 ★★★★☆ – Konzept&lt;/p&gt;
-&lt;p&gt;Note: ?&lt;/p&gt;
 &lt;h2&gt;Fazit&lt;/h2&gt;
 &lt;p&gt;An dieser Case Study ist der Unterschied von UX- und UI-Design exemplarisch erkennbar. Der Fokus lag klar auf dem UX-Design, sprich wie der User durch die Anwendung geführt werden soll. Selbstverständlich hat das Interface-Design auch seine Berechtigung, doch wird dieses weiter hinten angesiedelt. Erst muss klar sein, was die Applikation leisten soll und in einem zweiten Schritt geht es stärker um gestalterische Themen wie Typografie, Farbe usw. Schön zu sehen, was innerhalb eines Tages für Resultate vorliegen. Alle Gruppen haben eine Basis erarbeitet, auf welcher man gut weiterarbeiten kann. Zu gegebenem Zeitpunkt wäre sicher ein Usertest ein gewinnbringender Schritt – von Vorteil in möglichst frühem Statium mittels eines Prototypes oder Klickdummys. So kann festgestellt werden, wie der Enduser mit der Applikation zurecht kommt und wo er stoplert. Letztendlich liegt der Erfolg einer Applikation sowohl im Konzept als Genzes, wie auch im Kleinen, was Microinteracions und dergleichen anbelangt. Das Spielfeld des Interaction Designs ist gross…&lt;/p&gt;
 &lt;p&gt;Danke an Matthias Koch fürs mitschreiben der Analyse.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Fahrplanauskunft – Redesign Touch Panel]]></title><description><![CDATA[In einem eintägigen Workshop wurde ein bestehendes Touch Panel für die Fahrplanauskunft am Zürich Hauptbahnhof überarbeitet und die bestehende Mängel von vier Teams analysiert und neue Lösungen vorgeschlagen.]]></description><link>https://logrinto.ch/posts/case-study-panel-sbb/</link><guid isPermaLink="false">https://logrinto.ch/posts/case-study-panel-sbb/</guid><pubDate>Sat, 11 Nov 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Ausgangslage – Konventionelle Anzeige&lt;/h2&gt;
