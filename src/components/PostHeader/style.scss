@@ -8,12 +8,20 @@
   margin-top: 3.5rem;
   margin-bottom: 2rem;
 
+  @include mediaQuery($min, $tablet) {
+    min-height: 17rem;
+  }
+
   &--inner {
     position: absolute;
     width: 100vw;
     height: 40vw;
     max-height: 55vh;
     overflow: hidden;
+
+    @include mediaQuery($min, $tablet) {
+      min-height: 17rem;
+    }
 
     left: 50%;
     top: 0;
