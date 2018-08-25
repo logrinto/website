@@ -20,7 +20,7 @@ Die «Web-Worknights» trifft sich in unregelmässigen Abständen zum gemeinsame
 
 ## Daten
 
-* **24.08.2018** – Lightning Talk – [Travis CI](https://travis-ci.org/)
+* **24.08.2018** – Lightning Talk – [Travis CI](https://travis-ci.org/) – [Slides](https://signalwerk.github.io/talk.travis-ci/#)
 * **05.10.2018** – Lightning Talk – [paper.js](http://paperjs.org/)
 * **26.10.2018** – Lightning Talk – [ramdajs](https://ramdajs.com/)
 * **09.11.2018** – Lightning Talk – Typografie vs. Web
