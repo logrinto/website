@@ -28,6 +28,10 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "path---dozierende": [
+      "path---dozierende-903256702cd8d4651361.js",
+      "path---dozierende-903256702cd8d4651361.js.map"
+    ],
     "path---events-web-worknights-hs-2018": [
       "path---events-web-worknights-hs-2018-c050153a9ee37e190590.js",
       "path---events-web-worknights-hs-2018-c050153a9ee37e190590.js.map"
@@ -115,8 +119,8 @@
       "path---posts-case-study-panel-sbb-6137e1dafc1074f1e0d5.js.map"
     ],
     "app": [
-      "app-579083789620d920fc10.js",
-      "app-579083789620d920fc10.js.map"
+      "app-831b73a16f0f0cf14573.js",
+      "app-831b73a16f0f0cf14573.js.map"
     ],
     "component---src-templates-page-template-js": [
       "component---src-templates-page-template-js-e8163ee780cab4142922.js",
