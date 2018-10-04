@@ -31,7 +31,7 @@ Jeweils 17 – 20 Uhr, um 18:30 Uhr Lightning Talk (15 – 20 min)
 
 
 ### Anmeldung
-Anmeldung über [meetup.com](https://www.meetup.com/Zurich-Web-Worknights/events/253937361/) oder einfach kommen.
+Anmeldung über [meetup.com](https://www.meetup.com/Zurich-Web-Worknights/events/) oder einfach kommen.
 
 ### Infos
 **Zielgruppe**: vom Grafiker bis zum Entwickler. Ob du programmieren kannst oder nicht ist egal, Hauptsache du hast Interesse dich mit Webtechnologie selbständig oder in der Gruppe zu vertiefen.  
