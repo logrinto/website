@@ -23,7 +23,7 @@ Die «Web-Worknights» trifft sich in unregelmässigen Abständen zum gemeinsame
 * **24.08.2018** – Lightning Talk – [Travis CI](https://travis-ci.org/) – [Slides](https://signalwerk.github.io/talk.travis-ci/#)
 * **05.10.2018** – Lightning Talk – [paper.js](http://paperjs.org/)
 * **02.11.2018** – Lightning Talk – [ramdajs](https://ramdajs.com/)
-* ~~**09.11.2018** – Lightning Talk – Typografie vs. Web~~
+* ~~**09.11.2018** – Lightning Talk – Typografie vs. Web~~ (Aufgrund fehlender Anmeldungen abgesagt)
 * **23.11.2018** – Lightning Talk – [React.js](https://reactjs.org/)
 * **07.12.2018** – Lightning Talk – [Git](https://git-scm.com/  ) & [Github](https://github.com/)
 
