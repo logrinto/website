@@ -67,7 +67,7 @@ export const pageQuery = graphql`
     }
     firstPost: allMarkdownRemark(
       limit: 1
-      filter: { frontmatter: { layout: { eq: "post" }, draft: { ne: true } } }
+      filter: { frontmatter: { layout: { eq: "post" }, draft: { ne: true }, hideInMenu: { ne: true } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {
@@ -79,7 +79,7 @@ export const pageQuery = graphql`
     allMarkdownRemark(
       limit: 1000
       skip: 1
-      filter: { frontmatter: { layout: { eq: "post" }, draft: { ne: true } } }
+      filter: { frontmatter: { layout: { eq: "post" }, draft: { ne: true }, hideInMenu: { ne: true } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {

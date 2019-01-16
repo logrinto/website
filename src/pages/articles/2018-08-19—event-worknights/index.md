@@ -4,6 +4,7 @@ author: "Stefan Huber"
 date: "2018-08-19"
 layout: post
 draft: false
+hideInMenu: false
 path: "/events/web-worknights-hs-2018/"
 category: "Event"
 featuredImage: "img/header.png"

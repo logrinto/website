@@ -4,6 +4,7 @@ author: "Stefan Huber"
 date: "2017-10-26"
 layout: post
 draft: true
+hideInMenu: false
 path: "/posts/Tests/"
 category: "Typografie"
 featuredImage: "img/header.png"

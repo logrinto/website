@@ -4,6 +4,7 @@ author: "Michael Scherrer-Kast & Stefan Huber"
 date: "2018-06-02"
 layout: post
 draft: false
+hideInMenu: false
 path: "/posts/case-study-redesign-etherpad/"
 category: "Case Study"
 featuredImage: "img/header.png"
