@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Logrinto Blog]]></title><description><![CDATA[Logrinto Blog]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Thu, 17 Jan 2019 01:41:42 GMT</lastBuildDate><item><title><![CDATA[Smide – wayfinding für E-Bikes]]></title><description><![CDATA[In der dritten Durchführung der Case Studies wurde das Angebot der in Zürich ansässige shared economy Unternehmung Smide untersucht und deren App konzeptionell um eine Anwendung für eine Smartwatch erweitert.]]></description><link>https://logrinto.ch/posts/case-study-smide/</link><guid isPermaLink="false">https://logrinto.ch/posts/case-study-smide/</guid><pubDate>Sat, 10 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Ausgangslage&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Logrinto Blog]]></title><description><![CDATA[Logrinto Blog]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Thu, 17 Jan 2019 09:37:30 GMT</lastBuildDate><item><title><![CDATA[Smide – wayfinding für E-Bikes]]></title><description><![CDATA[In der dritten Durchführung der Case Studies wurde das Angebot der in Zürich ansässige shared economy Unternehmung Smide untersucht und deren App konzeptionell um eine Anwendung für eine Smartwatch erweitert.]]></description><link>https://logrinto.ch/posts/case-study-smide/</link><guid isPermaLink="false">https://logrinto.ch/posts/case-study-smide/</guid><pubDate>Sat, 10 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Ausgangslage&lt;/h2&gt;
 &lt;p&gt;Die Firm &lt;a href=&quot;https://smide.ch/&quot;&gt;smide&lt;/a&gt; ist im Zentrum von Zürich seit dem Frühjahr 2017 mit «free floating» E-Bikes vertreten. Das heisst, Benutzer können mittels einer App auf ihrem Smartphone schauen, wo sich in ihrer Nähe ein E-Bike befindet, dies reservieren und später das Bike zu einem festgelegten Minutenpreis nutzen, bevor es wieder innerhalb der Innenstadt abgestellt werden kann. Das Stadtgebiet ist zwar fix definiert, jedoch kann innert diesem doch sehr grosen Gebiet das Bike frei zurück gegeben werden. Es gibt etwa 200 Bikes, welche in zwei Grössen angeboten werden.&lt;/p&gt;
 &lt;div class=&quot;wide-grid bg&quot;&gt;
   &lt;div class=&quot;col-1to12&quot;&gt;
@@ -45,7 +45,7 @@
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;h3&gt;Wayfinding auf einer Smartwatch&lt;/h3&gt;
-&lt;p&gt;Als schulische Aufgabe – ohne Kontakt und Absprache mit Smide – sollte an diesem Tag eruiert werden, ob und wie sich der Prozess des Auffinden eines Fahrrads und das Buchen einer Fahrt mittels einer Smartwatch realisiert werden könnte. Das Wayfinding beschränkt sich also ausschliesslich auf das auffinden des Bikes und nicht später auf die Fahrt.&lt;/p&gt;
+&lt;p&gt;Als schulische Aufgabe – ohne Kontakt und Absprache mit Smide – sollte an diesem Tag eruiert werden, ob und wie sich der Prozess des Auffindens eines Fahrrads und das Buchen einer Fahrt mittels einer Smartwatch realisieren lässt. Das Wayfinding beschränkt sich also ausschliesslich auf das finden des Bikes und nicht später auf die Fahrt.&lt;/p&gt;
 &lt;h2&gt;Untersuchungen&lt;/h2&gt;
 &lt;p&gt;Als Vorbereitung und Untersuchung zum Thema hatten die Studierenden verschiedene Tests gemacht, wie man sich im Raum orientiert und was Entscheidend bei der Navigation ist.&lt;/p&gt;
 &lt;p&gt;Es gab drei Gruppen:&lt;/p&gt;
@@ -125,6 +125,7 @@
 &lt;/div&gt;
 &lt;h2&gt;Entwürfe – Smartwatch&lt;/h2&gt;
 &lt;p&gt;Die Entwürfe wurden innert kurzer Zeit am selben Nachmittag noch ausgearbeitet, so dass diese für eine Präsentation gezeigt werden konnten.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;img/unterricht/jpg/IMG_8558.jpg&quot; alt=&quot;Impression&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;Entwurf «keep it simple stupid»&lt;/h3&gt;
 &lt;p&gt;Lars und Stephanie haben sich für eine Führung durch die Applikation entschieden, die mit 2 Touchs funktioniert, die jedoch mittels weiteren Interaktionen auch noch mehr Information oder mehr Funktionen erschliesst, die jedoch optional sind und nicht vom eigentlichen Vorgang des Wayfinding und der Buchung ablenken.&lt;/p&gt;
 &lt;h4&gt;Positives&lt;/h4&gt;
@@ -242,7 +243,7 @@
     &lt;/span&gt;
   &lt;/span&gt;
   
-      &lt;figcaption&gt;Bike nah&lt;/figcaption&gt;
+      &lt;figcaption&gt;Bike nahe&lt;/figcaption&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
 &lt;div class=&quot;col-1to3&quot;&gt;
@@ -277,17 +278,17 @@
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;h3&gt;Entwurf «Hello!»&lt;/h3&gt;
-&lt;p&gt;Nicole, Severin und Marc haben einen Entwurf gemacht, der durch eine persönliche Ansprache und deutlichen Buttons Lust macht sich sein Bike zu buchen.&lt;/p&gt;
+&lt;p&gt;Nicole, Severin und Marc haben einen Entwurf gemacht, der durch eine persönliche Ansprache und deutliche Buttons Lust macht, sich sein Bike zu buchen.&lt;/p&gt;
 &lt;h4&gt;Positives&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Persönliche Ansprache beim Startscreen mit integriertem Kontostand.&lt;/li&gt;
 &lt;li&gt;Das nächste Bike wird vorgeschlagen, weitere Bikes aber doch möglich.&lt;/li&gt;
-&lt;li&gt;Auch beim Abschluss der Buchung wieder eine verabschiedung.&lt;/li&gt;
+&lt;li&gt;Auch beim Abschluss der Buchung wieder eine Verabschiedung.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;Inputs/Verbessern&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Listendarstellung einmal mit orangen Pfeilen einmal ohne&lt;/li&gt;
-&lt;li&gt;Wo sind aktive «Flächen» (Buttons) und was steht darauf noch einmal Prüfen. Danke-Button (?), und Listendarstellung bei der Bikewahl kann verbessert werden.&lt;/li&gt;
+&lt;li&gt;Wo sind aktive «Flächen» (Buttons) und was steht darauf noch einmal Prüfen. Danke-Button (?) und Listendarstellung bei der Bikewahl kann verbessert werden.&lt;/li&gt;
 &lt;li&gt;Der Akkustand wird zwar angezeigt, aber was bedeutet das für die Fahrt? Wie weit kommt man damit?&lt;/li&gt;
 &lt;li&gt;Die Distanz zum Ziel und der Akkustand könnten verwirren, da man sie gedanklich verbinden könnte.&lt;/li&gt;
 &lt;/ul&gt;
@@ -407,15 +408,10 @@
 &lt;h4&gt;Inputs/Verbessern&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;In der Listendarstellung wird der Akkustand nur als Prozentwert angezeigt, aber nicht in Kilomenter&lt;/li&gt;
-&lt;li&gt;Die Kilomenter-Angabe mit dem Orangen-Kreis darum kann zu Verwechslungen mit Tempo-Angaben (auch rund und umkreist) führen.&lt;/li&gt;
+&lt;li&gt;Die Kilomenter-Angabe mit dem Orangen-Kreis kann zu Verwechslungen mit Tempo-Angaben (auch rund und umkreist) führen.&lt;/li&gt;
 &lt;li&gt;Wayfinding sehr klein und Karte nicht lesbar&lt;/li&gt;
 &lt;li&gt;Unlock- und Abbrechen-Icon unklarer als Textbutton für Reservation. Wird beim Kreuz nun der aktuelle Screen verlassen oder die Reservation abgebrochen?&lt;/li&gt;
 &lt;li&gt;Die drei Punkte funktionieren zwar, aber weshalb die Buchung nun dort ist, wo vorher die Liste war, ist unklar. Besser auch für die Buchung beim Drawer bleiben.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Listendarstellung einmal mit orangen Pfeilen einmal ohne&lt;/li&gt;
-&lt;li&gt;Wo sind aktive «Flächen» (Buttons) und was steht darauf noch einmal Prüfen. Danke-Button (?), und Listendarstellung bei der Bikewahl kann verbessert werden.&lt;/li&gt;
-&lt;li&gt;Die Distanz zum Ziel und der Akkustand könnten verwirren, da man sie gedanklich verbinden könnte.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;★★★★★ – Technische Realisierbarkeit&lt;br&gt;
 ★★★★☆ – Inhaltliche Struktur&lt;br&gt;
@@ -523,13 +519,7 @@
     &lt;/figure&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;!--
-impressionen
-
-IMG_8558.jpg
-
-IMG_8559.jpg
---&gt;
+&lt;p&gt;&lt;img src=&quot;img/unterricht/jpg/IMG_8559.jpg&quot; alt=&quot;Impression&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;Links&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/logrinto/IAD2017.wayfinding&quot;&gt;Aufgabestellung&lt;/a&gt;&lt;/li&gt;
