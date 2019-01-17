@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Logrinto Blog]]></title><description><![CDATA[Logrinto Blog]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Thu, 17 Jan 2019 01:31:16 GMT</lastBuildDate><item><title><![CDATA[Smide – wayfinding für E-Bikes]]></title><description><![CDATA[In der dritten Durchführung der Case Studies wurde das Angebot der in Zürich ansässige shared economy Unternehmung Smide untersucht und deren App konzeptionell um eine Anwendung für eine Smartwatch erweitert.]]></description><link>https://logrinto.ch/posts/case-study-smide/</link><guid isPermaLink="false">https://logrinto.ch/posts/case-study-smide/</guid><pubDate>Sat, 10 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Ausgangslage&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Logrinto Blog]]></title><description><![CDATA[Logrinto Blog]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Thu, 17 Jan 2019 01:41:42 GMT</lastBuildDate><item><title><![CDATA[Smide – wayfinding für E-Bikes]]></title><description><![CDATA[In der dritten Durchführung der Case Studies wurde das Angebot der in Zürich ansässige shared economy Unternehmung Smide untersucht und deren App konzeptionell um eine Anwendung für eine Smartwatch erweitert.]]></description><link>https://logrinto.ch/posts/case-study-smide/</link><guid isPermaLink="false">https://logrinto.ch/posts/case-study-smide/</guid><pubDate>Sat, 10 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Ausgangslage&lt;/h2&gt;
 &lt;p&gt;Die Firm &lt;a href=&quot;https://smide.ch/&quot;&gt;smide&lt;/a&gt; ist im Zentrum von Zürich seit dem Frühjahr 2017 mit «free floating» E-Bikes vertreten. Das heisst, Benutzer können mittels einer App auf ihrem Smartphone schauen, wo sich in ihrer Nähe ein E-Bike befindet, dies reservieren und später das Bike zu einem festgelegten Minutenpreis nutzen, bevor es wieder innerhalb der Innenstadt abgestellt werden kann. Das Stadtgebiet ist zwar fix definiert, jedoch kann innert diesem doch sehr grosen Gebiet das Bike frei zurück gegeben werden. Es gibt etwa 200 Bikes, welche in zwei Grössen angeboten werden.&lt;/p&gt;
 &lt;div class=&quot;wide-grid bg&quot;&gt;
   &lt;div class=&quot;col-1to12&quot;&gt;
@@ -397,7 +397,7 @@
     &lt;/figure&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;h1&gt;Entwurf «Complete»&lt;/h1&gt;
+&lt;h3&gt;Entwurf «Complete»&lt;/h3&gt;
 &lt;p&gt;Pascale, Nils und Matthias haben als einzige Gruppe auch Settings in die App mit eingebaut. Die ganze Userführung und das UI orientieren sich sehr stark an der bestehenden App.&lt;/p&gt;
 &lt;h4&gt;Positives&lt;/h4&gt;
 &lt;ul&gt;
@@ -523,10 +523,14 @@
     &lt;/figure&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;impressionen&lt;/p&gt;
-&lt;p&gt;IMG_8558.jpg&lt;/p&gt;
-&lt;p&gt;IMG_8559.jpg&lt;/p&gt;
-&lt;h2&gt;Links&lt;/h2&gt;
+&lt;!--
+impressionen
+
+IMG_8558.jpg
+
+IMG_8559.jpg
+--&gt;
+&lt;h3&gt;Links&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/logrinto/IAD2017.wayfinding&quot;&gt;Aufgabestellung&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Meetup – Web‑Worknights]]></title><description><![CDATA[Zum ersten Mal organisieren wir in diesem Semester sechs Abende, an denen eure Projekte im Zentrum stehen.]]></description><link>https://logrinto.ch/events/web-worknights-hs-2018/</link><guid isPermaLink="false">https://logrinto.ch/events/web-worknights-hs-2018/</guid><pubDate>Sun, 19 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Idee&lt;/h2&gt;
