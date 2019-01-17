@@ -10,7 +10,7 @@ category: "Case Study"
 featuredImage: "img/header.png"
 tags:
   - "Case Study"
-  - "Interface"
+  - "wearable"
   - "Typografie"
 description: "In der dritten Durchführung der Case Studies wurde das Angebot der in Zürich ansässige shared economy Unternehmung Smide untersucht und deren App konzeptionell um eine Anwendung für eine Smartwatch erweitert."
 ---
@@ -46,7 +46,7 @@ Die Firm [smide](https://smide.ch/) ist im Zentrum von Zürich seit dem Frühjah
 </div>
 
 ### Wayfinding auf einer Smartwatch
-Als schulische Aufgabe – ohne Kontakt und Absprache mit Smide – sollte an diesem Tag eruiert werden, ob und wie sich der Prozess des Auffinden eines Fahrrads und das Buchen einer Fahrt mittels einer Smartwatch realisiert werden könnte. Das Wayfinding beschränkt sich also ausschliesslich auf das auffinden des Bikes und nicht später auf die Fahrt.
+Als schulische Aufgabe – ohne Kontakt und Absprache mit Smide – sollte an diesem Tag eruiert werden, ob und wie sich der Prozess des Auffindens eines Fahrrads und das Buchen einer Fahrt mittels einer Smartwatch realisieren lässt. Das Wayfinding beschränkt sich also ausschliesslich auf das finden des Bikes und nicht später auf die Fahrt.
 
 
 ## Untersuchungen
@@ -56,6 +56,8 @@ Es gab drei Gruppen:
 * Navigation auf kleinem Raum (in Gebäude) mittels Zeichen und Sprache
 * Navigation innerhalb von einem Umkreis von 200 Meter mittels Plan
 * Navigation innerhalb von einem Umkreis von 400 Meter mittels Sprache
+
+
 
 
 
@@ -101,6 +103,9 @@ Die drei Gruppen arbeiteten nach den ersten Test zum Wayfinding an groben Entwü
 
 ## Entwürfe – Smartwatch
 Die Entwürfe wurden innert kurzer Zeit am selben Nachmittag noch ausgearbeitet, so dass diese für eine Präsentation gezeigt werden konnten.
+
+![Impression](img/unterricht/jpg/IMG_8558.jpg)
+
 
 
 ### Entwurf «keep it simple stupid»
@@ -177,7 +182,7 @@ Lars und Stephanie haben sich für eine Führung durch die Applikation entschied
   <div class="col-10to12">
     <figure class="border">
     <img src="img/groupA/GroupA_09.png" alt="test">
-      <figcaption>Bike nah</figcaption>
+      <figcaption>Bike nahe</figcaption>
     </figure>
   </div>
 
@@ -203,16 +208,16 @@ Lars und Stephanie haben sich für eine Führung durch die Applikation entschied
 </div>
 
 ### Entwurf «Hello!»
-Nicole, Severin und Marc haben einen Entwurf gemacht, der durch eine persönliche Ansprache und deutlichen Buttons Lust macht sich sein Bike zu buchen.
+Nicole, Severin und Marc haben einen Entwurf gemacht, der durch eine persönliche Ansprache und deutliche Buttons Lust macht, sich sein Bike zu buchen.
 
 #### Positives
 * Persönliche Ansprache beim Startscreen mit integriertem Kontostand.
 * Das nächste Bike wird vorgeschlagen, weitere Bikes aber doch möglich.
-* Auch beim Abschluss der Buchung wieder eine verabschiedung.
+* Auch beim Abschluss der Buchung wieder eine Verabschiedung.
 
 #### Inputs/Verbessern
 * Listendarstellung einmal mit orangen Pfeilen einmal ohne
-* Wo sind aktive «Flächen» (Buttons) und was steht darauf noch einmal Prüfen. Danke-Button (?), und Listendarstellung bei der Bikewahl kann verbessert werden.
+* Wo sind aktive «Flächen» (Buttons) und was steht darauf noch einmal Prüfen. Danke-Button (?) und Listendarstellung bei der Bikewahl kann verbessert werden.
 * Der Akkustand wird zwar angezeigt, aber was bedeutet das für die Fahrt? Wie weit kommt man damit?
 * Die Distanz zum Ziel und der Akkustand könnten verwirren, da man sie gedanklich verbinden könnte.
 
@@ -296,15 +301,12 @@ Pascale, Nils und Matthias haben als einzige Gruppe auch Settings in die App mit
 
 #### Inputs/Verbessern
 * In der Listendarstellung wird der Akkustand nur als Prozentwert angezeigt, aber nicht in Kilomenter
-* Die Kilomenter-Angabe mit dem Orangen-Kreis darum kann zu Verwechslungen mit Tempo-Angaben (auch rund und umkreist) führen.
+* Die Kilomenter-Angabe mit dem Orangen-Kreis kann zu Verwechslungen mit Tempo-Angaben (auch rund und umkreist) führen.
 * Wayfinding sehr klein und Karte nicht lesbar
 * Unlock- und Abbrechen-Icon unklarer als Textbutton für Reservation. Wird beim Kreuz nun der aktuelle Screen verlassen oder die Reservation abgebrochen?
 * Die drei Punkte funktionieren zwar, aber weshalb die Buchung nun dort ist, wo vorher die Liste war, ist unklar. Besser auch für die Buchung beim Drawer bleiben.
 
 
-* Listendarstellung einmal mit orangen Pfeilen einmal ohne
-* Wo sind aktive «Flächen» (Buttons) und was steht darauf noch einmal Prüfen. Danke-Button (?), und Listendarstellung bei der Bikewahl kann verbessert werden.
-* Die Distanz zum Ziel und der Akkustand könnten verwirren, da man sie gedanklich verbinden könnte.
 
 
 ★★★★★ – Technische Realisierbarkeit<br>
@@ -373,14 +375,8 @@ Pascale, Nils und Matthias haben als einzige Gruppe auch Settings in die App mit
 </div>
 
 
+![Impression](img/unterricht/jpg/IMG_8559.jpg)
 
-<!--
-impressionen
-
-IMG_8558.jpg
-
-IMG_8559.jpg
--->
 
 
 ### Links
