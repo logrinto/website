@@ -284,7 +284,7 @@ Nicole, Severin und Marc haben einen Entwurf gemacht, der durch eine persönlich
 </div>
 
 
-# Entwurf «Complete»
+### Entwurf «Complete»
 Pascale, Nils und Matthias haben als einzige Gruppe auch Settings in die App mit eingebaut. Die ganze Userführung und das UI orientieren sich sehr stark an der bestehenden App.
 
 
@@ -374,13 +374,14 @@ Pascale, Nils und Matthias haben als einzige Gruppe auch Settings in die App mit
 
 
 
-
+<!--
 impressionen
 
 IMG_8558.jpg
 
 IMG_8559.jpg
+-->
 
 
-## Links
+### Links
 * [Aufgabestellung](https://github.com/logrinto/IAD2017.wayfinding)
