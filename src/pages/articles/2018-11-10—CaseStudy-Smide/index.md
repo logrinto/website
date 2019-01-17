@@ -18,7 +18,7 @@ description: "In der dritten Durchführung der Case Studies wurde das Angebot de
 
 
 ## Ausgangslage
-Die Firm [smide](https://smide.ch/) ist im Zentrum von Zürich seit dem Frühjahr 2017 mit «free floating» E-Bikes vertreten. Das heisst, Benutzer können mittels einer App auf ihrem Smartphone schauen, wo sich in ihrer Nähe ein E-Bike befindet, dies reservieren und später das Bike zu einem festgelegten Minutenpreis nutzen, bevor es wieder innerhalb der Innenstadt abgestellt werden kann. Das Stadtgebiet ist zwar fix definiert, jedoch kann innert diesem doch sehr grosen Gebiet das Bike frei zurück gegeben werden. Es gibt etwa 200 Bikes, welche in zwei Grössen angeboten werden.
+Die Firma [smide](https://smide.ch/) ist im Zentrum von Zürich seit dem Frühjahr 2017 mit «free floating» E-Bikes vertreten. Das heisst, Benutzer können mittels einer App auf ihrem Smartphone schauen, wo sich in ihrer Nähe ein E-Bike befindet, dieses reservieren und später das Bike zu einem festgelegten Minutenpreis nutzen, bevor es wieder innerhalb der Innenstadt abgestellt werden kann. Das Stadtgebiet ist zwar fix definiert, jedoch kann innert diesem doch sehr grosen Gebiet das Bike frei zurück gegeben werden. Es gibt etwa 200 Bikes, welche in zwei Grössen angeboten werden.
 
 
 <div class="wide-grid bg">
@@ -50,7 +50,7 @@ Als schulische Aufgabe – ohne Kontakt und Absprache mit Smide – sollte an di
 
 
 ## Untersuchungen
-Als Vorbereitung und Untersuchung zum Thema hatten die Studierenden verschiedene Tests gemacht, wie man sich im Raum orientiert und was Entscheidend bei der Navigation ist.
+Als Vorbereitung und Untersuchung zum Thema hatten die Studierenden verschiedene Experimente gemacht, wie man sich im Raum orientiert und was Entscheidend bei der Navigation ist.
 
 Es gab drei Gruppen:
 * Navigation auf kleinem Raum (in Gebäude) mittels Zeichen und Sprache
@@ -212,7 +212,7 @@ Nicole, Severin und Marc haben einen Entwurf gemacht, der durch eine persönlich
 
 #### Positives
 * Persönliche Ansprache beim Startscreen mit integriertem Kontostand.
-* Das nächste Bike wird vorgeschlagen, weitere Bikes aber doch möglich.
+* Das nächste Bike wird vorgeschlagen, weitere Bikes aber auch möglich.
 * Auch beim Abschluss der Buchung wieder eine Verabschiedung.
 
 #### Inputs/Verbessern
