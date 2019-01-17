@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Logrinto Blog]]></title><description><![CDATA[Logrinto Blog]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Thu, 17 Jan 2019 09:37:30 GMT</lastBuildDate><item><title><![CDATA[Smide – wayfinding für E-Bikes]]></title><description><![CDATA[In der dritten Durchführung der Case Studies wurde das Angebot der in Zürich ansässige shared economy Unternehmung Smide untersucht und deren App konzeptionell um eine Anwendung für eine Smartwatch erweitert.]]></description><link>https://logrinto.ch/posts/case-study-smide/</link><guid isPermaLink="false">https://logrinto.ch/posts/case-study-smide/</guid><pubDate>Sat, 10 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Ausgangslage&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Logrinto Blog]]></title><description><![CDATA[Logrinto Blog]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Thu, 17 Jan 2019 10:06:37 GMT</lastBuildDate><item><title><![CDATA[Smide – wayfinding für E-Bikes]]></title><description><![CDATA[In der dritten Durchführung der Case Studies wurde das Angebot der in Zürich ansässige shared economy Unternehmung Smide untersucht und deren App konzeptionell um eine Anwendung für eine Smartwatch erweitert.]]></description><link>https://logrinto.ch/posts/case-study-smide/</link><guid isPermaLink="false">https://logrinto.ch/posts/case-study-smide/</guid><pubDate>Sat, 10 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Ausgangslage&lt;/h2&gt;
 &lt;p&gt;Die Firm &lt;a href=&quot;https://smide.ch/&quot;&gt;smide&lt;/a&gt; ist im Zentrum von Zürich seit dem Frühjahr 2017 mit «free floating» E-Bikes vertreten. Das heisst, Benutzer können mittels einer App auf ihrem Smartphone schauen, wo sich in ihrer Nähe ein E-Bike befindet, dies reservieren und später das Bike zu einem festgelegten Minutenpreis nutzen, bevor es wieder innerhalb der Innenstadt abgestellt werden kann. Das Stadtgebiet ist zwar fix definiert, jedoch kann innert diesem doch sehr grosen Gebiet das Bike frei zurück gegeben werden. Es gibt etwa 200 Bikes, welche in zwei Grössen angeboten werden.&lt;/p&gt;
 &lt;div class=&quot;wide-grid bg&quot;&gt;
   &lt;div class=&quot;col-1to12&quot;&gt;
@@ -125,7 +125,30 @@
 &lt;/div&gt;
 &lt;h2&gt;Entwürfe – Smartwatch&lt;/h2&gt;
 &lt;p&gt;Die Entwürfe wurden innert kurzer Zeit am selben Nachmittag noch ausgearbeitet, so dass diese für eine Präsentation gezeigt werden konnten.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;img/unterricht/jpg/IMG_8558.jpg&quot; alt=&quot;Impression&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 3000px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACBf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB0Zp81VxY/8QAGhAAAwADAQAAAAAAAAAAAAAAAQIDABITEf/aAAgBAQABBQLhs9kaRWg1l5LL2APbP//EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAwEBPwGLj//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/Aaf/xAAcEAACAgIDAAAAAAAAAAAAAAAAEQIhATEiQVH/2gAIAQEABj8ClJu+jhr0w0JJj2XCJ//EABkQAAIDAQAAAAAAAAAAAAAAAAERACExQf/aAAgBAQABPyEAqGSrESQw3FiUoy4YbD6K5EKFwS+qf//aAAwDAQACAAMAAAAQZw//xAAXEQEAAwAAAAAAAAAAAAAAAAABEBEh/9oACAEDAQE/EGjsH//EABYRAQEBAAAAAAAAAAAAAAAAABEAAf/aAAgBAgEBPxADkbf/xAAaEAADAAMBAAAAAAAAAAAAAAABESEAMUFh/9oACAEBAAE/ECBtAgn3zOMObBuojWGFYDQozdL28ICHhaEUTLiszB7hey3JrP/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Impression&quot;
+        title=&quot;&quot;
+        src=&quot;/static/IMG_8558-a42b72ef26537ba1e9da5b25b4a35488-84fcc.jpg&quot;
+        srcset=&quot;/static/IMG_8558-a42b72ef26537ba1e9da5b25b4a35488-5424a.jpg 750w,
+/static/IMG_8558-a42b72ef26537ba1e9da5b25b4a35488-6baeb.jpg 1500w,
+/static/IMG_8558-a42b72ef26537ba1e9da5b25b4a35488-84fcc.jpg 3000w,
+/static/IMG_8558-a42b72ef26537ba1e9da5b25b4a35488-4b69e.jpg 4032w&quot;
+        sizes=&quot;(max-width: 3000px) 100vw, 3000px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;
 &lt;h3&gt;Entwurf «keep it simple stupid»&lt;/h3&gt;
 &lt;p&gt;Lars und Stephanie haben sich für eine Führung durch die Applikation entschieden, die mit 2 Touchs funktioniert, die jedoch mittels weiteren Interaktionen auch noch mehr Information oder mehr Funktionen erschliesst, die jedoch optional sind und nicht vom eigentlichen Vorgang des Wayfinding und der Buchung ablenken.&lt;/p&gt;
 &lt;h4&gt;Positives&lt;/h4&gt;
@@ -519,7 +542,30 @@
     &lt;/figure&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;img src=&quot;img/unterricht/jpg/IMG_8559.jpg&quot; alt=&quot;Impression&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 3000px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQG/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAG6FufN6QVB/8QAGRAAAwEBAQAAAAAAAAAAAAAAAQIDABES/9oACAEBAAEFAiJrgUw8aqFWNG4lyF//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExISJx/9oACAEBAAY/AmpMstGxBSfT/8QAHBAAAwACAwEAAAAAAAAAAAAAAAERUXEhMWHB/9oACAEBAAE/IaA3DwY7safoeuEu6oKK2Ox//9oADAMBAAIAAwAAABD07//EABYRAQEBAAAAAAAAAAAAAAAAAAEhEP/aAAgBAwEBPxAZc//EABcRAAMBAAAAAAAAAAAAAAAAAAABIRH/2gAIAQIBAT8QasMR/8QAHhABAQACAgIDAAAAAAAAAAAAAREAIWFxMUFRkdH/2gAIAQEAAT8Qk7NCV557wygKWaa+cbr9LGQSikaPOUBhC+0t/MQc5ALHef/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Impression&quot;
+        title=&quot;&quot;
+        src=&quot;/static/IMG_8559-7299c37be8516d589b7572574acf501a-84fcc.jpg&quot;
+        srcset=&quot;/static/IMG_8559-7299c37be8516d589b7572574acf501a-5424a.jpg 750w,
+/static/IMG_8559-7299c37be8516d589b7572574acf501a-6baeb.jpg 1500w,
+/static/IMG_8559-7299c37be8516d589b7572574acf501a-84fcc.jpg 3000w,
+/static/IMG_8559-7299c37be8516d589b7572574acf501a-4b69e.jpg 4032w&quot;
+        sizes=&quot;(max-width: 3000px) 100vw, 3000px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;
 &lt;h3&gt;Links&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/logrinto/IAD2017.wayfinding&quot;&gt;Aufgabestellung&lt;/a&gt;&lt;/li&gt;
