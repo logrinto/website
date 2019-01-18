@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Logrinto Blog]]></title><description><![CDATA[Logrinto Blog]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Thu, 17 Jan 2019 13:59:57 GMT</lastBuildDate><item><title><![CDATA[Smide – wayfinding für E-Bikes]]></title><description><![CDATA[In der dritten Durchführung der Case Studies wurde das Angebot der in Zürich ansässige shared economy Unternehmung Smide untersucht und deren App konzeptionell um eine Anwendung für eine Smartwatch erweitert.]]></description><link>https://logrinto.ch/posts/case-study-smide/</link><guid isPermaLink="false">https://logrinto.ch/posts/case-study-smide/</guid><pubDate>Sat, 10 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Ausgangslage&lt;/h2&gt;
-&lt;p&gt;Die Firm &lt;a href=&quot;https://smide.ch/&quot;&gt;smide&lt;/a&gt; ist im Zentrum von Zürich seit dem Frühjahr 2017 mit «free floating» E-Bikes vertreten. Das heisst, Benutzer können mittels einer App auf ihrem Smartphone schauen, wo sich in ihrer Nähe ein E-Bike befindet, dies reservieren und später das Bike zu einem festgelegten Minutenpreis nutzen, bevor es wieder innerhalb der Innenstadt abgestellt werden kann. Das Stadtgebiet ist zwar fix definiert, jedoch kann innert diesem doch sehr grosen Gebiet das Bike frei zurück gegeben werden. Es gibt etwa 200 Bikes, welche in zwei Grössen angeboten werden.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Logrinto Blog]]></title><description><![CDATA[Logrinto Blog]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Fri, 18 Jan 2019 11:40:46 GMT</lastBuildDate><item><title><![CDATA[Smide – wayfinding für E-Bikes]]></title><description><![CDATA[In der dritten Durchführung der Case Studies wurde das Angebot der in Zürich ansässige shared economy Unternehmung Smide untersucht und deren App konzeptionell um eine Anwendung für eine Smartwatch erweitert.]]></description><link>https://logrinto.ch/posts/case-study-smide/</link><guid isPermaLink="false">https://logrinto.ch/posts/case-study-smide/</guid><pubDate>Sat, 10 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Ausgangslage&lt;/h2&gt;
+&lt;p&gt;Die Firma &lt;a href=&quot;https://smide.ch/&quot;&gt;smide&lt;/a&gt; ist im Zentrum von Zürich seit dem Frühjahr 2017 mit «free floating» E-Bikes vertreten. Das heisst, Benutzer können mittels einer App auf ihrem Smartphone schauen, wo sich in ihrer Nähe ein E-Bike befindet, dieses reservieren und später das Bike zu einem festgelegten Minutenpreis nutzen, bevor es wieder innerhalb der Innenstadt abgestellt werden kann. Das Stadtgebiet ist zwar fix definiert, jedoch kann innert diesem doch sehr grosen Gebiet das Bike frei zurück gegeben werden. Es gibt etwa 200 Bikes, welche in zwei Grössen angeboten werden.&lt;/p&gt;
 &lt;div class=&quot;wide-grid bg&quot;&gt;
   &lt;div class=&quot;col-1to12&quot;&gt;
     &lt;h3&gt;Bestehende Smide App&lt;/h3&gt;
@@ -47,7 +47,7 @@
 &lt;h3&gt;Wayfinding auf einer Smartwatch&lt;/h3&gt;
 &lt;p&gt;Als schulische Aufgabe – ohne Kontakt und Absprache mit Smide – sollte an diesem Tag eruiert werden, ob und wie sich der Prozess des Auffindens eines Fahrrads und das Buchen einer Fahrt mittels einer Smartwatch realisieren lässt. Das Wayfinding beschränkt sich also ausschliesslich auf das finden des Bikes und nicht später auf die Fahrt.&lt;/p&gt;
 &lt;h2&gt;Untersuchungen&lt;/h2&gt;
-&lt;p&gt;Als Vorbereitung und Untersuchung zum Thema hatten die Studierenden verschiedene Tests gemacht, wie man sich im Raum orientiert und was Entscheidend bei der Navigation ist.&lt;/p&gt;
+&lt;p&gt;Als Vorbereitung und Untersuchung zum Thema hatten die Studierenden verschiedene Experimente gemacht, wie man sich im Raum orientiert und was Entscheidend bei der Navigation ist.&lt;/p&gt;
 &lt;p&gt;Es gab drei Gruppen:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Navigation auf kleinem Raum (in Gebäude) mittels Zeichen und Sprache&lt;/li&gt;
@@ -305,7 +305,7 @@
 &lt;h4&gt;Positives&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Persönliche Ansprache beim Startscreen mit integriertem Kontostand.&lt;/li&gt;
-&lt;li&gt;Das nächste Bike wird vorgeschlagen, weitere Bikes aber doch möglich.&lt;/li&gt;
+&lt;li&gt;Das nächste Bike wird vorgeschlagen, weitere Bikes aber auch möglich.&lt;/li&gt;
 &lt;li&gt;Auch beim Abschluss der Buchung wieder eine Verabschiedung.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;Inputs/Verbessern&lt;/h4&gt;
