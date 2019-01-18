@@ -312,9 +312,9 @@ Pascale, Nils und Matthias haben als einzige Gruppe auch Settings in die App mit
 ★★★★★ – Technische Realisierbarkeit<br>
 ★★★★☆ – Inhaltliche Struktur<br>
 ★★★<span class="star half">☆</span>☆ – Interaktion/Führung<br>
-★★★<span class="star half">☆</span>☆ – Grafisches Konzept<br>
+★★★★☆ – Grafisches Konzept<br>
 
-#### Note 4.7
+#### Note 4.85
 
 
 <div class="wide-grid bg">
