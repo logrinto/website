@@ -4,7 +4,7 @@ author: "Jonas Shriqui & Stefan Huber"
 date: "2018-11-10"
 layout: post
 draft: false
-hideInMenu: true
+hideInMenu: false
 path: "/posts/case-study-smide/"
 category: "Case Study"
 featuredImage: "img/header.png"
@@ -129,7 +129,6 @@ Lars und Stephanie haben sich für eine Führung durch die Applikation entschied
 ★★★★<span class="star half">☆</span> – Interaktion/Führung<br>
 ★★★★★ – Grafisches Konzept<br>
 
-#### Note 5.7
 
 <div class="wide-grid bg">
   <div class="col-1to12">
@@ -227,8 +226,6 @@ Nicole, Severin und Marc haben einen Entwurf gemacht, der durch eine persönlich
 ★★★★☆ – Interaktion/Führung<br>
 ★★★★☆ – Grafisches Konzept<br>
 
-#### Note 5.1
-
 
 <div class="wide-grid bg">
   <div class="col-1to12">
@@ -314,7 +311,6 @@ Pascale, Nils und Matthias haben als einzige Gruppe auch Settings in die App mit
 ★★★<span class="star half">☆</span>☆ – Interaktion/Führung<br>
 ★★★★☆ – Grafisches Konzept<br>
 
-#### Note 4.85
 
 
 <div class="wide-grid bg">
