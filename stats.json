@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---posts-case-study-smide": [
-      "path---posts-case-study-smide-e79208d74d5f2ba19720.js",
-      "path---posts-case-study-smide-e79208d74d5f2ba19720.js.map"
+      "path---posts-case-study-smide-79aea34138ae6954e0bb.js",
+      "path---posts-case-study-smide-79aea34138ae6954e0bb.js.map"
     ],
     "component---src-templates-tag-template-js": [
       "component---src-templates-tag-template-js-c76021e7730553a9afed.js",
@@ -73,8 +73,8 @@
       "component---src-pages-categories-jsx-6cd06680bc73cc11f6f8.js.map"
     ],
     "path---index": [
-      "path---index-95f2c961ab1a0b2f5ac5.js",
-      "path---index-95f2c961ab1a0b2f5ac5.js.map"
+      "path---index-4a3a73656fdebc69c9e1.js",
+      "path---index-4a3a73656fdebc69c9e1.js.map"
     ],
     "path---categories-event": [
       "path---categories-event-ca0c2cddd0c0b5a76764.js",
