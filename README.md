@@ -1,18 +1,16 @@
-
-
-
-#### Running in Development
-`npm develop`
-
-#### Building
-`npm build`
-
-### Status
 [![Build Status](https://travis-ci.org/logrinto/website.svg?branch=master)](https://travis-ci.org/logrinto/website)
 
+## Installation
+* [Install Node](https://nodejs.org/en/download/)
+* [Cloning the Repo](https://github.com/logrinto/website)
+* change to directory `cd ...`
+* `npm install` → Installs the required modules
+* `npm start` → starts for development
+* `npm build` → build final static website
+
+
 ### Todo
-* Build Admin-Console with [netlifycms](https://www.netlifycms.org/)
-* Setup [greenkeeper](https://greenkeeper.io/)
+* Spin [netlifycms](https://www.netlifycms.org/)
 
 ### License
 MIT. See also `license.txt`
