@@ -14,7 +14,7 @@ class TagTemplate extends React.Component {
     return (
       <div className="layout">
         <div className="layout__inner">
-          <Helmet title={`Artikel mit dem Tag «${tag}» - ${title}`} />
+          <Helmet title={`${tag} - ${title}`} />
           <Navigation {...this.props} />
           <TagTemplateDetails {...this.props} />
           <Sidebar {...this.props} />
