@@ -5,76 +5,63 @@ date: "2022-12-31"
 layout: post
 draft: false
 hideInMenu: true
-path: "/posts/em/"
+path: "/posts/tests/"
 category: "Responsive Gestaltung"
 featuredImage: "img/header.png"
 tags:
   - "Responsive Gestaltung"
   - "Typografie"
-  - "em"
-  - "rem"
-  - "dynamisch"
-  - "Masseinheit"
-
-
-description: "Eine der besten Praktiken für die Typografie im Web ist die Verwendung relativer Einheiten wie em und rem. Relative Grössen werden in Abhängigkeit von anderen Masseinheiten angegeben und passen sich dadurch besser verschiedenen Ausgabemedien und Benutzereinstellungen an. Aber wann ist es sinnvoll em anzuwenden, wann besser rem?"
+  - "blabla"
+description: "TLDR – Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien."
 ---
 
 
 
-# **Dynamische Masseinheit em**
+Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.
 
-![](https://www.netnode.ch/sites/default/files/typography_hero_img.png)
+**Weit hinten,** hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik. Der große Oxmox riet ihr davon ab, da es dort wimmele von bösen Kommata, wilden Fragezeichen und hinterhältigen Semikoli, doch das Blindtextchen ließ sich nicht beirren. Es packte seine sieben Versalien, schob sich sein Initial in den Gürtel und machte sich auf den Weg. Als es die ersten Hügel des Kursivgebirges erklommen hatte, warf es einen letzten Blick zurück auf die Skyline seiner Heimatstadt Buchstabhausen, die Headline von Alphabetdorf und die Subline seiner eigenen Straße, der Zeilengasse. Wehmütig lief ihm eine rhetorische Frage über die Wange, dann setzte es seinen Weg fort. Unterwegs traf es eine Copy. Die Copy warnte das Blindtextchen, da, wo sie herkäme wäre sie zigmal umgeschrieben worden und alles, was von ihrem Ursprung noch übrig wäre, sei das Wort "und" und das Blindtextchen solle umkehren und wieder in sein eigenes, sicheres Land zurückkehren. Doch alles Gutzureden konnte es nicht überzeugen und so dauerte es nicht lange, bis ihm ein paar heimtückische Werbetexter auflauerten, es mit Longe und Parole betrunken machten und es dann in ihre Agentur schleppten, wo sie es für ihre Projekte wieder und wieder mißbrauchten. Und wenn es nicht umgeschrieben wurde, dann benutzen Sie es immernoch.
 
-**Eine der besten Praktiken für die Typografie im Web ist die Verwendung relativer Einheiten wie em und rem. Relative Grössen werden in Abhängigkeit von anderen Masseinheiten angegeben und passen sich dadurch besser verschiedenen Ausgabemedien und Benutzereinstellungen an. Aber wann ist es sinnvoll em anzuwenden, wann besser rem?**
+<div>
+  <figure class="float-right">
+  	<img src="http://via.placeholder.com/550x700" alt="test">
+  	<figcaption>Caption</figcaption>
+  </figure>
+</div>
 
-## Was ist der em-Wert?
-Der em-Wert ist eine relative Masseinheit für die Angabe von Grössen. Diese ist in modernen Browsern standardmässig mit 16 Pixeln definiert. Das bedeutet, dass 1em = 16px, 2em = 32px, 1.5em = 24px, 0.75em = 12px ist. Diese Masseinheit kann auf jedes beliebige Element angewendet werden, und verhält sich demnach relativ zueinander. Da der em-Wert auch neu definiert werden kann, ist es möglich, alle mit em definierte Elemente zu verändern, ohne dass diese die Relation zueinander verlieren. Der em-Wert kann auf Schriftgrössen, Zeilenabstände, Breiten- und Höhenangaben etc. angewendet werden.
+Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik. Der große Oxmox riet ihr davon ab, da es dort wimmele von bösen Kommata, wilden Fragezeichen und hinterhältigen Semikoli, doch das Blindtextchen ließ sich nicht beirren. Es packte seine sieben Versalien, schob sich sein Initial in den Gürtel und machte sich auf den Weg. Als es die ersten Hügel des Kursivgebirges erklommen hatte, warf es einen letzten Blick zurück auf die Skyline seiner Heimatstadt Buchstabhausen, die Headline von Alphabetdorf und die Subline seiner eigenen Straße, der Zeilengasse.
 
-### Beispiel
+<div class="wide-grid">
+  <div class="col-1to12">
+    <figure>
+      <img src="http://via.placeholder.com/1800x700" alt="test">
+      <figcaption>Caption</figcaption>
+    </figure>
+  </div>
+</div>
 
-<iframe height="400" style="width: 100%;" scrolling="no" title="Example of em" src="//codepen.io/mariusbecker/embed/YboLEb/?height=265&theme-id=0&default-tab=css,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/mariusbecker/pen/YboLEb/'>Example of em</a> by marius becker
-  (<a href='https://codepen.io/mariusbecker'>@mariusbecker</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+Wehmütig lief ihm eine rhetorische Frage über die Wange, dann setzte es seinen Weg fort. Unterwegs traf es eine Copy. Die Copy warnte das Blindtextchen, da, wo sie herkäme wäre sie zigmal umgeschrieben worden und alles, was von ihrem Ursprung noch übrig wäre, sei das Wort "und" und das Blindtextchen solle umkehren und wieder in sein eigenes, sicheres Land zurückkehren. Doch alles Gutzureden konnte es nicht überzeugen und so dauerte es nicht lange, bis ihm ein paar heimtückische Werbetexter auflauerten, es mit Longe und Parole betrunken machten und es dann in ihre Agentur schleppten, wo sie es für ihre Projekte wieder und wieder mißbrauchten. Und wenn es nicht umgeschrieben wurde, dann benutzen Sie es immernoch.
 
-In diesem Beispiel wude im ersten Container (.parent) die Schriftgrösse auf 20px gesetzt. Da das Element (.outerChild) sich im Conteiner (.parent) befindet und im em-Wert angegeben ist, werden die Grössen von diesem geerbt.
-* Schriftgrösse: 20px × 1.75 = 35px
-* Zeilenabstand: 20px × 2 = 40px
+## Untertitel
 
-Das Objekt (.innerChild) befindet sich im Container (.outerChild), und erbt somit diesen wert:
-* Schriftgrösse: 35px × 1.75 = 61.25px
-* Zeilenabstand: 40px × 2 = 80px
-
-
-## Vorteile von EM-Wert
-- Hilft uns modulare Komponente zu erstellen.
-- Größen werden proportional korrekt dargestellt.
-- Schnelle Anpassung der Schriftgrössen möglich mit wenig Aufwand.
+Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik.
 
 
+<div class="wide-grid bg">
+  <div class="col-1to12">
+    <figure>
+      <img src="http://via.placeholder.com/1800x700" alt="test">
+      <figcaption>Caption</figcaption>
+    </figure>
+  </div>
+</div>
 
-## Wann wenden wir den em-Wert an?
-Em ist eine sehr nützliche Einheit für Schriftgrössen, da es seine Länge automatisch relativ zur vom Leser gewählten Schrift anpasst.
+Der große Oxmox riet ihr davon ab, da es dort wimmele von bösen Kommata, wilden Fragezeichen und hinterhältigen Semikoli, doch das Blindtextchen ließ sich nicht beirren. Es packte seine sieben Versalien, schob sich sein Initial in den Gürtel und machte sich auf den Weg. Als es die ersten Hügel des Kursivgebirges erklommen hatte, warf es einen letzten Blick zurück auf die Skyline seiner Heimatstadt Buchstabhausen, die Headline von Alphabetdorf und die Subline seiner eigenen Straße, der Zeilengasse. Wehmütig lief ihm eine rhetorische Frage über die Wange, dann setzte es seinen Weg fort. Unterwegs traf es eine Copy. Die Copy warnte das Blindtextchen, da, wo sie herkäme wäre sie zigmal umgeschrieben worden und alles, was von ihrem Ursprung noch übrig wäre, sei das Wort "und" und das Blindtextchen solle umkehren und wieder in sein eigenes, sicheres Land zurückkehren. Doch alles Gutzureden konnte es nicht überzeugen und so dauerte es nicht lange, bis ihm ein paar heimtückische Werbetexter auflauerten, es mit Longe und Parole betrunken machten und es dann in ihre Agentur schleppten, wo sie es für ihre Projekte wieder und wieder mißbrauchten. Und wenn es nicht umgeschrieben wurde, dann benutzen Sie es immernoch.
 
-Für den Zeilenabstand eignet sich em auch gut, damit gewährleistet man, dass der Zeilenabstand entsprechend zur Schriftgröße eine optimale Lesbarkeit ermöglicht.
+<div>
+  <figure class="float-left">
+  	<img src="http://via.placeholder.com/550x700" alt="test">
+  	<figcaption>Caption</figcaption>
+  </figure>
+</div>
 
-Für konsistente Abstände wie margin oder padding skaliert sich der EM-Wert automatisch mit den Media Queries. Hingegen in Pixel Angaben würden sie bei jedem Breakpoint neu überschrieben werden. Em eignet sich daher sehr gut für responsives Design.
-
-
-
-## Wann nutzen wir besser den rem-Wert?
-Em (und Prozent) bezieht sich immer auf das Eltern-Element. Bei stark verschachtelten Elementen werden die Schriftgrössen schwerer berechenbar. Rem-Werte hingegen sind relativ zum html-Wurzelelement, nicht zum Elternelement. Mit anderen Worten ermöglicht es, eine Schriftgröße in einer relativen Weise zu spezifizieren ohne durch das Elternelement beeinflusst zu werden, was ein klarer Vorteil gegenüber dem EM-Wert ist.
-
-![](https://i.imgur.com/93oUNl9.png)
-
-
-
-<br>
-
-**Quelle**
-- https://developer.mozilla.org/de/docs/Web/CSS/font-size
-- https://www.elmastudio.de/css-tipp-rem-als-einheit-fur-schriftgrose-nutzen/
-- http://www.intensivstation.ch/css3/em-rem
-- https://www.mediaevent.de/css/font-size-rem.html
-- https://www.netnode.ch/blog/masseinheiten-und-kenngroessen-fuer-die-typographie-im-web-teil-1
+Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik. Der große Oxmox riet ihr davon ab, da es dort wimmele von bösen Kommata, wilden Fragezeichen und hinterhältigen Semikoli, doch das Blindtextchen ließ sich nicht beirren. Es packte seine sieben Versalien, schob sich sein Initial in den Gürtel und machte sich auf den Weg. Als es die ersten Hügel des Kursivgebirges erklommen hatte, warf es einen letzten Blick zurück auf die Skyline seiner Heimatstadt Buchstabhausen, die Headline von Alphabetdorf und die Subline seiner eigenen Straße, der Zeilengasse. Wehmütig lief ihm eine rhetorische Frage über die Wange, dann setzte es seinen Weg fort. Unterwegs traf es eine Copy. Die Copy warnte das Blindtextchen, da, wo sie herkäme wäre sie zigmal umgeschrieben worden und alles, was von ihrem Ursprung noch übrig wäre, sei das Wort "und" und das Blindtextchen solle umkehren und wieder in sein eigenes, sicheres Land zurückkehren. Doch alles Gutzureden konnte es nicht überzeugen und so dauerte es nicht lange, bis ihm ein paar heimtückische Werbetexter auflauerten, es mit Longe und Parole betrunken machten und es dann in ihre Agentur schleppten, wo sie es für ihre Projekte wieder und wieder mißbrauchten. Und wenn es nicht umgeschrieben wurde, dann benutzen Sie es immernoch.
