@@ -12,6 +12,8 @@
 <url> <loc>https://logrinto.ch/tags/design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/tags/tools/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/categories/responsive-gestaltung/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/posts/fontscale/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/tags/font-scale/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/posts/tools/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/posts/typoartboard/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/tags/responsive-design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -34,6 +36,17 @@
 <url> <loc>https://logrinto.ch/posts/case-study-smide/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/tags/wearable/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/posts/case-study-interface-the-kitchen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/posts/Referenzdesign/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/tags/referenzdesign/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/tags/interaction-design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/tags/styleguide/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/tags/atomic-design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/tags/modular-design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/tags/best-practice/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/posts/umgang-mit-tabellen-im-web/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/tags/tabellen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/tags/best-use/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/tags/ux-ui/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/posts/viewport-einheiten/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/tags/viewport-einheiten/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/posts/bezugselemente/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
