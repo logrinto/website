@@ -18,12 +18,6 @@ description: "In Designprozessen könnte vieles besser laufen. Gerade im Interac
 
 
 
-# Do tools really matter?
-
-
-**In Designprozessen könnte vieles besser laufen. Gerade im Interaction Design – also wenn es darum geht Produkte oder Prozessschritte erlebbar zu machen, stossen die Design Tools öfters an ihre Grenzen oder die definierten Interaktionen können in der Entwicklung nicht so umgesetzt werden. Wie könnte man diesen Gap aufbrechen und gibt es «das Eine» Designtool?**
-
-
 *Ein Artikel von Wolfgang, Marius und Pascale – HF IAD 2017*
 
 
