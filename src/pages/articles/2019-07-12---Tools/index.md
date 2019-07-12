@@ -17,7 +17,6 @@ description: "In Designprozessen könnte vieles besser laufen. Gerade im Interac
 
 
 
-![](https://i.imgur.com/L6Ivvhq.jpg)
 
 # Do tools really matter?
 
@@ -38,6 +37,7 @@ Oft kollidiert es aber auch schon nur am Naming der Elemente und man spricht nic
 
 ### Wir sitzen im gleichen Boot
 In einem ersten offiziellen Kickoff Meeting werden alle Parteien beim Meeting mit einbezogen. Wichtig ist da, dass der Moderator es schafft, die Mitglieder zu sensibilisieren, dass alle Anwesenden im gleichen Boot sind und in einem Interdisziplinären Team gearbeitet werden muss, um zu einem zufriedenstellenden Resultat zu kommen. In diesem Meeting werden Sprache und Begriffe für die Kommunikation definiert und in diese werden in einem öffentlichen Dokument abgelegt.
+
 ![](https://i.imgur.com/LXSBA5N.jpg)
 
 
@@ -64,15 +64,18 @@ Auch bei Präsentations-Tools gibt es nicht nur eine Hand voll. Wichtig ist, das
 Nach der Überarbeitung von Inhalt und Design wird aus dem Wireframe ein klickbarer Low-fi Prototyp erarbeitet. Die Entwickler starten mit Hilfe des Wireframes und der Sitemap mit der globalen Logik auf die verschiedenen Ausgabegeräte.
 
 Der UX Designer übermittelt dem UI Designer die Templates der Sitemap damit dieser weiss, welche Seiten im Detail ausgearbeitet werden. Denn der UI Designer muss nur diese Seiten ausgestalten, die sich vom Grundaufbau unterscheiden. Wenn der Kunde mehr als die Templates ausgestaltet haben will, könnte in Zukunft auch eine AI zum Zug kommen, die alle Seiten im Design mit Inhalt generiert.
+
 ![](https://i.imgur.com/45mWG7b.jpg)
 
 
 ### Design präsentieren
 Nach der Erstellung des Low-fi Prototypen und der Ausgestaltung der Templates, werden wieder alle Projektmitglieder inkl. Kunde miteinbezogen und das Design wird präsentiert.
+
 ![](https://i.imgur.com/Ri2las6.jpg)
 
 ### Design Manual
 Bei grösseren Projekten kann die Erarbeitung eines Design Manuals sehr wertvoll sein. Vor allem auch dann, wenn das Produkt auf verschiedenen Kanälen verfügbar ist. Auf Print, digital oder mobile gibt es andere Vorgaben. Der Einsatz von einem Tool wie Frontify ist möglich. Wichtig ist, dass das Dokument einfach mit anderen Projektmitgliedern geteilt werden kann und ein Dokument ist, welches nicht fertig ist (living Styleguide).
+
 ![](https://i.imgur.com/xXKsRtX.jpg)
 
 
