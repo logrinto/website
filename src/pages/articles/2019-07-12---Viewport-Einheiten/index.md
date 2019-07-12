@@ -1,11 +1,11 @@
 ---
-title: "Viewport Einheiten"
-author: "Nicole Watrinet, Pascale Anderegg, Severin Kilchhofer"
+title: "Wann lohnt sich der Einsatz von Viewport Einheiten?"
+author: "Ein Artikel von Severin Kilchhofer, Pascale Anderegg und Nicole Watrinet – HF IAD 2017"
 date: "2019-07-12"
 layout: post
 draft: false
 hideInMenu: true
-path: "/posts/Viewport-Einheiten/"
+path: "/posts/viewport-einheiten/"
 category: "Responsive Gestaltung"
 featuredImage: "img/header.png"
 tags:
@@ -16,12 +16,6 @@ description: "Der Viewport ist der Bereich wo der Browser die Seite rendert. Man
 ---
 
 
-
-# Wann lohnt sich der Einsatz von Viewport Einheiten?
-
-**Der Viewport ist der Bereich wo der Browser die Seite rendert. Manchmal möchte man Elemente wie eine Sidebar oder ein Grid am Viewport ausrichten. Dies kann mit den neuen Viewport Units erreicht werden. Aber wo genau liegen Potenzial und Einschränkungen dieser Einheiten?**
-
-*Ein Artikel von Severin Kilchhofer, Pascale Anderegg und Nicole Watrinet – HF IAD 2017*
 
 ## Viewport Einheiten kurz erklärt
 Vw (viewport width) and vh (viewport height) sind Einheiten genau wie em, Pixel oder Prozent. Sie sind noch relativ neu und werden noch nicht von allen aktuellen Browsern unterstützt. Sie können für Anwendungen wie One-pagers, full-width grids, Typografie und anderen Elementen abhängig vom Viewport eingesetzt werden. Als Beispiel setzt [Wood-room](http://www.wood-room.ch/#wood-room) die Vw-Einheit in ihrem One Pager ein, um Bilder und Abschnitte immer auf die ganze Bildschirmhöhe und -breite zu skalieren.
@@ -35,8 +29,14 @@ Eine der vier Einheiten ist jeweils 1% von der jeweiligen Viewport-Achse.
 * **1vmin** = 1vw oder 1vh, dasjenige welches kleiner ist von beiden
 * **1vmax** = 1vw oder 1vh, dasjenige welches grösser ist von beiden
 
-![](https://i.imgur.com/RPPdhY6.png)
-*Die Einheiten vmin und vmax im Vergleich bei einem quadratischen Bild auf einem Smartphone dargestellt. Bei vmin wird die schmale Seite verwendet und bei vmax die lange.* 
+
+<div class="wide-grid">
+  <div class="col-1to12">
+    <img src="https://i.imgur.com/RPPdhY6.png" alt="vmin vmax">
+    <figcaption>Die Einheiten vmin und vmax im Vergleich bei einem quadratischen Bild auf einem Smartphone dargestellt. Bei vmin wird die schmale Seite verwendet und bei vmax die lange.</figcaption>
+  </figure>
+</div>
+
 
 ```css
 .boxlinks {
@@ -166,17 +166,34 @@ Um einen Code strukturiert aufzubauen macht es Sinn gewisse Elemente ineinander 
 ## Browser Support
 Aktuell werden die folgenden Browser von Viewport Einheiten unterstützt: IE 10+, Firefox 19+, Chrome 34+, Safari 7+, Android 4.4+, iOS 6+.
 
-![](https://i.imgur.com/vZ4dlqn.png)
+<div class="wide-grid">
+  <div class="col-1to12">
+    <figure>
+      <img src="https://i.imgur.com/vZ4dlqn.png" alt="Browsersupport">
+      <figcaption> Grafik www.caniuse.com/#search=vw </figcaption>
+    </figure>
+  </div>
+</div>
 
-Grafik [www.caniuse.com](https://caniuse.com/#search=vw)
+
+
 
 ## Übergabe Design an Entwicklung
 Was muss noch auf Designseite zum Thema der Viewport Einheiten überlegt bzw. geliefert werden? Nach unseren Recherchen und Gesprächen sind wir der Meinung, dass der Designer der Entwicklung keine Angaben über die Umsetzungsart mitgeben soll. **Es soll dem Entwickler frei sein, ob er mit Prozent, em's oder Viewport Units arbeiten möchte.** Zudem soll auch das Box-Modell Aufgabe des Programmierers sein, da dies zu weit in sein Themengebiet eingreift und sonst nur die Kosten im Design erhöht. 
 
 **Der Designer soll ihm aber klar definieren welche Elemente sich wann im Viewport befinden müssen.** Es sollen Viewport Designs für alle Template-Seiten erstellt werden. Dies sind alle Seiten, die einen anderen Aufbau haben, sodass auch beim Design nicht zu viel Aufwand entsteht. Diese Designs sollen jeweils auf Desktop, Mobile und Tablet aufbereitet werden. Dies erspart allfällige Rückfragen oder Änderungen und somit Zeit und Budget.
 
-![](https://i.imgur.com/v8t52Am.png)
-Grafik [www.awwwards.com](https://www.awwwards.com/why-responsive-design-support-is-the-most-important-feature-you-can-add-to-your-website.html)
+
+<div class="wide-grid bg">
+  <div class="col-1to12">
+    <figure>
+      <img src="https://i.imgur.com/v8t52Am.png" alt="Responsiveness">
+      <figcaption>Grafik www.awwwards.com/why-responsive-design-support-is-the-most-important-feature-you-can-add-to-your-website.html</figcaption>
+    </figure>
+  </div>
+</div>
+
+
 
 
 ## Quellen
@@ -189,42 +206,4 @@ https://css-tricks.com/fun-viewport-units/
 https://css-tricks.com/viewport-sized-typography/
 
 https://css-tricks.com/simple-little-use-case-vmin/
-
-
-<div>
-  <figure class="float-right">
-  	<img src="http://via.placeholder.com/550x700" alt="test">
-  	<figcaption>Caption</figcaption>
-  </figure>
-</div>
-
-
-<div class="wide-grid">
-  <div class="col-1to12">
-    <figure>
-      <img src="http://via.placeholder.com/1800x700" alt="test">
-      <figcaption>Caption</figcaption>
-    </figure>
-  </div>
-</div>
-
-
-
-<div class="wide-grid bg">
-  <div class="col-1to12">
-    <figure>
-      <img src="http://via.placeholder.com/1800x700" alt="test">
-      <figcaption>Caption</figcaption>
-    </figure>
-  </div>
-</div>
-
-
-
-<div>
-  <figure class="float-left">
-  	<img src="http://via.placeholder.com/550x700" alt="test">
-  	<figcaption>Caption</figcaption>
-  </figure>
-</div>
 
