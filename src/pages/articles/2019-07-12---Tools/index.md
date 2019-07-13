@@ -1,11 +1,11 @@
 ---
 title: "Do tools really Matter?"
-author: "Wolfgang, Marius, Pascale"
+author: "Wolfgang Schoeck, Marius Becker, Pascale Anderegg"
 date: "2019-07-12"
 layout: post
 draft: false
 hideInMenu: true
-path: "/posts/tools/"
+path: "/posts/responsive-design-iad2017-tools/"
 category: "Responsive Gestaltung"
 featuredImage: "img/header.png"
 tags:
@@ -14,12 +14,6 @@ tags:
   - "Tools"
 description: "In Designprozessen könnte vieles besser laufen. Gerade im Interaction Design – also wenn es darum geht Produkte oder Prozessschritte erlebbar zu machen, stossen die Design Tools öfters an ihre Grenzen oder die definierten Interaktionen können in der Entwicklung nicht so umgesetzt werden. Wie könnte man diesen Gap aufbrechen und gibt es «das Eine» Designtool?"
 ---
-
-
-
-
-*Ein Artikel von Wolfgang, Marius und Pascale – HF IAD 2017*
-
 
 ### Painpoints eines Designers
 Wir haben uns als Interaction Designer die Frage gestellt, was denn aktuell im Arbeitsprozess schief läuft. Wir werden euch ein paar davon nennen und sind uns sicher, dass euch das Eine oder Andere bekannt ist. Zum Beispiel fehlt oft die Zeit um elementare Elemente wie Transitions umzusetzen. Die Zeit wird dann eher genutzt um alle Detailpages zu layouten, sodass der Kunde alle Designs gesehen hat. Wenn alle Designs gemacht sind und es in die Umsetzung geht, wird oft nicht genügend kommuniziert und vieles, wie Transitions in der Entwicklung selber bestimmt. Am Ende ist der Designer sowie der Kunde unglücklich weil die Website live nicht so aussieht wie im Hi-Fi Prototypen.
