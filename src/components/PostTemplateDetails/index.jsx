@@ -48,7 +48,11 @@ class PostTemplateDetails extends React.Component {
             title={post.frontmatter.title}
           />
 
-          <h1>{post.frontmatter.title}</h1>
+          <div className="wide-grid post-single__title">
+            <div className="col-2to12">
+              <h1>{post.frontmatter.title}</h1>
+            </div>
+          </div>
 
           <div className="post-single__meta">
             <small>

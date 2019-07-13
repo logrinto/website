@@ -103,7 +103,9 @@ $picW-wide-desktop: 4;
       div.col-1to8 {
         @include col(1 to 8);
       }
-
+      div.col-2to12 {
+        @include col(2 to 12);
+      }
       div.col-5to12 {
         @include col(5 to 12);
       }
