@@ -4,7 +4,7 @@ author: "Michael Scherrer-Kast & Stefan Huber"
 date: "2019-04-05"
 layout: post
 draft: false
-hideInMenu: true
+hideInMenu: false
 path: "/posts/case-study-interface-the-kitchen/"
 category: "Case Study"
 featuredImage: "img/header.jpg"
@@ -134,9 +134,6 @@ Severin, Natasha und Stephanie haben sich in ihrem Entwurf auf drei Hauptschritt
 ★★★★☆ – Konzept  
 
 
-#### Note 5.35
-
-
 ### Entwurf «Journey»
 Das Team um Pascale, Tieu und Matthias haben in ihrem Entwurf versucht die Grundfunktion auf einen Screen zu platzieren und dabei vor allem die Zeit für die Zubereitung in einfacher Weise zugänglich zu machen
 
@@ -193,8 +190,6 @@ Das Team um Pascale, Tieu und Matthias haben in ihrem Entwurf versucht die Grund
 ★★★★☆ – Inhalt  
 ★★★★☆ – Interaktion/Führung  
 ★★★<span class="star half">☆</span>☆ – Konzept  
-
-#### Note 4.9
 
 
 ### Entwurf «Alternative»
@@ -273,9 +268,6 @@ Team Marc, Nils und Lars haben in Ihrem Entwurf zwei Zugänge zur Bedienung des 
 ★★★★<span class="star half">☆</span> – Konzept  
 
 
-#### Note 5.40
-
-
 
 ### Entwurf «Just-in-time»
 Marius, Wolfgang und Nicole haben sich thematisch auf das Thema Zeit fokussiert und was allenfalls auch noch während des Backends entscheidend sein kann. Der Zeitstrahl kann somit nicht nur auf das Ende hin steuern, sondern es können noch weitere Reminder gesetzt werden.
@@ -345,10 +337,6 @@ Marius, Wolfgang und Nicole haben sich thematisch auf das Thema Zeit fokussiert 
 ★★★★<span class="star half">☆</span> – Inhalt  
 ★★★☆☆ – Interaktion/Führung  
 ★★★<span class="star half">☆</span>☆ – Konzept  
-
-#### Note 4.45
-
-
 
 
 
