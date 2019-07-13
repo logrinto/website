@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Logrinto Blog]]></title><description><![CDATA[Logrinto Blog]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Sat, 13 Jul 2019 14:35:21 GMT</lastBuildDate><item><title><![CDATA[Test]]></title><description><![CDATA[TLDR – Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.]]></description><link>https://logrinto.ch/posts/tests/</link><guid isPermaLink="false">https://logrinto.ch/posts/tests/</guid><pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;http://via.placeholder.com/1200x900&quot; alt=&quot;Inline Bild&quot;&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Logrinto Blog]]></title><description><![CDATA[Logrinto Blog]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Sat, 13 Jul 2019 14:55:19 GMT</lastBuildDate><item><title><![CDATA[Test]]></title><description><![CDATA[TLDR – Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.]]></description><link>https://logrinto.ch/posts/tests/</link><guid isPermaLink="false">https://logrinto.ch/posts/tests/</guid><pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;http://via.placeholder.com/1200x900&quot; alt=&quot;Inline Bild&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Weit hinten,&lt;/strong&gt; hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik. Der große Oxmox riet ihr davon ab, da es dort wimmele von bösen Kommata, wilden Fragezeichen und hinterhältigen Semikoli, doch das Blindtextchen ließ sich nicht beirren. Es packte seine sieben Versalien, schob sich sein Initial in den Gürtel und machte sich auf den Weg. Als es die ersten Hügel des Kursivgebirges erklommen hatte, warf es einen letzten Blick zurück auf die Skyline seiner Heimatstadt Buchstabhausen, die Headline von Alphabetdorf und die Subline seiner eigenen Straße, der Zeilengasse. Wehmütig lief ihm eine rhetorische Frage über die Wange, dann setzte es seinen Weg fort. Unterwegs traf es eine Copy. Die Copy warnte das Blindtextchen, da, wo sie herkäme wäre sie zigmal umgeschrieben worden und alles, was von ihrem Ursprung noch übrig wäre, sei das Wort “und” und das Blindtextchen solle umkehren und wieder in sein eigenes, sicheres Land zurückkehren. Doch alles Gutzureden konnte es nicht überzeugen und so dauerte es nicht lange, bis ihm ein paar heimtückische Werbetexter auflauerten, es mit Longe und Parole betrunken machten und es dann in ihre Agentur schleppten, wo sie es für ihre Projekte wieder und wieder mißbrauchten. Und wenn es nicht umgeschrieben wurde, dann benutzen Sie es immernoch.&lt;/p&gt;
 &lt;div&gt;
@@ -1119,7 +1119,6 @@ vh/vw bezieht sich immer auf die Grösse des Viewports. Dafür ein Beispiel:&lt;
 ★★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt; – Inhalt&lt;br&gt;
 ★★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt; – Interaktion/Führung&lt;br&gt;
 ★★★★☆ – Konzept  &lt;/p&gt;
-&lt;h4&gt;Note 5.35&lt;/h4&gt;
 &lt;h3&gt;Entwurf «Journey»&lt;/h3&gt;
 &lt;p&gt;Das Team um Pascale, Tieu und Matthias haben in ihrem Entwurf versucht die Grundfunktion auf einen Screen zu platzieren und dabei vor allem die Zeit für die Zubereitung in einfacher Weise zugänglich zu machen&lt;/p&gt;
 &lt;div class=&quot;wide-grid bg&quot;&gt;
@@ -1239,7 +1238,6 @@ vh/vw bezieht sich immer auf die Grösse des Viewports. Dafür ein Beispiel:&lt;
 ★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt;☆ – Konzept  &lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Note 4.9&lt;/h4&gt;
 &lt;h3&gt;Entwurf «Alternative»&lt;/h3&gt;
 &lt;p&gt;Team Marc, Nils und Lars haben in Ihrem Entwurf zwei Zugänge zur Bedienung des Backofens gewählt und in ihrem &lt;a href=&quot;https://hackmd.io/@larsmaeder/HydfvuNt4?type=view#&quot;&gt;Konzept&lt;/a&gt; auch Überlegungen zu ihrer Vision festgehalten.&lt;/p&gt;
 &lt;p&gt;
@@ -1398,7 +1396,6 @@ vh/vw bezieht sich immer auf die Grösse des Viewports. Dafür ein Beispiel:&lt;
 ★★★★☆ – Inhalt&lt;br&gt;
 ★★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt; – Interaktion/Führung&lt;br&gt;
 ★★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt; – Konzept  &lt;/p&gt;
-&lt;h4&gt;Note 5.40&lt;/h4&gt;
 &lt;h3&gt;Entwurf «Just-in-time»&lt;/h3&gt;
 &lt;p&gt;Marius, Wolfgang und Nicole haben sich thematisch auf das Thema Zeit fokussiert und was allenfalls auch noch während des Backends entscheidend sein kann. Der Zeitstrahl kann somit nicht nur auf das Ende hin steuern, sondern es können noch weitere Reminder gesetzt werden.&lt;/p&gt;
 &lt;div class=&quot;wide-grid bg&quot;&gt;
@@ -1532,7 +1529,6 @@ vh/vw bezieht sich immer auf die Grösse des Viewports. Dafür ein Beispiel:&lt;
 ★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt;☆ – Konzept  &lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Note 4.45&lt;/h4&gt;
 &lt;h2&gt;Fazit&lt;/h2&gt;
 &lt;p&gt;Für alle Beteiligten – Studierende wie Dozierende – war wohl klar, dass das Thema Küchenofen noch viel Potential zur Verbesserung bietet. Ob es eine verstellte Uhr, eine komplizierte Defrost-Funktion oder die Frage nach der richtigen Zubereitung ist; früher oder später sind wir wohl alle schon an interface und inhaltliche Probleme im Umgang mit diesem alltäglichen Küchengerät geraten. Einen Tag Case Study kann nicht alle Fragen beantworten, aber es gibt Ansätze, die man im Praxistest gerne validieren möchte!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Smide – wayfinding für E-Bikes]]></title><description><![CDATA[In der dritten Durchführung der Case Studies wurde das Angebot der in Zürich ansässige shared economy Unternehmung Smide untersucht und deren App konzeptionell um eine Anwendung für eine Smartwatch erweitert.]]></description><link>https://logrinto.ch/posts/case-study-smide/</link><guid isPermaLink="false">https://logrinto.ch/posts/case-study-smide/</guid><pubDate>Sat, 10 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Ausgangslage&lt;/h2&gt;
 &lt;p&gt;Die Firma &lt;a href=&quot;https://smide.ch/&quot;&gt;smide&lt;/a&gt; ist im Zentrum von Zürich seit dem Frühjahr 2017 mit «free floating» E-Bikes vertreten. Das heisst, Benutzer können mittels einer App auf ihrem Smartphone schauen, wo sich in ihrer Nähe ein E-Bike befindet, dieses reservieren und später das Bike zu einem festgelegten Minutenpreis nutzen, bevor es wieder innerhalb der Innenstadt abgestellt werden kann. Das Stadtgebiet ist zwar fix definiert, jedoch kann innert diesem doch sehr grosen Gebiet das Bike frei zurück gegeben werden. Es gibt etwa 200 Bikes, welche in zwei Grössen angeboten werden.&lt;/p&gt;
@@ -2119,7 +2115,259 @@ vh/vw bezieht sich immer auf die Grösse des Viewports. Dafür ein Beispiel:&lt;
 &lt;h3&gt;Infos&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Zielgruppe&lt;/strong&gt;: vom Grafiker bis zum Entwickler. Ob du programmieren kannst oder nicht ist egal, Hauptsache du hast Interesse dich mit Webtechnologie selbständig oder in der Gruppe zu vertiefen.&lt;br&gt;
 &lt;strong&gt;Ort&lt;/strong&gt;: Die &lt;a href=&quot;http://sfgz.ch/&quot;&gt;→ Schule für Gestaltung Zürich&lt;/a&gt; (Ausstellungsstrasse 104, 8005 Zürich) bietet uns Räume und ein paar Getränke.&lt;br&gt;
-&lt;strong&gt;Preis&lt;/strong&gt;: kostenlos  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Texteditor – Redesign Etherpad]]></title><description><![CDATA[Bei der Case Study im Sommer 2018 wurden in einem intensiven Arbeitstag Entwürfe erarbeitet, wie die bestehende Software Etherpad um weitere Funktionen ergänzt werden kann und wie das User-Interface zu erweitern wäre.]]></description><link>https://logrinto.ch/posts/case-study-redesign-etherpad/</link><guid isPermaLink="false">https://logrinto.ch/posts/case-study-redesign-etherpad/</guid><pubDate>Sat, 02 Jun 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Intro&lt;/h2&gt;
+&lt;strong&gt;Preis&lt;/strong&gt;: kostenlos  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Texteditor – Redesign Etherpad]]></title><description><![CDATA[During the case study in the summer of 2018, an intensive working day was spent working out drafts on how the existing Etherpad software could be extended with additional functions and how the user interface could be extended.]]></description><link>https://logrinto.ch/en/posts/case-study-redesign-etherpad/</link><guid isPermaLink="false">https://logrinto.ch/en/posts/case-study-redesign-etherpad/</guid><pubDate>Sat, 02 Jun 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Intro&lt;/h2&gt;
+&lt;p&gt;Collaborative work using software offers many opportunities for distributed groups to complement each other despite spatial distance or to simultaneously perform an effort at the same location. The open source software &lt;a href=&quot;http://etherpad.org/&quot;&gt;Etherpad&lt;/a&gt; offers an easy introduction to this when it comes to text creation. However, the free product is almost too simple for certain requirements.&lt;/p&gt;
+&lt;h3&gt;Structure&lt;/h3&gt;
+&lt;p&gt;Etherpad can be configured differently during installation. For example, for structured texts it helps to give the user the possibility to insert titles. For other areas, the software does not offer the user any visual help, but the text serves as a universal “interface”.&lt;/p&gt;
+&lt;div class=&quot;wide-grid bg&quot;&gt;
+  &lt;div class=&quot;col-1to6&quot;&gt;
+    &lt;figure&gt;
+      
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 3000px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 70%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAACQ0lEQVQ4y42TC0/aUBiG+f9/ZdElS5ZNo3HzMtyiFMFyEWyh0EJbSu83oH12qGLUkcUvefKdJj1v37ffOTXTtFg6PpbpYOgm2njKbGZiGHMsa8Fy6eE4LkEQEMfxG5IkwfM88c6ywjRH1PS5TvuxRWvY4kEbMLMt/CDGWfos3YClF1TrPF+zq7IsX3hftYk1ojNpYFsaqeeS+i7rKCITpGFAIpylYVj1SLiJff+N0GvxLTXdHXHS+szJ9QGK0iYXGzLfIxE9EDEqXJfwma3oTvC9WCVoegbqokvfkFEslThfsS4gX/8b53Xti1tFnpoaD3oby7PQ7ZDxfIFmLjDEerXebHfudfLe5YvgeKbSGNXpTCXc2CbIXOEy4CO1dyh99Z7T2wPO777QU8VwnDHmQkSPHMpVRpFlbLJtzymzVUUeJ6zFr9k38Zqi9Kn/PqJ+fcxl/SsXP8/4cXpOrzFgIovzqIwxxv0KTXxcU2XcuUES7VK8nXhNGU+4uG3zS5KpN7tc3/Vpqk0awxsUUxWDGtA2GnS0rjjcKaEgiSAJEUeofKZglW2eHOq6jSwbyB2dbnfG8HGOG9l4sbglkYUTmMzcKfO5OPB2jGdH2LNMUAoKLGPbV6RR/iSoTgdI40uk0QWqLVzkSyEoxEIbxxfXMlzw0aoi90b3fGt84rt0wFX7iE7nVjhziIuUaB0TrCLRE+J1+l/S4tnhcNrjuHnIkXTIn+4Zzd4VrdEN8kRC1qQq7qbcUJSF6EXVd7x+9gOfNE35C0kqJ2sqteeIAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;test&quot; title src=&quot;/static/example03-15c1eede6e0ece850c0467d248621d47-df0a4.png&quot; srcset=&quot;/static/example03-15c1eede6e0ece850c0467d248621d47-6a4f1.png 750w,
+/static/example03-15c1eede6e0ece850c0467d248621d47-f4d1d.png 1500w,
+/static/example03-15c1eede6e0ece850c0467d248621d47-df0a4.png 3000w&quot; sizes=&quot;(max-width: 3000px) 100vw, 3000px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+      &lt;figcaption&gt;Installation of Etherpad without title options&lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-7to12&quot;&gt;
+    &lt;figure&gt;
+      
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 3000px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 70%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAACJ0lEQVQ4y42TC3OaUBCF+f+/pTNtp0ltM2kS3yYxkxeCggoqAvJQBPER0a83dtK82+zMmbOXOyy75yyS63qMBh5u32HQsehrJq5p45hDnJ5NMBT3fRff8vGHAbMkIU3THRKRh+MxURQxFix3dSTbCih/Ual/kyl8bpHfa1PY06l+73Dx0xQwOMsZ1PYF/+gxT1bcx3a73eFlSJMwYO5ZLNwB04mPs1phLeYs+Vg8FH1gKfIc6tVLcsUuR1WD3OEtJ5Uuh6U2B3mF44ro+tQQrJPOn3f3FiTXsSlX6hyXNApVjeOyQqHW4VexSUPtYfYGeEHMbL7mYcK3Rv07su972HaNaHxNNFEEt5iEKpOxQhioOHYfb2Tj+0PiOPqnfn80nMSMnAt6xifMbo5u+wi9VUaRL9DUOmrjiqvLOp12k6XQ9r8FwzAkXqZMBeLljGQVC0525+nunD57ebPZPDPiZWHJdi1qjX3OlH0qN185VQ6o3BYp3xQoXuc5vS0T2jah5ZAE3it3X3UYeD4DWcZVhF6KsuOhrGM3dJHr4pmGea3QvVIwb8R9u8PdYvF+h6Evdk/TsNQmdqsl8iZWU0BtYCmyYAHxoUfITD3v3fWRgiAgy+6ENmvWgrNsTSbyjy70y8LSSOhj1c+xzmu0S3mMShGjWiINxqzFIm+yjO29EU/xuJBvjTxm2Dhnaor/dDhlNghJrQmRMSIeBKLA9l0TnrodxzHL5ZLfGNMg4ubCoWYAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;test&quot; title src=&quot;/static/example01-32edb7160afce943ace462e26727dd82-df0a4.png&quot; srcset=&quot;/static/example01-32edb7160afce943ace462e26727dd82-6a4f1.png 750w,
+/static/example01-32edb7160afce943ace462e26727dd82-f4d1d.png 1500w,
+/static/example01-32edb7160afce943ace462e26727dd82-df0a4.png 3000w&quot; sizes=&quot;(max-width: 3000px) 100vw, 3000px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+      &lt;figcaption&gt;Installation of Etherpad which allows titles&lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Problems&lt;/h2&gt;
+&lt;p&gt;The problems with Etherpad are as diverse as the applications. The following problems have been taken into focus for the day:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Personal comments/documents/notes that are not visible to others must be captured outside of Etherpad and cannot be given to the document in context. Personal enrichment of the document should be possible. The solution found for this problem should also work for public (i.e. visible to all) enrichments.&lt;/li&gt;
+&lt;li&gt;Tasks resulting from the text are not visible without reading the text in depth and there is no progress indicator about already completed tasks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Analysis&lt;/h2&gt;
+&lt;p&gt;After a short introduction, the students made an analysis of already existing software products, which were then discussed collectively.&lt;/p&gt;
+&lt;h3&gt;Analyzed products&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/paper&quot;&gt;Dropbox Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hackmd-ce.herokuapp.com/&quot;&gt;HackMD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/ianstormtaylor/slate/issues&quot;&gt;Github Issues&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.atlassian.com/software/confluence&quot;&gt;Atlassian Confluence&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Dropbox Paper&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Strong comment function (single words or lines can be commented)&lt;/li&gt;
+&lt;li&gt;ToDo’s can be assigned directly in the document - users are notified.&lt;/li&gt;
+&lt;li&gt;Possibilities for adding further content (images, tables, …) are very well integrated.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;HackMD&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Input is made using the Markdown markup language.&lt;/li&gt;
+&lt;li&gt;Difficult to use for normal users&lt;/li&gt;
+&lt;li&gt;Direct integration with GitHub to store data (private) using &lt;a href=&quot;https://gist.github.com/&quot;&gt;Gist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;No comment function&lt;/li&gt;
+&lt;li&gt;Integration of various services for video/slideshows/images&lt;/li&gt;
+&lt;li&gt;Automatic navigation creation (Table of Content)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Confluence&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Payed service&lt;/li&gt;
+&lt;li&gt;Works best with other products from &lt;a href=&quot;https://www.atlassian.com/&quot;&gt;Atlassian&lt;/a&gt; (Jira &amp;#x26; Confluence)&lt;/li&gt;
+&lt;li&gt;No comment function directly in Confluence (comments must be added in Jira)&lt;/li&gt;
+&lt;li&gt;No private comments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Github Issues&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No real-time editing with other people&lt;/li&gt;
+&lt;li&gt;A repository contains Issues.&lt;/li&gt;
+&lt;li&gt;Tasks can be created via Issues&lt;/li&gt;
+&lt;li&gt;People and teams can be assigned to issues&lt;/li&gt;
+&lt;li&gt;Issues are summarized in milestones (with progress indicator)&lt;/li&gt;
+&lt;li&gt;Milestones can be scheduled&lt;/li&gt;
+&lt;li&gt;Issues can be sorted by milestones and labels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Redesign&lt;/h2&gt;
+&lt;h3&gt;Design “Focus”&lt;/h3&gt;
+&lt;p&gt;Severin, Nicole and Matthias have developed a &lt;a href=&quot;https://xd.adobe.com/view/8f4b8631-affd-40d3-67a1-60f145ddacdc-f97a/&quot;&gt;draft&lt;/a&gt; with a central focus on the text and the user interface elements are context-sensitive.&lt;/p&gt;
+&lt;div class=&quot;wide-grid bg&quot;&gt;
+  &lt;div class=&quot;col-1to12&quot;&gt;
+    &lt;figure&gt;
+      
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 1920px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABtElEQVQoz4WS6W6DMBCE8/4v1R9VlDaqqiakOQpSA3YIaQ4w92GY7jqpmqsq0siA7fG34+0ppXA4HBBFEeI4NkrTFLvdDtvtFjyPtgXqGh2NHYCu69A0DXzfh+u6x71JYtb2fkxY/INHPmAwGKDf7+N5OIQ9mWBO3850isXHB/z1Gl1dIZI+yqZFXVXm8CzLfg3Z7MeQx9lshvl8DsuyMBqPMV0sYDuO+SekhM5zJJ9LfO33SGhPQoRFUaB3bRSbyRgObbZt25zK4hK11kYtlazLEjlTkUlO8zVFYgglncZ5nVMmSQopV/A8QRl55r0oyICoON+KSmwpT3UVl8lwT8j3CN0llzdBGG7R6pJMmKIyJCytG1qrbvL/I8MQ47dHvL48YPr+BOFaCPwFNpsAQbChC9hD1xmiWCLOiDxLwWBcwUWGRylT1nq9QVkyCTfK7cPUWSzwReZcEV+IMbzXNjw6jk3ZiZMkhGfDW47gflrGoGsrhMpHmpeIwpAID5dtc27KhEEQQAhxkjSmK8nvHjWyIsKC2oWaWmVI6RLZ7IaQxV3Pt/jfo5scVe7TWk0qTTux4TcCf0Opd+HmAwAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;test&quot; title src=&quot;/static/comment-4883de4fea73ae8f1a857e1ecca83278-aa339.png&quot; srcset=&quot;/static/comment-4883de4fea73ae8f1a857e1ecca83278-91ed2.png 750w,
+/static/comment-4883de4fea73ae8f1a857e1ecca83278-2ec08.png 1500w,
+/static/comment-4883de4fea73ae8f1a857e1ecca83278-aa339.png 1920w&quot; sizes=&quot;(max-width: 1920px) 100vw, 1920px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+      &lt;figcaption&gt;comment function&lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-1to12&quot;&gt;
+    &lt;figure&gt;
+      
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 1920px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABnUlEQVQoz4WT626CQBCFef+X6o/G2JqmqWLxAkkFFuQmCHhBRE5nRmlttSnJySyQ+Th7dtDyPEeapliv1yiKQrTZbJAkCeI4Br/H6QTUNVqqLYC2benRSXoOh4Osm4ZEVesgLG7myh/o9/vo9Xp4HgxgjseY0r1lGJjN5/B9HyeCxlmGdLXCdrtFtd9jt9t9AxnWAblOJhNMp1Pouo7haARjNoNpWfLMdV0cj0cozxN4GIYidqz9BnEtywIWNZumKV9nMaBpGtF5i43EwhBWRm65X1NKyYtrl2W5gVIeHMeFbTuy3u8r2RLnK7kRkDPmeMqy/IpNW1EG9xzaC97emL4cU3NFkC2dy4FUi44E9IIAy6WPtZgoRX9kmGH09ojXlwcY709wbR2BP6OcAgRBiISc1RRBlKwQR5G47Jz+yPCsXLa1XIaoqpqy4kG5vXhEAgJHUYiUT7sD3hsbrpZlUnbuRQquY8JZDGF/6NSYE7AVYHaZYT6UG2AHY4cB5cPjcZYSqKd47QiATzqm/BnE93cdsrrp/+/iv+V63ekT2iZDMSm6TucAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;test&quot; title src=&quot;/static/task-c524f64c55172c64a0aaf0e58b7e9bcf-aa339.png&quot; srcset=&quot;/static/task-c524f64c55172c64a0aaf0e58b7e9bcf-91ed2.png 750w,
+/static/task-c524f64c55172c64a0aaf0e58b7e9bcf-2ec08.png 1500w,
+/static/task-c524f64c55172c64a0aaf0e58b7e9bcf-aa339.png 1920w&quot; sizes=&quot;(max-width: 1920px) 100vw, 1920px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+      &lt;figcaption&gt;task management&lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4&gt;Positive&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Clear interface concept&lt;/li&gt;
+&lt;li&gt;context sensitive formatting&lt;/li&gt;
+&lt;li&gt;Table of contents helps to navigate in the document&lt;/li&gt;
+&lt;li&gt;Task management very sophisticated&lt;/li&gt;
+&lt;li&gt;Good visibility of public/private in comments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Inputs/Improve&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;The creation of comments and tasks is not yet shown (view already).&lt;/li&gt;
+&lt;li&gt;Use color system of comments (including avatar) also for tasks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Overview&lt;/h4&gt;
+&lt;p&gt;★★★★★ - Technology&lt;br&gt;
+★★★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt; - Contents&lt;br&gt;
+★★★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt; - Interaction&lt;br&gt;
+★★★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt; - Concept&lt;/p&gt;
+&lt;h2&gt;Redesign&lt;/h2&gt;
+&lt;h3&gt;Design “Sidebar”&lt;/h3&gt;
+&lt;p&gt;The design of Nils, Lars, Marius, Natasha is based on a sidebar which can be used for comments, files and tasks. The creation is done with a layover directly in the text.&lt;/p&gt;
+&lt;div class=&quot;wide-grid bg&quot;&gt;
+  &lt;div class=&quot;col-1to6&quot;&gt;
+    &lt;figure&gt;
+      
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 2880px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 71.11111111111111%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAAB1klEQVQ4y5WTy27aQBSG87RZ9AWSTbvoOg8TUrGI2mTVbhCJuEbGgG/4Sm1sKcYYX+bvnIExWKKtMtIvY+b4O/85Z+ZK1d6wsJZYWgYW+hKqvsDM0rC0TZiBA9N3Ds//yPBsKPocV2AAYww1q9EsRn/iY4vHJ3HCgXzleQ7DMBCGITabDcqqOnLZh0TfCmCWZej1erBtG9vtFnVdN0F/NXS2J2PjOD45VFUVaZq2gum53+9RFEXLiUxIeyQZ2wDJ4WAwwGg0gq7rQpZliQTk2nEcAal4K6TonfbPTTRAKpOA5JI0n88xm83g+77Yk20oy7IFJZ1X0wB3u51wN5lMBJBckUMaEjkgh9QWWZ5c0rUEkoEGOBwOhStN07BareC6LpIkEXvkOE23HCh7eQKSJDCKotNQFEURIM/zRCYSlVBWNd45LOewoqzEu1DJ+LB42XV1ueTpdCpKpSx0nshdFIUIfYtSkp/D6T2qqgLssuB4AS4cm/F4DNM0hTPX9eDxkv1gja/fc3zqMNw+Al+egM8/gBv++7qT4e5nDlZfGAqdMwkjdyF3GYa/uSI8jwPc9zx867vokl48dF8DPPTX+KXErR4K4L9uw6HzNFkudiZIFa3bQsA/2Kwu8J3Fs0IAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;test&quot; title src=&quot;/static/comment_add-ce062d54aa0458332bb5e96ca2f33c7d-3ac57.png&quot; srcset=&quot;/static/comment_add-ce062d54aa0458332bb5e96ca2f33c7d-a1ccb.png 750w,
+/static/comment_add-ce062d54aa0458332bb5e96ca2f33c7d-d84eb.png 1500w,
+/static/comment_add-ce062d54aa0458332bb5e96ca2f33c7d-3ac57.png 2880w&quot; sizes=&quot;(max-width: 2880px) 100vw, 2880px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+      &lt;figcaption&gt;Insert Comment &lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-7to12&quot;&gt;
+    &lt;figure&gt;
+      
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 2880px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 71.11111111111111%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAACZUlEQVQ4y5WTy27aQBiF84Bd9SG67cP0Cbrool2gqlKaRFWkJI26QBEQLgEbjO/GeHy/4Au2T2fGAaKqUdUfH3nGHj7OzH84E9dPWGkSJE3BSpYgyisI2hqSoULdmlBts7v/RfJG59IcC4ptQFAknKEF2rZF0zY4Vsse4p8VeD4810UUhgh8H87WoUBaRVFAURS49KVPX+zr+pnbvi76MYiD5XIJy7LgeR5s2+6Au90O/X4fhmHwMbV7dPoakJUkyhgOB3Ao2PM9bB375FAURaRpyhcW1CFT3TxvvX15Gp07dsnTNdZzGXmYI/ET+GZ4cjgcDTEdTzCQBNyoM9zqT7ByD/u2QF7vECcxyrLgMH7e9AqUGKIggtgOTEtDsIk7YJZlGI1GWK6WmA8WGPZmmHwTsbzSYdy6IA8JsP+jIxSYRRl0U4Msy9ANHamXdcA8zzEejzGdTSHMBahzA7/ub3D+/TMur3r4cf0Vdw/n+Dm4wP3wEneDc9iOiX3awDANqIrG72VUnYCPj48QBIH+2hrGhi4yaRb1BdaGSHO6gEbnQUzgUwUJQVWWqLMGru/C3lpwXII0LE5NWSwW0HUdm82Gt584dKtbl2aL8LFLWN5iFHlJ15d8y0VU8u6GYYAojrA7AJnD2WzGY8PyxLIYBAEfH+aEEERRRBtTcjFgTgFlVR6PtUrqk8PJZAJVVbk7FlTm1DTN45yFnsWKJYIpzwrssy5Pdd3wZFVJ2wGrqjrCmBvmigGYXrpkCunfjMWnLCqkJERTJc9BzZD7Ac4Oqf+fOnzjw3WFNx9rvOsBbz+VeP8lw28kcyGZ2XxviQAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;test&quot; title src=&quot;/static/comment_overview-2463bf7bd2a3e1b551b39df9f5ff6a34-3ac57.png&quot; srcset=&quot;/static/comment_overview-2463bf7bd2a3e1b551b39df9f5ff6a34-a1ccb.png 750w,
+/static/comment_overview-2463bf7bd2a3e1b551b39df9f5ff6a34-d84eb.png 1500w,
+/static/comment_overview-2463bf7bd2a3e1b551b39df9f5ff6a34-3ac57.png 2880w&quot; sizes=&quot;(max-width: 2880px) 100vw, 2880px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+      &lt;figcaption&gt;Show Comments&lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;col-1to12&quot;&gt;
+    &lt;figure&gt;
+      
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 2880px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 71.11111111111111%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAACW0lEQVQ4y52T227aQBRF85v9i/5If6HveYmqSrSJqkhJmvYhSQPhErCxAd/vBhvjGV+Y3ZmBQFSlqtQjbc2MjbbXnLM5UWfP0EwdurmANtehzjUo5gy6bcAIHBi+s1vf0Nyzuaz93sJ4NsUJGMAYw5ZtcSgmHuKftVoukcQJUq44iuE6LjfkRSnFYrFAHMdI0xRN2+592d/F32uGCU3TsOTGYRTA9faGZVni7u4Otm3LPcc9kL5ttnvvLUJoU01C+KGLLM+OhKqqoigK+UPKCYXa7f7q7HU3dqaihIGA8IMA2ZqAEHIk7Pa6GPYHeNQVXBkjXFvPcEmChlGQtkS+zlFVVNLt+s2Q52ukyRKUVPIDdVPvDDebDXq9HqbaFOPHCbpnIww+q5heWLCvY0QPa6D5YyIcsiQFCpKh2pZoWYO6bnaGArXf72M4GkIZKzDGNn7eXqHz5RTnF2f4dvkJNw8dfH/8itvuOW5+dRAmHspqDX+tIyYGiioFKenR8OnpCYqiYD6fweb5MhyeRWuCma3ynE5g8vMyj5ByibVuKmlASX3oMa3ocSiTyQSWZcHzPPi+jyjkVw1ihEEk9yJn2SqX/apojS0fGKU8EUxErJU9qCk5Eo5GIzmxJElkDES2xP7lHEURsoz3q6qkRKTcMIWbFMgp4OcFrCg8Eg4GAxiGIelc15WkjuMcziL0IlYiEcWGk7UEH+8bvDsF3nfAV4YP1/sr13V9MBM0gkoYCL2mFFqtVhKg4RGJ4w3mZoyZ5cH0ErhBgpOXkP5P6dE9hvoP2PwvmK3ElDf4DRlkIynofIzhAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;test&quot; title src=&quot;/static/task_overview-55b95e1f019401c1a0226c706407d023-3ac57.png&quot; srcset=&quot;/static/task_overview-55b95e1f019401c1a0226c706407d023-a1ccb.png 750w,
+/static/task_overview-55b95e1f019401c1a0226c706407d023-d84eb.png 1500w,
+/static/task_overview-55b95e1f019401c1a0226c706407d023-3ac57.png 2880w&quot; sizes=&quot;(max-width: 2880px) 100vw, 2880px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+      &lt;figcaption&gt;Display Tasks&lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+
+&lt;h4&gt;Positive&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Clear interface concept&lt;/li&gt;
+&lt;li&gt;context sensitive formatting&lt;/li&gt;
+&lt;li&gt;Table of contents helps to navigate in the document&lt;/li&gt;
+&lt;li&gt;Task management very sophisticated&lt;/li&gt;
+&lt;li&gt;Good visibility of public/private in comments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Inputs/Improve&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Public and private is not 100% understandable with the slide switch, but this is very important here. At best a dropdown.&lt;/li&gt;
+&lt;li&gt;Tasks are not visible in the text (for comments solved with color).&lt;/li&gt;
+&lt;li&gt;Filtering of tasks/comments visually still too much like a link.&lt;/li&gt;
+&lt;li&gt;three different symbols (segmented circle, bar in number of steps, bar in percent) for progress indicator probably not ideal.&lt;/li&gt;
+&lt;li&gt;Very long lines in the text. Limit maximum width at most.&lt;/li&gt;
+&lt;li&gt;The collapsed sidebar doesn’t animate to be opened, because you can’t see what’s behind it. If necessary, introduce three icons for comments, files and tasks there. Click on it opens in the right tab.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Overview&lt;/h4&gt;
+&lt;p&gt;★★★★★ - Technology&lt;br&gt;
+★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt;☆ - Contents&lt;br&gt;
+★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt;☆ - Interaction&lt;br&gt;
+★★★★★☆ - Concept&lt;/p&gt;
+&lt;h3&gt;Draft “Separation”&lt;/h3&gt;
+&lt;p&gt;Tiö, Wolfgang and Marc have created a design in which they have very clearly distinguished the separation of public and private additions. So the notes are always private and the comments are always public.&lt;/p&gt;
+&lt;div class=&quot;wide-grid bg&quot;&gt;
+  &lt;div class=&quot;col-1to12&quot;&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;img/abgaben/separation/task_edit.png&quot; alt=&quot;test&quot;&gt;
+      &lt;figcaption&gt;Insert Tasks &lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-1to12&quot;&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;img/abgaben/separation/task_view.png&quot; alt=&quot;test&quot;&gt;
+      &lt;figcaption&gt;Display Tasks&lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-1to6&quot;&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;img/abgaben/separation/notes.png&quot; alt=&quot;test&quot;&gt;
+      &lt;figcaption&gt;Insert notes &lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-7to12&quot;&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;img/absen/separation/comments.png&quot; alt=&quot;test&quot;&gt;
+      &lt;figcaption&gt;Comments&lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4&gt;Positive&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Clear separation of private and public supplements&lt;/li&gt;
+&lt;li&gt;Context-sensitive formatting and insertion of additions&lt;/li&gt;
+&lt;li&gt;Table of contents helps to navigate in the document&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Inputs/Improve&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;You would still have to explain in the interface that notes are private and comments are public (very important not to confuse).&lt;/li&gt;
+&lt;li&gt;Visually you could have displayed more information in the text for tasks. See draft “Focus”&lt;/li&gt;
+&lt;li&gt;Use consistent labels (Post it &amp;#x26; Save)&lt;/li&gt;
+&lt;li&gt;Admin and user not distinguished in view (except position)&lt;/li&gt;
+&lt;li&gt;Do you really have to save the fulfillment of subtasks?&lt;/li&gt;
+&lt;li&gt;Different symbols/interface elements for adding people and subtasks not ideal&lt;/li&gt;
+&lt;li&gt;some errors in the mockups (example: when creating a task, you can’t have already done some subtasks)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Overview&lt;/h4&gt;
+&lt;p&gt;★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt;☆ - Technology&lt;br&gt;
+★★★★☆☆ - Content&lt;br&gt;
+★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt;☆ - Interaction&lt;br&gt;
+★★★★★☆ - Concept&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;This case study illustrates the difference between UX and UI design. The focus was clearly on the UX design, i.e. how the user should be guided through the application. Of course, the interface design also has its parst, but will need more work later on. First it has to be clear what the application is supposed to achieve and in a second step it is more about creative topics like typography, color etc. It’s nice to see what results are available within a day. All groups have worked out a basis on which one can continue to work on. At a given time, a user test would certainly be a necessary step. So it can be determined how the end user gets along with the application and where he stops. Ultimately, the success of an application lies both in its concept as in the nitty gritty parts like microanimations and that alike. The playing field of interaction design is large…&lt;/p&gt;
+&lt;p&gt;Thanks to Matthias Koch for taking notes of the analysis.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Texteditor – Redesign Etherpad]]></title><description><![CDATA[Bei der Case Study im Sommer 2018 wurden in einem intensiven Arbeitstag Entwürfe erarbeitet, wie die bestehende Software Etherpad um weitere Funktionen ergänzt werden kann und wie das User-Interface zu erweitern wäre.]]></description><link>https://logrinto.ch/posts/case-study-redesign-etherpad/</link><guid isPermaLink="false">https://logrinto.ch/posts/case-study-redesign-etherpad/</guid><pubDate>Sat, 02 Jun 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Intro&lt;/h2&gt;
 &lt;p&gt;Kollaboratives Arbeiten mittels Software bietet viele Chancen für verteilte Gruppen, sich trotz räumlicher Distanz zu ergänzen oder am selben Ort gleichzeitig einen Effort zu leisten. Die Opensource-Software &lt;a href=&quot;http://etherpad.org/&quot;&gt;Etherpad&lt;/a&gt; bietet hierzu einen einfachen Einstieg, wenn es um Texterstellung geht. Doch ist das freie Produkt für gewisse Anforderungen fast zu einfach gestrickt.&lt;/p&gt;
 &lt;h3&gt;Struktur&lt;/h3&gt;
 &lt;p&gt;Etherpad kann beim installieren verschieden konfiguriert werden. So hilft es zum Beispiel für strukturierte Texte dem Benutzer die Möglichkeit zu geben, Titel einzufügen. Für andere Bereiche bietet die Software dem Benutzer keine visuelle Hilfe, sondern der Text dient als universelle «Schnittstelle».&lt;/p&gt;
@@ -2399,259 +2647,7 @@ vh/vw bezieht sich immer auf die Grösse des Viewports. Dafür ein Beispiel:&lt;
 ★★★★☆ – Konzept&lt;/p&gt;
 &lt;h2&gt;Fazit&lt;/h2&gt;
 &lt;p&gt;An dieser Case Study ist der Unterschied von UX- und UI-Design exemplarisch erkennbar. Der Fokus lag klar auf dem UX-Design, sprich wie der User durch die Anwendung geführt werden soll. Selbstverständlich hat das Interface-Design auch seine Berechtigung, doch wird dieses weiter hinten angesiedelt. Erst muss klar sein, was die Applikation leisten soll und in einem zweiten Schritt geht es stärker um gestalterische Themen wie Typografie, Farbe usw. Schön zu sehen, was innerhalb eines Tages für Resultate vorliegen. Alle Gruppen haben eine Basis erarbeitet, auf welcher man gut weiterarbeiten kann. Zu gegebenem Zeitpunkt wäre sicher ein Usertest ein gewinnbringender Schritt – von Vorteil in möglichst frühem Statium mittels eines Prototypes oder Klickdummys. So kann festgestellt werden, wie der Enduser mit der Applikation zurecht kommt und wo er stoplert. Letztendlich liegt der Erfolg einer Applikation sowohl im Konzept als Genzes, wie auch im Kleinen, was Microinteracions und dergleichen anbelangt. Das Spielfeld des Interaction Designs ist gross…&lt;/p&gt;
-&lt;p&gt;Danke an Matthias Koch fürs mitschreiben der Analyse.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Texteditor – Redesign Etherpad]]></title><description><![CDATA[During the case study in the summer of 2018, an intensive working day was spent working out drafts on how the existing Etherpad software could be extended with additional functions and how the user interface could be extended.]]></description><link>https://logrinto.ch/en/posts/case-study-redesign-etherpad/</link><guid isPermaLink="false">https://logrinto.ch/en/posts/case-study-redesign-etherpad/</guid><pubDate>Sat, 02 Jun 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Intro&lt;/h2&gt;
-&lt;p&gt;Collaborative work using software offers many opportunities for distributed groups to complement each other despite spatial distance or to simultaneously perform an effort at the same location. The open source software &lt;a href=&quot;http://etherpad.org/&quot;&gt;Etherpad&lt;/a&gt; offers an easy introduction to this when it comes to text creation. However, the free product is almost too simple for certain requirements.&lt;/p&gt;
-&lt;h3&gt;Structure&lt;/h3&gt;
-&lt;p&gt;Etherpad can be configured differently during installation. For example, for structured texts it helps to give the user the possibility to insert titles. For other areas, the software does not offer the user any visual help, but the text serves as a universal “interface”.&lt;/p&gt;
-&lt;div class=&quot;wide-grid bg&quot;&gt;
-  &lt;div class=&quot;col-1to6&quot;&gt;
-    &lt;figure&gt;
-      
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 3000px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 70%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAACQ0lEQVQ4y42TC0/aUBiG+f9/ZdElS5ZNo3HzMtyiFMFyEWyh0EJbSu83oH12qGLUkcUvefKdJj1v37ffOTXTtFg6PpbpYOgm2njKbGZiGHMsa8Fy6eE4LkEQEMfxG5IkwfM88c6ywjRH1PS5TvuxRWvY4kEbMLMt/CDGWfos3YClF1TrPF+zq7IsX3hftYk1ojNpYFsaqeeS+i7rKCITpGFAIpylYVj1SLiJff+N0GvxLTXdHXHS+szJ9QGK0iYXGzLfIxE9EDEqXJfwma3oTvC9WCVoegbqokvfkFEslThfsS4gX/8b53Xti1tFnpoaD3oby7PQ7ZDxfIFmLjDEerXebHfudfLe5YvgeKbSGNXpTCXc2CbIXOEy4CO1dyh99Z7T2wPO777QU8VwnDHmQkSPHMpVRpFlbLJtzymzVUUeJ6zFr9k38Zqi9Kn/PqJ+fcxl/SsXP8/4cXpOrzFgIovzqIwxxv0KTXxcU2XcuUES7VK8nXhNGU+4uG3zS5KpN7tc3/Vpqk0awxsUUxWDGtA2GnS0rjjcKaEgiSAJEUeofKZglW2eHOq6jSwbyB2dbnfG8HGOG9l4sbglkYUTmMzcKfO5OPB2jGdH2LNMUAoKLGPbV6RR/iSoTgdI40uk0QWqLVzkSyEoxEIbxxfXMlzw0aoi90b3fGt84rt0wFX7iE7nVjhziIuUaB0TrCLRE+J1+l/S4tnhcNrjuHnIkXTIn+4Zzd4VrdEN8kRC1qQq7qbcUJSF6EXVd7x+9gOfNE35C0kqJ2sqteeIAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;test&quot; title src=&quot;/static/example03-15c1eede6e0ece850c0467d248621d47-df0a4.png&quot; srcset=&quot;/static/example03-15c1eede6e0ece850c0467d248621d47-6a4f1.png 750w,
-/static/example03-15c1eede6e0ece850c0467d248621d47-f4d1d.png 1500w,
-/static/example03-15c1eede6e0ece850c0467d248621d47-df0a4.png 3000w&quot; sizes=&quot;(max-width: 3000px) 100vw, 3000px&quot;&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-      &lt;figcaption&gt;Installation of Etherpad without title options&lt;/figcaption&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-7to12&quot;&gt;
-    &lt;figure&gt;
-      
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 3000px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 70%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAACJ0lEQVQ4y42TC3OaUBCF+f+/pTNtp0ltM2kS3yYxkxeCggoqAvJQBPER0a83dtK82+zMmbOXOyy75yyS63qMBh5u32HQsehrJq5p45hDnJ5NMBT3fRff8vGHAbMkIU3THRKRh+MxURQxFix3dSTbCih/Ual/kyl8bpHfa1PY06l+73Dx0xQwOMsZ1PYF/+gxT1bcx3a73eFlSJMwYO5ZLNwB04mPs1phLeYs+Vg8FH1gKfIc6tVLcsUuR1WD3OEtJ5Uuh6U2B3mF44ro+tQQrJPOn3f3FiTXsSlX6hyXNApVjeOyQqHW4VexSUPtYfYGeEHMbL7mYcK3Rv07su972HaNaHxNNFEEt5iEKpOxQhioOHYfb2Tj+0PiOPqnfn80nMSMnAt6xifMbo5u+wi9VUaRL9DUOmrjiqvLOp12k6XQ9r8FwzAkXqZMBeLljGQVC0525+nunD57ebPZPDPiZWHJdi1qjX3OlH0qN185VQ6o3BYp3xQoXuc5vS0T2jah5ZAE3it3X3UYeD4DWcZVhF6KsuOhrGM3dJHr4pmGea3QvVIwb8R9u8PdYvF+h6Evdk/TsNQmdqsl8iZWU0BtYCmyYAHxoUfITD3v3fWRgiAgy+6ENmvWgrNsTSbyjy70y8LSSOhj1c+xzmu0S3mMShGjWiINxqzFIm+yjO29EU/xuJBvjTxm2Dhnaor/dDhlNghJrQmRMSIeBKLA9l0TnrodxzHL5ZLfGNMg4ubCoWYAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;test&quot; title src=&quot;/static/example01-32edb7160afce943ace462e26727dd82-df0a4.png&quot; srcset=&quot;/static/example01-32edb7160afce943ace462e26727dd82-6a4f1.png 750w,
-/static/example01-32edb7160afce943ace462e26727dd82-f4d1d.png 1500w,
-/static/example01-32edb7160afce943ace462e26727dd82-df0a4.png 3000w&quot; sizes=&quot;(max-width: 3000px) 100vw, 3000px&quot;&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-      &lt;figcaption&gt;Installation of Etherpad which allows titles&lt;/figcaption&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h2&gt;Problems&lt;/h2&gt;
-&lt;p&gt;The problems with Etherpad are as diverse as the applications. The following problems have been taken into focus for the day:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Personal comments/documents/notes that are not visible to others must be captured outside of Etherpad and cannot be given to the document in context. Personal enrichment of the document should be possible. The solution found for this problem should also work for public (i.e. visible to all) enrichments.&lt;/li&gt;
-&lt;li&gt;Tasks resulting from the text are not visible without reading the text in depth and there is no progress indicator about already completed tasks.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Analysis&lt;/h2&gt;
-&lt;p&gt;After a short introduction, the students made an analysis of already existing software products, which were then discussed collectively.&lt;/p&gt;
-&lt;h3&gt;Analyzed products&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/paper&quot;&gt;Dropbox Paper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://hackmd-ce.herokuapp.com/&quot;&gt;HackMD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/ianstormtaylor/slate/issues&quot;&gt;Github Issues&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.atlassian.com/software/confluence&quot;&gt;Atlassian Confluence&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Dropbox Paper&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Strong comment function (single words or lines can be commented)&lt;/li&gt;
-&lt;li&gt;ToDo’s can be assigned directly in the document - users are notified.&lt;/li&gt;
-&lt;li&gt;Possibilities for adding further content (images, tables, …) are very well integrated.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;HackMD&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Input is made using the Markdown markup language.&lt;/li&gt;
-&lt;li&gt;Difficult to use for normal users&lt;/li&gt;
-&lt;li&gt;Direct integration with GitHub to store data (private) using &lt;a href=&quot;https://gist.github.com/&quot;&gt;Gist&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;No comment function&lt;/li&gt;
-&lt;li&gt;Integration of various services for video/slideshows/images&lt;/li&gt;
-&lt;li&gt;Automatic navigation creation (Table of Content)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Confluence&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Payed service&lt;/li&gt;
-&lt;li&gt;Works best with other products from &lt;a href=&quot;https://www.atlassian.com/&quot;&gt;Atlassian&lt;/a&gt; (Jira &amp;#x26; Confluence)&lt;/li&gt;
-&lt;li&gt;No comment function directly in Confluence (comments must be added in Jira)&lt;/li&gt;
-&lt;li&gt;No private comments&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Github Issues&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;No real-time editing with other people&lt;/li&gt;
-&lt;li&gt;A repository contains Issues.&lt;/li&gt;
-&lt;li&gt;Tasks can be created via Issues&lt;/li&gt;
-&lt;li&gt;People and teams can be assigned to issues&lt;/li&gt;
-&lt;li&gt;Issues are summarized in milestones (with progress indicator)&lt;/li&gt;
-&lt;li&gt;Milestones can be scheduled&lt;/li&gt;
-&lt;li&gt;Issues can be sorted by milestones and labels&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Redesign&lt;/h2&gt;
-&lt;h3&gt;Design “Focus”&lt;/h3&gt;
-&lt;p&gt;Severin, Nicole and Matthias have developed a &lt;a href=&quot;https://xd.adobe.com/view/8f4b8631-affd-40d3-67a1-60f145ddacdc-f97a/&quot;&gt;draft&lt;/a&gt; with a central focus on the text and the user interface elements are context-sensitive.&lt;/p&gt;
-&lt;div class=&quot;wide-grid bg&quot;&gt;
-  &lt;div class=&quot;col-1to12&quot;&gt;
-    &lt;figure&gt;
-      
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 1920px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABtElEQVQoz4WS6W6DMBCE8/4v1R9VlDaqqiakOQpSA3YIaQ4w92GY7jqpmqsq0siA7fG34+0ppXA4HBBFEeI4NkrTFLvdDtvtFjyPtgXqGh2NHYCu69A0DXzfh+u6x71JYtb2fkxY/INHPmAwGKDf7+N5OIQ9mWBO3850isXHB/z1Gl1dIZI+yqZFXVXm8CzLfg3Z7MeQx9lshvl8DsuyMBqPMV0sYDuO+SekhM5zJJ9LfO33SGhPQoRFUaB3bRSbyRgObbZt25zK4hK11kYtlazLEjlTkUlO8zVFYgglncZ5nVMmSQopV/A8QRl55r0oyICoON+KSmwpT3UVl8lwT8j3CN0llzdBGG7R6pJMmKIyJCytG1qrbvL/I8MQ47dHvL48YPr+BOFaCPwFNpsAQbChC9hD1xmiWCLOiDxLwWBcwUWGRylT1nq9QVkyCTfK7cPUWSzwReZcEV+IMbzXNjw6jk3ZiZMkhGfDW47gflrGoGsrhMpHmpeIwpAID5dtc27KhEEQQAhxkjSmK8nvHjWyIsKC2oWaWmVI6RLZ7IaQxV3Pt/jfo5scVe7TWk0qTTux4TcCf0Opd+HmAwAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;test&quot; title src=&quot;/static/comment-4883de4fea73ae8f1a857e1ecca83278-aa339.png&quot; srcset=&quot;/static/comment-4883de4fea73ae8f1a857e1ecca83278-91ed2.png 750w,
-/static/comment-4883de4fea73ae8f1a857e1ecca83278-2ec08.png 1500w,
-/static/comment-4883de4fea73ae8f1a857e1ecca83278-aa339.png 1920w&quot; sizes=&quot;(max-width: 1920px) 100vw, 1920px&quot;&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-      &lt;figcaption&gt;comment function&lt;/figcaption&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-1to12&quot;&gt;
-    &lt;figure&gt;
-      
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 1920px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABnUlEQVQoz4WT626CQBCFef+X6o/G2JqmqWLxAkkFFuQmCHhBRE5nRmlttSnJySyQ+Th7dtDyPEeapliv1yiKQrTZbJAkCeI4Br/H6QTUNVqqLYC2benRSXoOh4Osm4ZEVesgLG7myh/o9/vo9Xp4HgxgjseY0r1lGJjN5/B9HyeCxlmGdLXCdrtFtd9jt9t9AxnWAblOJhNMp1Pouo7haARjNoNpWfLMdV0cj0cozxN4GIYidqz9BnEtywIWNZumKV9nMaBpGtF5i43EwhBWRm65X1NKyYtrl2W5gVIeHMeFbTuy3u8r2RLnK7kRkDPmeMqy/IpNW1EG9xzaC97emL4cU3NFkC2dy4FUi44E9IIAy6WPtZgoRX9kmGH09ojXlwcY709wbR2BP6OcAgRBiISc1RRBlKwQR5G47Jz+yPCsXLa1XIaoqpqy4kG5vXhEAgJHUYiUT7sD3hsbrpZlUnbuRQquY8JZDGF/6NSYE7AVYHaZYT6UG2AHY4cB5cPjcZYSqKd47QiATzqm/BnE93cdsrrp/+/iv+V63ekT2iZDMSm6TucAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;test&quot; title src=&quot;/static/task-c524f64c55172c64a0aaf0e58b7e9bcf-aa339.png&quot; srcset=&quot;/static/task-c524f64c55172c64a0aaf0e58b7e9bcf-91ed2.png 750w,
-/static/task-c524f64c55172c64a0aaf0e58b7e9bcf-2ec08.png 1500w,
-/static/task-c524f64c55172c64a0aaf0e58b7e9bcf-aa339.png 1920w&quot; sizes=&quot;(max-width: 1920px) 100vw, 1920px&quot;&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-      &lt;figcaption&gt;task management&lt;/figcaption&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h4&gt;Positive&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Clear interface concept&lt;/li&gt;
-&lt;li&gt;context sensitive formatting&lt;/li&gt;
-&lt;li&gt;Table of contents helps to navigate in the document&lt;/li&gt;
-&lt;li&gt;Task management very sophisticated&lt;/li&gt;
-&lt;li&gt;Good visibility of public/private in comments&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Inputs/Improve&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;The creation of comments and tasks is not yet shown (view already).&lt;/li&gt;
-&lt;li&gt;Use color system of comments (including avatar) also for tasks.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Overview&lt;/h4&gt;
-&lt;p&gt;★★★★★ - Technology&lt;br&gt;
-★★★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt; - Contents&lt;br&gt;
-★★★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt; - Interaction&lt;br&gt;
-★★★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt; - Concept&lt;/p&gt;
-&lt;h2&gt;Redesign&lt;/h2&gt;
-&lt;h3&gt;Design “Sidebar”&lt;/h3&gt;
-&lt;p&gt;The design of Nils, Lars, Marius, Natasha is based on a sidebar which can be used for comments, files and tasks. The creation is done with a layover directly in the text.&lt;/p&gt;
-&lt;div class=&quot;wide-grid bg&quot;&gt;
-  &lt;div class=&quot;col-1to6&quot;&gt;
-    &lt;figure&gt;
-      
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 2880px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 71.11111111111111%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAAB1klEQVQ4y5WTy27aQBSG87RZ9AWSTbvoOg8TUrGI2mTVbhCJuEbGgG/4Sm1sKcYYX+bvnIExWKKtMtIvY+b4O/85Z+ZK1d6wsJZYWgYW+hKqvsDM0rC0TZiBA9N3Ds//yPBsKPocV2AAYww1q9EsRn/iY4vHJ3HCgXzleQ7DMBCGITabDcqqOnLZh0TfCmCWZej1erBtG9vtFnVdN0F/NXS2J2PjOD45VFUVaZq2gum53+9RFEXLiUxIeyQZ2wDJ4WAwwGg0gq7rQpZliQTk2nEcAal4K6TonfbPTTRAKpOA5JI0n88xm83g+77Yk20oy7IFJZ1X0wB3u51wN5lMBJBckUMaEjkgh9QWWZ5c0rUEkoEGOBwOhStN07BareC6LpIkEXvkOE23HCh7eQKSJDCKotNQFEURIM/zRCYSlVBWNd45LOewoqzEu1DJ+LB42XV1ueTpdCpKpSx0nshdFIUIfYtSkp/D6T2qqgLssuB4AS4cm/F4DNM0hTPX9eDxkv1gja/fc3zqMNw+Al+egM8/gBv++7qT4e5nDlZfGAqdMwkjdyF3GYa/uSI8jwPc9zx867vokl48dF8DPPTX+KXErR4K4L9uw6HzNFkudiZIFa3bQsA/2Kwu8J3Fs0IAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;test&quot; title src=&quot;/static/comment_add-ce062d54aa0458332bb5e96ca2f33c7d-3ac57.png&quot; srcset=&quot;/static/comment_add-ce062d54aa0458332bb5e96ca2f33c7d-a1ccb.png 750w,
-/static/comment_add-ce062d54aa0458332bb5e96ca2f33c7d-d84eb.png 1500w,
-/static/comment_add-ce062d54aa0458332bb5e96ca2f33c7d-3ac57.png 2880w&quot; sizes=&quot;(max-width: 2880px) 100vw, 2880px&quot;&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-      &lt;figcaption&gt;Insert Comment &lt;/figcaption&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-7to12&quot;&gt;
-    &lt;figure&gt;
-      
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 2880px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 71.11111111111111%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAACZUlEQVQ4y5WTy27aQBiF84Bd9SG67cP0Cbrool2gqlKaRFWkJI26QBEQLgEbjO/GeHy/4Au2T2fGAaKqUdUfH3nGHj7OzH84E9dPWGkSJE3BSpYgyisI2hqSoULdmlBts7v/RfJG59IcC4ptQFAknKEF2rZF0zY4Vsse4p8VeD4810UUhgh8H87WoUBaRVFAURS49KVPX+zr+pnbvi76MYiD5XIJy7LgeR5s2+6Au90O/X4fhmHwMbV7dPoakJUkyhgOB3Ao2PM9bB375FAURaRpyhcW1CFT3TxvvX15Gp07dsnTNdZzGXmYI/ET+GZ4cjgcDTEdTzCQBNyoM9zqT7ByD/u2QF7vECcxyrLgMH7e9AqUGKIggtgOTEtDsIk7YJZlGI1GWK6WmA8WGPZmmHwTsbzSYdy6IA8JsP+jIxSYRRl0U4Msy9ANHamXdcA8zzEejzGdTSHMBahzA7/ub3D+/TMur3r4cf0Vdw/n+Dm4wP3wEneDc9iOiX3awDANqIrG72VUnYCPj48QBIH+2hrGhi4yaRb1BdaGSHO6gEbnQUzgUwUJQVWWqLMGru/C3lpwXII0LE5NWSwW0HUdm82Gt584dKtbl2aL8LFLWN5iFHlJ15d8y0VU8u6GYYAojrA7AJnD2WzGY8PyxLIYBAEfH+aEEERRRBtTcjFgTgFlVR6PtUrqk8PJZAJVVbk7FlTm1DTN45yFnsWKJYIpzwrssy5Pdd3wZFVJ2wGrqjrCmBvmigGYXrpkCunfjMWnLCqkJERTJc9BzZD7Ac4Oqf+fOnzjw3WFNx9rvOsBbz+VeP8lw28kcyGZ2XxviQAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;test&quot; title src=&quot;/static/comment_overview-2463bf7bd2a3e1b551b39df9f5ff6a34-3ac57.png&quot; srcset=&quot;/static/comment_overview-2463bf7bd2a3e1b551b39df9f5ff6a34-a1ccb.png 750w,
-/static/comment_overview-2463bf7bd2a3e1b551b39df9f5ff6a34-d84eb.png 1500w,
-/static/comment_overview-2463bf7bd2a3e1b551b39df9f5ff6a34-3ac57.png 2880w&quot; sizes=&quot;(max-width: 2880px) 100vw, 2880px&quot;&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-      &lt;figcaption&gt;Show Comments&lt;/figcaption&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;&lt;/div&gt;
-&lt;div class=&quot;col-1to12&quot;&gt;
-    &lt;figure&gt;
-      
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 2880px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 71.11111111111111%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAACW0lEQVQ4y52T227aQBRF85v9i/5If6HveYmqSrSJqkhJmvYhSQPhErCxAd/vBhvjGV+Y3ZmBQFSlqtQjbc2MjbbXnLM5UWfP0EwdurmANtehzjUo5gy6bcAIHBi+s1vf0Nyzuaz93sJ4NsUJGMAYw5ZtcSgmHuKftVoukcQJUq44iuE6LjfkRSnFYrFAHMdI0xRN2+592d/F32uGCU3TsOTGYRTA9faGZVni7u4Otm3LPcc9kL5ttnvvLUJoU01C+KGLLM+OhKqqoigK+UPKCYXa7f7q7HU3dqaihIGA8IMA2ZqAEHIk7Pa6GPYHeNQVXBkjXFvPcEmChlGQtkS+zlFVVNLt+s2Q52ukyRKUVPIDdVPvDDebDXq9HqbaFOPHCbpnIww+q5heWLCvY0QPa6D5YyIcsiQFCpKh2pZoWYO6bnaGArXf72M4GkIZKzDGNn7eXqHz5RTnF2f4dvkJNw8dfH/8itvuOW5+dRAmHspqDX+tIyYGiioFKenR8OnpCYqiYD6fweb5MhyeRWuCma3ynE5g8vMyj5ByibVuKmlASX3oMa3ocSiTyQSWZcHzPPi+jyjkVw1ihEEk9yJn2SqX/apojS0fGKU8EUxErJU9qCk5Eo5GIzmxJElkDES2xP7lHEURsoz3q6qkRKTcMIWbFMgp4OcFrCg8Eg4GAxiGIelc15WkjuMcziL0IlYiEcWGk7UEH+8bvDsF3nfAV4YP1/sr13V9MBM0gkoYCL2mFFqtVhKg4RGJ4w3mZoyZ5cH0ErhBgpOXkP5P6dE9hvoP2PwvmK3ElDf4DRlkIynofIzhAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;test&quot; title src=&quot;/static/task_overview-55b95e1f019401c1a0226c706407d023-3ac57.png&quot; srcset=&quot;/static/task_overview-55b95e1f019401c1a0226c706407d023-a1ccb.png 750w,
-/static/task_overview-55b95e1f019401c1a0226c706407d023-d84eb.png 1500w,
-/static/task_overview-55b95e1f019401c1a0226c706407d023-3ac57.png 2880w&quot; sizes=&quot;(max-width: 2880px) 100vw, 2880px&quot;&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-      &lt;figcaption&gt;Display Tasks&lt;/figcaption&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-
-&lt;h4&gt;Positive&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Clear interface concept&lt;/li&gt;
-&lt;li&gt;context sensitive formatting&lt;/li&gt;
-&lt;li&gt;Table of contents helps to navigate in the document&lt;/li&gt;
-&lt;li&gt;Task management very sophisticated&lt;/li&gt;
-&lt;li&gt;Good visibility of public/private in comments&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Inputs/Improve&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Public and private is not 100% understandable with the slide switch, but this is very important here. At best a dropdown.&lt;/li&gt;
-&lt;li&gt;Tasks are not visible in the text (for comments solved with color).&lt;/li&gt;
-&lt;li&gt;Filtering of tasks/comments visually still too much like a link.&lt;/li&gt;
-&lt;li&gt;three different symbols (segmented circle, bar in number of steps, bar in percent) for progress indicator probably not ideal.&lt;/li&gt;
-&lt;li&gt;Very long lines in the text. Limit maximum width at most.&lt;/li&gt;
-&lt;li&gt;The collapsed sidebar doesn’t animate to be opened, because you can’t see what’s behind it. If necessary, introduce three icons for comments, files and tasks there. Click on it opens in the right tab.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Overview&lt;/h4&gt;
-&lt;p&gt;★★★★★ - Technology&lt;br&gt;
-★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt;☆ - Contents&lt;br&gt;
-★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt;☆ - Interaction&lt;br&gt;
-★★★★★☆ - Concept&lt;/p&gt;
-&lt;h3&gt;Draft “Separation”&lt;/h3&gt;
-&lt;p&gt;Tiö, Wolfgang and Marc have created a design in which they have very clearly distinguished the separation of public and private additions. So the notes are always private and the comments are always public.&lt;/p&gt;
-&lt;div class=&quot;wide-grid bg&quot;&gt;
-  &lt;div class=&quot;col-1to12&quot;&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;img/abgaben/separation/task_edit.png&quot; alt=&quot;test&quot;&gt;
-      &lt;figcaption&gt;Insert Tasks &lt;/figcaption&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-1to12&quot;&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;img/abgaben/separation/task_view.png&quot; alt=&quot;test&quot;&gt;
-      &lt;figcaption&gt;Display Tasks&lt;/figcaption&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-1to6&quot;&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;img/abgaben/separation/notes.png&quot; alt=&quot;test&quot;&gt;
-      &lt;figcaption&gt;Insert notes &lt;/figcaption&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-7to12&quot;&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;img/absen/separation/comments.png&quot; alt=&quot;test&quot;&gt;
-      &lt;figcaption&gt;Comments&lt;/figcaption&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h4&gt;Positive&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Clear separation of private and public supplements&lt;/li&gt;
-&lt;li&gt;Context-sensitive formatting and insertion of additions&lt;/li&gt;
-&lt;li&gt;Table of contents helps to navigate in the document&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Inputs/Improve&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;You would still have to explain in the interface that notes are private and comments are public (very important not to confuse).&lt;/li&gt;
-&lt;li&gt;Visually you could have displayed more information in the text for tasks. See draft “Focus”&lt;/li&gt;
-&lt;li&gt;Use consistent labels (Post it &amp;#x26; Save)&lt;/li&gt;
-&lt;li&gt;Admin and user not distinguished in view (except position)&lt;/li&gt;
-&lt;li&gt;Do you really have to save the fulfillment of subtasks?&lt;/li&gt;
-&lt;li&gt;Different symbols/interface elements for adding people and subtasks not ideal&lt;/li&gt;
-&lt;li&gt;some errors in the mockups (example: when creating a task, you can’t have already done some subtasks)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Overview&lt;/h4&gt;
-&lt;p&gt;★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt;☆ - Technology&lt;br&gt;
-★★★★☆☆ - Content&lt;br&gt;
-★★★&lt;span class=&quot;star half&quot;&gt;☆&lt;/span&gt;☆ - Interaction&lt;br&gt;
-★★★★★☆ - Concept&lt;/p&gt;
-&lt;h2&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;This case study illustrates the difference between UX and UI design. The focus was clearly on the UX design, i.e. how the user should be guided through the application. Of course, the interface design also has its parst, but will need more work later on. First it has to be clear what the application is supposed to achieve and in a second step it is more about creative topics like typography, color etc. It’s nice to see what results are available within a day. All groups have worked out a basis on which one can continue to work on. At a given time, a user test would certainly be a necessary step. So it can be determined how the end user gets along with the application and where he stops. Ultimately, the success of an application lies both in its concept as in the nitty gritty parts like microanimations and that alike. The playing field of interaction design is large…&lt;/p&gt;
-&lt;p&gt;Thanks to Matthias Koch for taking notes of the analysis.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Fahrplanauskunft – Redesign Touch Panel]]></title><description><![CDATA[In einem eintägigen Workshop wurde ein bestehendes Touch Panel für die Fahrplanauskunft am Zürich Hauptbahnhof überarbeitet und die bestehende Mängel von vier Teams analysiert und neue Lösungen vorgeschlagen.]]></description><link>https://logrinto.ch/posts/case-study-panel-sbb/</link><guid isPermaLink="false">https://logrinto.ch/posts/case-study-panel-sbb/</guid><pubDate>Sat, 11 Nov 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Ausgangslage – Konventionelle Anzeige&lt;/h2&gt;
+&lt;p&gt;Danke an Matthias Koch fürs mitschreiben der Analyse.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Fahrplanauskunft – Redesign Touch Panel]]></title><description><![CDATA[In einem eintägigen Workshop wurde ein bestehendes Touch Panel für die Fahrplanauskunft am Zürich Hauptbahnhof überarbeitet und die bestehende Mängel von vier Teams analysiert und neue Lösungen vorgeschlagen.]]></description><link>https://logrinto.ch/posts/case-study-panel-sbb/</link><guid isPermaLink="false">https://logrinto.ch/posts/case-study-panel-sbb/</guid><pubDate>Sat, 11 Nov 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Ausgangslage – Konventionelle Anzeige&lt;/h2&gt;
 &lt;div class=&quot;wide-grid bg&quot;&gt;
   &lt;div class=&quot;col-1to8&quot;&gt;
     &lt;figure&gt;
