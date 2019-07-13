@@ -75,12 +75,12 @@ class PostTemplateDetails extends React.Component {
 
           <div className="post-single__footer">
             <hr />
-            <p>Tags</p>
             <div className="post-single__tags">{tagsBlock}</div>
+            <br />
             <p className="post-single__footer-text">
-              {subtitle}
+              {subtitle} ·{" "}
               <a href={author.twitter} target="_blank" rel="noopener noreferrer">
-                <br /> <strong>{author.name}</strong> on Twitter
+                {author.name} on Twitter
               </a>
             </p>
           </div>
