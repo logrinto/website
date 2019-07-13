@@ -14,14 +14,14 @@
 <url> <loc>https://logrinto.ch/categories/responsive-gestaltung/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/posts/fontscale/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/tags/font-scale/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://logrinto.ch/posts/tools/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://logrinto.ch/posts/typoartboard/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://logrinto.ch/tags/responsive-design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/posts/em/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/tags/em/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/tags/rem/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/tags/dynamisch/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/tags/masseinheit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/posts/tools/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/posts/typoartboard/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/tags/responsive-design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/posts/zusammenfassung/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/posts/dynamische-typografie/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/tags/hyphens/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -36,6 +36,8 @@
 <url> <loc>https://logrinto.ch/posts/case-study-smide/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/tags/wearable/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/posts/case-study-interface-the-kitchen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/posts/bezugselemente/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/tags/bezugselemente/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/posts/Referenzdesign/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/tags/referenzdesign/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/tags/interaction-design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -49,8 +51,6 @@
 <url> <loc>https://logrinto.ch/tags/ux-ui/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/posts/viewport-einheiten/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/tags/viewport-einheiten/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://logrinto.ch/posts/bezugselemente/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://logrinto.ch/tags/bezugselemente/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/posts/tests/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/tags/blabla/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/posts/case-study-panel-sbb/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
