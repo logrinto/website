@@ -28,22 +28,6 @@ Viel Spass bei der Lektüre.
 
 Dozent: Boris Périsset
 
-
-### Die letzten Artikel
-
-Pascale: https://hackmd.io/Aj1EtyoOTkKKeUeq7Clh_w?view
-Matthias: https://hackmd.io/@matthiaskoch/B15SPjw0V
-Lars: https://hackmd.io/@larsmaeder/tabellen
-Nils: https://hackmd.io/DSK1lExkS5KBJWL8RvmCqQ?view
-Stefanie: https://hackmd.io/N-ml3NM5SH25Z2gDt5exXg?view
-Marc: https://hackmd.io/VE3fttcJRt-yu3Vhzf9Yzg?view
-Marius, Tiö: https://hackmd.io/@_UyE_hzgQDm18pnDxxPsRQ/HkxZYI3nE
-Severin: https://hackmd.io/j5AfULtWTZy-dZ53rhVt4Q
-Nicole: https://hackmd.io/pD-O8vFwQ5CCf3dz0QAQjA?view
-Wolfgang: https://hackmd.io/-V6SpolDSw2gT0RFPODN5A
-
-Natasha war abwesend am Polishing-Tag
-
 #### Alle Artikel hier
 
 * [Mit Prozent zum flüssigen Design · Marc Hatt](/posts/responsive-design-iad2017-prozent/)
@@ -56,35 +40,3 @@ Natasha war abwesend am Polishing-Tag
 * [Font Scale · Matthias Koch](/posts/responsive-design-iad2017-fontscale/)
 * [Das perfekte Typo Artboard · Severin Kilchhoferh](/posts/responsive-design-iad2017-typoartboard/)
 * [Wann lohnt sich der Einsatz von Viewport Einheiten? · Severin Kilchhofer, Pascale Anderegg, Nicole Watrinet](/posts/responsive-design-iad2017-viewport-einheiten/)
-
-
-Masseinheit zur Schriftgrösse des Elements EM-Wert	https://hackmd.io/@_UyE_hzgQDm18pnDxxPsRQ/HkxZYI3nE
-
-Bezugselemente %
-https://hackmd.io/gjlmheTESDKE4qDj08Sk5A
-
-Wann sich der Einsatz von Viewport Einheiten lohnt
-https://hackmd.io/pD-O8vFwQ5CCf3dz0QAQjA
-
-Mach mal genau so – Referenzdesign	https://hackmd.io/KpcuL5R1SwaiEcNQy128ug
-
-Braucht es neue Design Tools in Zukunft?
-https://hackmd.io/u3MuqoyGRfiqy7tRRMv-DA?view
-
-Möglichkeiten des CSS-Grids
-https://hackmd.io/H-fHUgvsSy-VHJqpNjr5ag?view
-
-Do tools really matter?
-https://hackmd.io/Aj1EtyoOTkKKeUeq7Clh_w
-
-Best Practice Tables
-https://hackmd.io/u7YoPKPoQAGzJDHizez6XQ?view
-
-Trennregeln und Grauwert
-https://hackmd.io/-V6SpolDSw2gT0RFPODN5A
-
-Modular Scale
-https://hackmd.io/XyIGmlHBSdaMSw1YU7T8ng?view
-
-Das perfekte Typo-Artboard
-https://hackmd.io/j5AfULtWTZy-dZ53rhVt4Q?view
