@@ -49,6 +49,9 @@ Natasha war abwesend am Polishing-Tag
 * [Mit Prozent zum flüssigen Design · Marc Hatt](/posts/responsive-design-iad2017-prozent/)
 * [Code und Design · Nils Mäder](/posts/responsive-design-iad2017-codedesign/)
 * [Alles bleibt anders – dynamische Typografie in digitalen Anwendungen · Natasha Ruf & Wolfgang Schoeck](/posts/responsive-design-iad2017-dynamische-typografie/)
+* [Dynamische Masseinheit em · Tieu Khe Mayer, Natasha Ruf & Marius Becker](/posts/responsive-design-iad2017-em/)
+
+
 
 Masseinheit zur Schriftgrösse des Elements EM-Wert	https://hackmd.io/@_UyE_hzgQDm18pnDxxPsRQ/HkxZYI3nE
 
