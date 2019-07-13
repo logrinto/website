@@ -1,18 +1,16 @@
 ---
 title: "Die Sezierung responsiver Web-Gestaltung"
-author: "BORIS"
+author: "Boris Périsset"
 date: "2019-07-12"
 layout: post
 draft: false
 hideInMenu: true
-path: "/posts/zusammenfassung/"
+path: "/posts/responsive-design-iad2017/"
 category: "Responsive Gestaltung"
 featuredImage: "img/header.png"
 tags:
   - "Responsive Gestaltung"
   - "Typografie"
-
-
 ---
 
 
@@ -47,6 +45,11 @@ Wolfgang: https://hackmd.io/-V6SpolDSw2gT0RFPODN5A
 Natasha war abwesend am Polishing-Tag
 
 #### Alle Artikel hier
+
+* [Mit Prozent zum flüssigen Design · Marc Hatt](/posts/responsive-design-iad2017-prozent/)
+* [Code und Design · Nils Mäder](/posts/responsive-design-iad2017-codedesign/)
+
+
 
 Masseinheit zur Schriftgrösse des Elements EM-Wert	https://hackmd.io/@_UyE_hzgQDm18pnDxxPsRQ/HkxZYI3nE
 
