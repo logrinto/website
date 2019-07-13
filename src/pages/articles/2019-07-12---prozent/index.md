@@ -5,7 +5,7 @@ date: "2019-07-12"
 layout: post
 draft: false
 hideInMenu: true
-path: "/posts/bezugselemente/"
+path: "/posts/responsive-design-iad2017-prozent/"
 category: "Responsive Gestaltung"
 featuredImage: "img/header.png"
 tags:
@@ -178,9 +178,9 @@ Prozentwerte sind dynamisch und passen sich an. So lassen sich gleiche Element a
 
 ### Nachteile von Prozentwerten
 
-#### Browser ignorieren Standardweise Höhenangaben in Prozent 
+#### Browser ignorieren Standardweise Höhenangaben in Prozent
 
-Sehen wir dies in einem praktischen Beispiel genauer an. Beide Boxen sind gleich definiert. Ausnahme bildet die CSS Farbdefinition `background-color` für eine bessere visuelle Unterscheidung, sowie die Masseinheit von `height` in Pixel und Prozent. 
+Sehen wir dies in einem praktischen Beispiel genauer an. Beide Boxen sind gleich definiert. Ausnahme bildet die CSS Farbdefinition `background-color` für eine bessere visuelle Unterscheidung, sowie die Masseinheit von `height` in Pixel und Prozent.
 
 Die Höhe der blauen Box wird Prozentual `height: 100%;` definiert, die Höhenangabe wird vom Browser ignoriert und der Inhalt bestimmt die Boxhöhe. Die orange Box wird in Pixel `height: 200px;` definiert, der Browser erkennt die CSS-Definition und passt die Boxhöhe entsprechend an.  
 
