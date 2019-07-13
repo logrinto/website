@@ -5,7 +5,7 @@ date: "2019-07-12"
 layout: post
 draft: false
 hideInMenu: true
-path: "/posts/typoartboard/"
+path: "/posts/responsive-design-iad2017-typoartboard/"
 category: "Responsive Gestaltung"
 featuredImage: "img/header-image.png"
 tags:
@@ -38,7 +38,7 @@ Individuelle Benamsung der einzelnen Absatzformate (zum Beispiel als T-Shirt Gr�
 
 
 ### 2. Modularscale
-Mit dem Tool Modularscale kann man sich beliebig die proportionalen Schriftgrössenabstufungen zusammenstellen: 
+Mit dem Tool Modularscale kann man sich beliebig die proportionalen Schriftgrössenabstufungen zusammenstellen:
 
 <div class="wide-grid">
   <div class="col-1to12">
@@ -93,4 +93,3 @@ https://rsms.me/inter/
 
 ### Cover Photo
 Photo by [Pankaj Patel](https://unsplash.com/@pankajpatel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com)
-
