@@ -1,5 +1,5 @@
 ---
-title: "Font Scale"
+title: "WTF? What The Font(scale)"
 author: "Matthias Koch"
 date: "2019-07-12"
 layout: post
@@ -14,8 +14,6 @@ tags:
   - "Font Scale"
 description: "Wie verhalten sich Schrifgrössen auf verschiedenen Device grössen? dazu gibt es verschiedne Methoden die man anwenden kann, die am häufig verwendeten sind «Modular-Scales» und «Fluid Scale»."
 ---
-
-# WTF? What The Font(scale)
 
 **Typografische Systeme für das Web stellen Designer immer wieder vor Probleme. Insbesondere stellt sich die Frage wie sich Schrift Responsive verhält?
 Modular Scale Type Systems bieten einen Ansatz und helfen dabei die richtigen Schriftgrössen und Abstufungen zu finden. Doch macht der Einsatz von mehreren Breakpoints Sinn, oder soll der Text Fluide skaliert werden und welche Einflüsse hat dies auf die Darstellung?**
@@ -46,8 +44,14 @@ Auf jeden Fall macht es Sinn verschiedene Schrift Grössen auf verschiedenen Dev
 
 
 ## Quellen
-* https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/
-* https://zurb.com/word/modular-scale
-* https://zellwk.com/blog/responsive-modular-scale/
-* https://medium.com/sketch-app-sources/exploring-responsive-type-scales-cf1da541be54
-* https://www.codementor.io/ricardozea/100-responsive-typography-system-using-a-modular-scale-s5rhft58g
+
+[Fluid Responsive Typography With CSS Poly Fluid Sizing, Jake Wilson](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing)
+
+[Modular Scale, Zurb](https://zurb.com/word/modular-scale)
+
+[Responsive Modular Scale, Zellwk](https://zellwk.com/blog/responsive-modular-scale/)
+
+[Exploring Responsive Type Scales, Stackswell.io](https://medium.com/sketch-app-sources/exploring-responsive-type-scales-cf1da541be54)
+
+[100% Responsive Typography System using a Modular Scale, Ricardo Zea](https://www.codementor.io/ricardozea/100-responsive-typography-system-using-a-modular-scale-s5rhft58g)
+
