@@ -23,7 +23,7 @@ Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien l
 
 <div>
   <figure class="float-right">
-  	<img src="./img/minimalist.png" alt="test">
+  	<img src="http://via.placeholder.com/550x700" alt="test">
   	<figcaption>Caption</figcaption>
   </figure>
 </div>
