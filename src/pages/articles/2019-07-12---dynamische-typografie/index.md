@@ -1,11 +1,11 @@
 ---
 title: "Alles bleibt anders – dynamische Typografie in digitalen Anwendungen"
-author: "Natasha, Wolfgang"
+author: "Natasha Ruf, Wolfgang Schoeck"
 date: "2019-06-12"
 layout: post
 draft: false
 hideInMenu: true
-path: "/posts/dynamische-typografie/"
+path: "/posts/responsive-design-iad2017-dynamische-typografie/"
 category: "Responsive Gestaltung"
 featuredImage: "img/header-img.png"
 tags:
@@ -58,13 +58,13 @@ Die aktuelle Schriftgrösse kann dann entweder dynamisch mit calc oder aber anha
 
 Wenn sich die Screengrösse und somit auch die Schriftgrösse ändert, muss natürlich auch der Zeilenabstand berücksichtigt werden. Sinnvoll ist daher, diesen ebenfalls in einer relativen Grösse (z. B. mit rem oder in Prozent anzugeben), damit sich dieser mit der Schriftgrösse mitskaliert.
 
-Mehr zum Zeilenabstand im CSS gibt es [**hier**](https://www.mediaevent.de/css/line-height.html)
+Mehr zum Zeilenabstand im CSS gibt es [hier](https://www.mediaevent.de/css/line-height.html)
 
 ## Spalten
 
 Während sich die Schriftgrösse und der Zeilenabstand sowohl auf die Breite wie auch die Höhe eines Layouts beziehen, hat die Spaltenbtreite in erster Linie mit der Breite eines Screens zu tun. Obwohl sich der Spaltenraster bis zu einem gewissen Grad in der Breite auch dynamisch skaliert macht es hier oft Sinn anstelle der Spaltenbreite die Anzahl der Spalten je nach Screengrösse zu ändern.
 
-Überlegungen zur optimalen Spaltenbreite gibt es [**hier**](https://www.typolexikon.de/satzbreite/)
+Überlegungen zur optimalen Spaltenbreite gibt es [hier](https://www.typolexikon.de/satzbreite/)
 
 ## Fazit
 
