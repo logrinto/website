@@ -52,7 +52,8 @@ Natasha war abwesend am Polishing-Tag
 * [Dynamische Masseinheit em · Tieu Khe Mayer, Natasha Ruf & Marius Becker](/posts/responsive-design-iad2017-em/)
 * [Mach mal genau so! Referenzdesign · Nils Mäder, Matthias Koch, Stephanie Fuchs](/posts/responsive-design-iad2017-referenzdesign/)
 * [Umgang mit Tabellen im Web · Lars Mäder](/posts/responsive-design-iad2017-tabellen-im-web/)
-
+* [Do tools really Matter? · Wolfgang Schoeck, Marius Becker, Pascale Anderegg](/posts/responsive-design-iad2017-tools/)
+* [Font Scale · Matthias Koch](/posts/responsive-design-iad2017-fontscale/)
 
 
 Masseinheit zur Schriftgrösse des Elements EM-Wert	https://hackmd.io/@_UyE_hzgQDm18pnDxxPsRQ/HkxZYI3nE
