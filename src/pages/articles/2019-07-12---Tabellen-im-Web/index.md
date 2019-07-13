@@ -5,7 +5,7 @@ date: "2019-07-12"
 layout: post
 draft: false
 hideInMenu: true
-path: "/posts/umgang-mit-tabellen-im-web/"
+path: "/posts/responsive-design-iad2017-tabellen-im-web/"
 category: "Responsive Gestaltung"
 featuredImage: "img/header@2x.jpg"
 tags:
@@ -19,14 +19,14 @@ description: "Tabellen im Web, schon lange im Einsatz und noch immer eine Knackn
 
 <style>
     .img-special {
-        background: #FFFFFF; 
-        box-shadow: 0 3px 15px 0 rgba(0,0,0,0.08), 0 15px 15px -15px rgba(0,0,0,0.30); 
-        border-radius: 4px; 
+        background: #FFFFFF;
+        box-shadow: 0 3px 15px 0 rgba(0,0,0,0.08), 0 15px 15px -15px rgba(0,0,0,0.30);
+        border-radius: 4px;
         margin-bottom: 20px
     }
     .img-special.small{
         width: 115px;
-    } 
+    }
 </style>
 
 Mit Tabellen und Datensätzen interagieren wurde fast schon zu einem Standard und gewöhnliche starre Tabellen gehören der Vergangenheit an. Funktionen wie «Sortieren», «Filtern» und «Löschen» sind keine aussergewöhnliche Features im Web, sondern gehören zum Alltäglichen Gebrauch. Dieser neue Umgang mit Tabellen, sowie die Entwicklung von Endgeräten und wie wir das Internet konsumieren, bringt zu den bereits bekannten älteren Schwierigkeiten, eine neue Herausforderung hervor. Wie gehe ich mit Tabellen im Responsive Design um?
