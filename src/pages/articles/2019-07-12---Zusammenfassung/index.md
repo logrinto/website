@@ -50,6 +50,7 @@ Natasha war abwesend am Polishing-Tag
 * [Code und Design · Nils Mäder](/posts/responsive-design-iad2017-codedesign/)
 * [Alles bleibt anders – dynamische Typografie in digitalen Anwendungen · Natasha Ruf & Wolfgang Schoeck](/posts/responsive-design-iad2017-dynamische-typografie/)
 * [Dynamische Masseinheit em · Tieu Khe Mayer, Natasha Ruf & Marius Becker](/posts/responsive-design-iad2017-em/)
+* [Mach mal genau so! Referenzdesign · Nils Mäder, Matthias Koch, Stephanie Fuchs](/posts/responsive-design-iad2017-referenzdesign/)
 
 
 

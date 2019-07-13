@@ -1,11 +1,11 @@
 ---
-title: "Mach mal genau so! Referenzdesign #2"
-author: "Stephanie Fuchs"
+title: "Mach mal genau so! Referenzdesign"
+author: "Nils Mäder, Matthias Koch, Stephanie Fuchs"
 date: "2019-7-12"
 layout: post
 draft: false
 hideInMenu: true
-path: "/posts/Referenzdesign/"
+path: "/posts/responsive-design-iad2017-referenzdesign/"
 category: "Responsive Gestaltung"
 featuredImage: "img/header.png"
 tags:
@@ -38,7 +38,7 @@ Liste und Vergleich der wichtigsten Tools: [Uxtools.co | Compare UX Tools](http:
 Der Designer übergibt den Entwicklern ein visuelles Layout und Designspezifikationen zum auslesen. Er verzichtet dabei auf einen genauen und detaillierten Beschrieb seiner Arbeit und überlässt den Entwickelnden dafür mehr Freiheit bei der Umsetzung.
 
 ### Übergabe und Tools
-In diesem Beispiel wird ein Referenzdesign Desktop und oder Mobile von den Designenden gestaltet welches dann mithilfe der Tools untersucht werden kann. In dieser Form der Übergabe hat der Entwickler zwar alle Designspezifikationen jedoch keine Richtlinien wie sich Inhalt und Elemente zwischen den Referenzdesigns verhält, skaliert und wie sie sich bewegen. Einzelne Effekte und Zustände können via Kommentarfunktion definiert werden, wie dass diese umgesetzt werden ist dann den Entwicklern überlassen. 
+In diesem Beispiel wird ein Referenzdesign Desktop und oder Mobile von den Designenden gestaltet welches dann mithilfe der Tools untersucht werden kann. In dieser Form der Übergabe hat der Entwickler zwar alle Designspezifikationen jedoch keine Richtlinien wie sich Inhalt und Elemente zwischen den Referenzdesigns verhält, skaliert und wie sie sich bewegen. Einzelne Effekte und Zustände können via Kommentarfunktion definiert werden, wie dass diese umgesetzt werden ist dann den Entwicklern überlassen.
 
 ### Vor- und Nachteile
 ## 👍🏼
@@ -46,7 +46,7 @@ Durch den Verzicht auf die Erstellung eines detaillierten Handout wird sehr viel
 
 
 ## 👎🏼
-Das Design ist weniger unter Kontrolle, da der Entwickler keinen genauen beschrieb zu jedem einzelnen Element hat sondern eher einen Gesamteindruck vermittelt bekommt. 
+Das Design ist weniger unter Kontrolle, da der Entwickler keinen genauen beschrieb zu jedem einzelnen Element hat sondern eher einen Gesamteindruck vermittelt bekommt.
 Die umgesetzte Arbeit sollte laufend mit dem Design abgeglichen werden und auf Unstimmigkeiten geprüft werden. (Qualitätskontrolle)
 
 ### Fazit
@@ -63,11 +63,11 @@ Quelle: [freepik.com](https://de.freepik.com/)
 
 ## Typ 2️⃣ Der Hybrid
 
-Diesem Typ von Designer ist es wichtig dass sein Design von der Entwicklung verstanden wird. Es gibt Überlegungen die hinter den Abständen und Schriftgrössen stecken. Daher wird, zusätzlich zu den gängigen Übergabe-Tools, noch ein kleiner Styleguide mitgeliefert. 
+Diesem Typ von Designer ist es wichtig dass sein Design von der Entwicklung verstanden wird. Es gibt Überlegungen die hinter den Abständen und Schriftgrössen stecken. Daher wird, zusätzlich zu den gängigen Übergabe-Tools, noch ein kleiner Styleguide mitgeliefert.
 
 ### Übergabe und Tools
 
-Die gängigen Übergabe-Tools wie InVision-Inspect, Zeplin oder XdCloud gehören beim Typ „Hybrid“ zum Standard. Darin können die Entwickler alles auslesen was benötigt wird. Die Massangaben im Referenzdesign beziehen sich oftmals auf Pixel, meistens erhält die Entwicklung ein Desktop-Viewport und ein Mobile-Viewport. Jedoch steckt dahinter ein System, dieses ist zwar nicht auf Basis von verschiedenen Formeln entstanden, jedoch gibt es fixe Abstände und Regeln die angewendet werden müssen. 
+Die gängigen Übergabe-Tools wie InVision-Inspect, Zeplin oder XdCloud gehören beim Typ „Hybrid“ zum Standard. Darin können die Entwickler alles auslesen was benötigt wird. Die Massangaben im Referenzdesign beziehen sich oftmals auf Pixel, meistens erhält die Entwicklung ein Desktop-Viewport und ein Mobile-Viewport. Jedoch steckt dahinter ein System, dieses ist zwar nicht auf Basis von verschiedenen Formeln entstanden, jedoch gibt es fixe Abstände und Regeln die angewendet werden müssen.
 
 Zusätzlich zu den Inspect-Tools wird daher kurzerhand ein kleiner Styleguide geschrieben. Darin sind die Abstände, Farben, Schriften und eventuell sogar einige Zustände abgebildet. Dies bedeutet zwar einen kleinen Mehraufwand, dieser wird doch sehr gerne in Kauf genommen.
 
@@ -83,7 +83,7 @@ So wird es trotz kleinem Styleguide immer wieder Rückfragen von der Entwicklung
 
 ### Fazit
 
-Für welche Projekte eignet sich diese Arbeitsweise? Optimal ist diese Arbeitsweise bei eher kleineren bis mittleren Projekten. Es kann nicht extrem viel Zeit für einen sehr detaillierten Styleguide für die Übergabe aufgewendet werden. Da die Entwicklung aber meistens nicht in-house ist, macht es Sinn die grundsätzlichen Überlegungen zu transferieren. 
+Für welche Projekte eignet sich diese Arbeitsweise? Optimal ist diese Arbeitsweise bei eher kleineren bis mittleren Projekten. Es kann nicht extrem viel Zeit für einen sehr detaillierten Styleguide für die Übergabe aufgewendet werden. Da die Entwicklung aber meistens nicht in-house ist, macht es Sinn die grundsätzlichen Überlegungen zu transferieren.
 
 Diese Arbeitsweise erfordert natürlich noch immer die enge Zusammenarbeit mit der Entwicklung, jedoch haben beide Parteien eine Diskussionsgrundlage mit dem Referenz-Design und dem Styleguide.
 
@@ -182,10 +182,3 @@ Das Best Practice Modell ist vom jeweiligen Projekt abhängig. Der IAD muss wiss
 
 ### #2 | Die Sprachen
 Unabhängig davon welcher Designtyp man ist oder sein muss ist es wichtig, einen Draht zu den Entwicklern aufzubauen. Je besser man sich kennt, desto eher können Missverständnisse vermieden werden. Die Sprache eines Programmierers ist nicht gleich der eines Designers. So kann ein Wort auf etwas unterschiedliches hinweisen oder bedeuten.
-
-
-
----
-
-Nils Mäder, Matthias Koch, Stephanie Fuchs | HF IAD '17 | sfgz.ch | 
-Überarbeitet | Stephanie Fuchs
