@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Logrinto Blog]]></title><description><![CDATA[Logrinto Blog]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Sat, 13 Jul 2019 12:17:57 GMT</lastBuildDate><item><title><![CDATA[Test]]></title><description><![CDATA[TLDR – Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.]]></description><link>https://logrinto.ch/posts/tests/</link><guid isPermaLink="false">https://logrinto.ch/posts/tests/</guid><pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;http://via.placeholder.com/1200x900&quot; alt=&quot;Inline Bild&quot;&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Logrinto Blog]]></title><description><![CDATA[Logrinto Blog]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Sat, 13 Jul 2019 12:32:06 GMT</lastBuildDate><item><title><![CDATA[Test]]></title><description><![CDATA[TLDR – Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.]]></description><link>https://logrinto.ch/posts/tests/</link><guid isPermaLink="false">https://logrinto.ch/posts/tests/</guid><pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;http://via.placeholder.com/1200x900&quot; alt=&quot;Inline Bild&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Weit hinten,&lt;/strong&gt; hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik. Der große Oxmox riet ihr davon ab, da es dort wimmele von bösen Kommata, wilden Fragezeichen und hinterhältigen Semikoli, doch das Blindtextchen ließ sich nicht beirren. Es packte seine sieben Versalien, schob sich sein Initial in den Gürtel und machte sich auf den Weg. Als es die ersten Hügel des Kursivgebirges erklommen hatte, warf es einen letzten Blick zurück auf die Skyline seiner Heimatstadt Buchstabhausen, die Headline von Alphabetdorf und die Subline seiner eigenen Straße, der Zeilengasse. Wehmütig lief ihm eine rhetorische Frage über die Wange, dann setzte es seinen Weg fort. Unterwegs traf es eine Copy. Die Copy warnte das Blindtextchen, da, wo sie herkäme wäre sie zigmal umgeschrieben worden und alles, was von ihrem Ursprung noch übrig wäre, sei das Wort “und” und das Blindtextchen solle umkehren und wieder in sein eigenes, sicheres Land zurückkehren. Doch alles Gutzureden konnte es nicht überzeugen und so dauerte es nicht lange, bis ihm ein paar heimtückische Werbetexter auflauerten, es mit Longe und Parole betrunken machten und es dann in ihre Agentur schleppten, wo sie es für ihre Projekte wieder und wieder mißbrauchten. Und wenn es nicht umgeschrieben wurde, dann benutzen Sie es immernoch.&lt;/p&gt;
 &lt;div&gt;
@@ -238,44 +238,6 @@ Modular Scale Type Systems bieten einen Ansatz und helfen dabei die richtigen Sc
 &lt;li&gt;&lt;a href=&quot;https://zellwk.com/blog/responsive-modular-scale/&quot;&gt;https://zellwk.com/blog/responsive-modular-scale/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://medium.com/sketch-app-sources/exploring-responsive-type-scales-cf1da541be54&quot;&gt;https://medium.com/sketch-app-sources/exploring-responsive-type-scales-cf1da541be54&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.codementor.io/ricardozea/100-responsive-typography-system-using-a-modular-scale-s5rhft58g&quot;&gt;https://www.codementor.io/ricardozea/100-responsive-typography-system-using-a-modular-scale-s5rhft58g&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Dynamische Masseinheit em]]></title><description><![CDATA[Eine der besten Praktiken für die Typografie im Web ist die Verwendung relativer Einheiten wie em und rem. Relative Grössen werden in Abhängigkeit von anderen Masseinheiten angegeben und passen sich dadurch besser verschiedenen Ausgabemedien und Benutzereinstellungen an. Aber wann ist es sinnvoll em anzuwenden, wann besser rem?]]></description><link>https://logrinto.ch/posts/em/</link><guid isPermaLink="false">https://logrinto.ch/posts/em/</guid><pubDate>Fri, 12 Jul 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Was ist der em-Wert?&lt;/h2&gt;
-&lt;p&gt;Der em-Wert ist eine relative Masseinheit für die Angabe von Grössen. Diese ist in modernen Browsern standardmässig mit 16 Pixeln definiert. Das bedeutet, dass 1em = 16px, 2em = 32px, 1.5em = 24px, 0.75em = 12px ist. Diese Masseinheit kann auf jedes beliebige Element angewendet werden, und verhält sich demnach relativ zueinander. Da der em-Wert auch neu definiert werden kann, ist es möglich, alle mit em definierte Elemente zu verändern, ohne dass diese die Relation zueinander verlieren. Der em-Wert kann auf Schriftgrössen, Zeilenabstände, Breiten- und Höhenangaben etc. angewendet werden.&lt;/p&gt;
-&lt;h3&gt;Beispiel&lt;/h3&gt;
-&lt;iframe height=&quot;400&quot; style=&quot;width: 100%;&quot; scrolling=&quot;no&quot; title=&quot;Example of em&quot; src=&quot;//codepen.io/mariusbecker/embed/YboLEb/?height=265&amp;theme-id=0&amp;default-tab=css,result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;
-  See the Pen &lt;a href=&apos;https://codepen.io/mariusbecker/pen/YboLEb/&apos;&gt;Example of em&lt;/a&gt; by marius becker
-  (&lt;a href=&apos;https://codepen.io/mariusbecker&apos;&gt;@mariusbecker&lt;/a&gt;) on &lt;a href=&apos;https://codepen.io&apos;&gt;CodePen&lt;/a&gt;.
-&lt;/iframe&gt;
-&lt;p&gt;In diesem Beispiel wude im ersten Container (.parent) die Schriftgrösse auf 20px gesetzt. Da das Element (.outerChild) sich im Conteiner (.parent) befindet und im em-Wert angegeben ist, werden die Grössen von diesem geerbt.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Schriftgrösse: 20px × 1.75 = 35px&lt;/li&gt;
-&lt;li&gt;Zeilenabstand: 20px × 2 = 40px&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Das Objekt (.innerChild) befindet sich im Container (.outerChild), und erbt somit diesen wert:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Schriftgrösse: 35px × 1.75 = 61.25px&lt;/li&gt;
-&lt;li&gt;Zeilenabstand: 40px × 2 = 80px&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Vorteile von EM-Wert&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Hilft uns modulare Komponente zu erstellen.&lt;/li&gt;
-&lt;li&gt;Größen werden proportional korrekt dargestellt.&lt;/li&gt;
-&lt;li&gt;Schnelle Anpassung der Schriftgrössen möglich mit wenig Aufwand.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Wann wenden wir den em-Wert an?&lt;/h2&gt;
-&lt;p&gt;Em ist eine sehr nützliche Einheit für Schriftgrössen, da es seine Länge automatisch relativ zur vom Leser gewählten Schrift anpasst.&lt;/p&gt;
-&lt;p&gt;Für den Zeilenabstand eignet sich em auch gut, damit gewährleistet man, dass der Zeilenabstand entsprechend zur Schriftgröße eine optimale Lesbarkeit ermöglicht.&lt;/p&gt;
-&lt;p&gt;Für konsistente Abstände wie margin oder padding skaliert sich der EM-Wert automatisch mit den Media Queries. Hingegen in Pixel Angaben würden sie bei jedem Breakpoint neu überschrieben werden. Em eignet sich daher sehr gut für responsives Design.&lt;/p&gt;
-&lt;h2&gt;Wann nutzen wir besser den rem-Wert?&lt;/h2&gt;
-&lt;p&gt;Em (und Prozent) bezieht sich immer auf das Eltern-Element. Bei stark verschachtelten Elementen werden die Schriftgrössen schwerer berechenbar. Rem-Werte hingegen sind relativ zum html-Wurzelelement, nicht zum Elternelement. Mit anderen Worten ermöglicht es, eine Schriftgröße in einer relativen Weise zu spezifizieren ohne durch das Elternelement beeinflusst zu werden, was ein klarer Vorteil gegenüber dem EM-Wert ist.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/93oUNl9.png&quot;&gt;&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/de/docs/Web/CSS/font-size&quot;&gt;https://developer.mozilla.org/de/docs/Web/CSS/font-size&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.elmastudio.de/css-tipp-rem-als-einheit-fur-schriftgrose-nutzen/&quot;&gt;https://www.elmastudio.de/css-tipp-rem-als-einheit-fur-schriftgrose-nutzen/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.intensivstation.ch/css3/em-rem&quot;&gt;http://www.intensivstation.ch/css3/em-rem&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.mediaevent.de/css/font-size-rem.html&quot;&gt;https://www.mediaevent.de/css/font-size-rem.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.netnode.ch/blog/masseinheiten-und-kenngroessen-fuer-die-typographie-im-web-teil-1&quot;&gt;https://www.netnode.ch/blog/masseinheiten-und-kenngroessen-fuer-die-typographie-im-web-teil-1&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Do tools really Matter?]]></title><description><![CDATA[In Designprozessen könnte vieles besser laufen. Gerade im Interaction Design – also wenn es darum geht Produkte oder Prozessschritte erlebbar zu machen, stossen die Design Tools öfters an ihre Grenzen oder die definierten Interaktionen können in der Entwicklung nicht so umgesetzt werden. Wie könnte man diesen Gap aufbrechen und gibt es «das Eine» Designtool?]]></description><link>https://logrinto.ch/posts/tools/</link><guid isPermaLink="false">https://logrinto.ch/posts/tools/</guid><pubDate>Fri, 12 Jul 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;Ein Artikel von Wolfgang, Marius und Pascale – HF IAD 2017&lt;/em&gt;&lt;/p&gt;
 &lt;h3&gt;Painpoints eines Designers&lt;/h3&gt;
 &lt;p&gt;Wir haben uns als Interaction Designer die Frage gestellt, was denn aktuell im Arbeitsprozess schief läuft. Wir werden euch ein paar davon nennen und sind uns sicher, dass euch das Eine oder Andere bekannt ist. Zum Beispiel fehlt oft die Zeit um elementare Elemente wie Transitions umzusetzen. Die Zeit wird dann eher genutzt um alle Detailpages zu layouten, sodass der Kunde alle Designs gesehen hat. Wenn alle Designs gemacht sind und es in die Umsetzung geht, wird oft nicht genügend kommuniziert und vieles, wie Transitions in der Entwicklung selber bestimmt. Am Ende ist der Designer sowie der Kunde unglücklich weil die Website live nicht so aussieht wie im Hi-Fi Prototypen.&lt;/p&gt;
@@ -388,6 +350,7 @@ Wolfgang: &lt;a href=&quot;https://hackmd.io/-V6SpolDSw2gT0RFPODN5A&quot;&gt;htt
 &lt;li&gt;&lt;a href=&quot;/posts/responsive-design-iad2017-prozent/&quot;&gt;Mit Prozent zum flüssigen Design · Marc Hatt&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;/posts/responsive-design-iad2017-codedesign/&quot;&gt;Code und Design · Nils Mäder&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;/posts/responsive-design-iad2017-dynamische-typografie/&quot;&gt;Alles bleibt anders – dynamische Typografie in digitalen Anwendungen · Natasha Ruf &amp;#x26; Wolfgang Schoeck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/posts/responsive-design-iad2017-em/&quot;&gt;Dynamische Masseinheit em · Tieu Khe Mayer, Natasha Ruf &amp;#x26; Marius Becker&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Masseinheit zur Schriftgrösse des Elements EM-Wert	&lt;a href=&quot;https://hackmd.io/@_UyE_hzgQDm18pnDxxPsRQ/HkxZYI3nE&quot;&gt;https://hackmd.io/@&lt;em&gt;UyE&lt;/em&gt;hzgQDm18pnDxxPsRQ/HkxZYI3nE&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Bezugselemente %
@@ -408,7 +371,45 @@ Wolfgang: &lt;a href=&quot;https://hackmd.io/-V6SpolDSw2gT0RFPODN5A&quot;&gt;htt
 &lt;p&gt;Modular Scale
 &lt;a href=&quot;https://hackmd.io/XyIGmlHBSdaMSw1YU7T8ng?view&quot;&gt;https://hackmd.io/XyIGmlHBSdaMSw1YU7T8ng?view&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Das perfekte Typo-Artboard
-&lt;a href=&quot;https://hackmd.io/j5AfULtWTZy-dZ53rhVt4Q?view&quot;&gt;https://hackmd.io/j5AfULtWTZy-dZ53rhVt4Q?view&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Umgang mit Tabellen im Web]]></title><description><![CDATA[Tabellen im Web, schon lange im Einsatz und noch immer eine Knacknuss wenn es darum geht diese Userfreundlich auf allen Endgeräten darzustellen. Das Problem findet sich oftmals in komplexeren Tabellen wieder. Diese beinhalten meist eine grössere Anzahl an Spaltenreihen und Zeilen, die auf grösseren Displays gut lesbar sind, jedoch für Mobilgeräte ungeeignet sind.]]></description><link>https://logrinto.ch/posts/umgang-mit-tabellen-im-web/</link><guid isPermaLink="false">https://logrinto.ch/posts/umgang-mit-tabellen-im-web/</guid><pubDate>Fri, 12 Jul 2019 00:00:00 GMT</pubDate><content:encoded>&lt;style&gt;
+&lt;a href=&quot;https://hackmd.io/j5AfULtWTZy-dZ53rhVt4Q?view&quot;&gt;https://hackmd.io/j5AfULtWTZy-dZ53rhVt4Q?view&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dynamische Masseinheit em]]></title><description><![CDATA[Eine der besten Praktiken für die Typografie im Web ist die Verwendung relativer Einheiten wie em und rem. Relative Grössen werden in Abhängigkeit von anderen Masseinheiten angegeben und passen sich dadurch besser verschiedenen Ausgabemedien und Benutzereinstellungen an. Aber wann ist es sinnvoll em anzuwenden, wann besser rem?]]></description><link>https://logrinto.ch/posts/responsive-design-iad2017-em/</link><guid isPermaLink="false">https://logrinto.ch/posts/responsive-design-iad2017-em/</guid><pubDate>Fri, 12 Jul 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Was ist der em-Wert?&lt;/h2&gt;
+&lt;p&gt;Der em-Wert ist eine relative Masseinheit für die Angabe von Grössen. Diese ist in modernen Browsern standardmässig mit 16 Pixeln definiert. Das bedeutet, dass 1 em = 16 px, 2 em = 32 px, 1.5em = 24 px, 0.75em = 12px ist. Diese Masseinheit kann auf jedes beliebige Element angewendet werden, und verhält sich demnach relativ zueinander. Da der em-Wert auch neu definiert werden kann, ist es möglich, alle mit em definierte Elemente zu verändern, ohne dass diese die Relation zueinander verlieren. Der em-Wert kann auf Schriftgrössen, Zeilenabstände, Breiten- und Höhenangaben etc. angewendet werden.&lt;/p&gt;
+&lt;h3&gt;Beispiel&lt;/h3&gt;
+&lt;iframe height=&quot;400&quot; style=&quot;width: 100%;&quot; scrolling=&quot;no&quot; title=&quot;Example of em&quot; src=&quot;//codepen.io/mariusbecker/embed/YboLEb/?height=265&amp;theme-id=0&amp;default-tab=css,result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;
+  See the Pen &lt;a href=&apos;https://codepen.io/mariusbecker/pen/YboLEb/&apos;&gt;Example of em&lt;/a&gt; by marius becker
+  (&lt;a href=&apos;https://codepen.io/mariusbecker&apos;&gt;@mariusbecker&lt;/a&gt;) on &lt;a href=&apos;https://codepen.io&apos;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;
+&lt;p&gt;In diesem Beispiel wude im ersten Container (&lt;code class=&quot;language-text&quot;&gt;.parent&lt;/code&gt;) die Schriftgrösse auf 20 px gesetzt. Da das Element (&lt;code class=&quot;language-text&quot;&gt;.outerChild&lt;/code&gt;) sich im Conteiner (&lt;code class=&quot;language-text&quot;&gt;.parent&lt;/code&gt;) befindet und im em-Wert angegeben ist, werden die Grössen von diesem geerbt.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Schriftgrösse: 20 px × 1.75 = 35 px&lt;/li&gt;
+&lt;li&gt;Zeilenabstand: 20 px × 2 = 40 px&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Das Objekt (.innerChild) befindet sich im Container (.outerChild), und erbt somit diesen wert:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Schriftgrösse: 35 px × 1.75 = 61.25 px&lt;/li&gt;
+&lt;li&gt;Zeilenabstand: 40 px × 2 = 80 px&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Vorteile von EM-Wert&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hilft uns modulare Komponente zu erstellen.&lt;/li&gt;
+&lt;li&gt;Grössen werden proportional korrekt dargestellt.&lt;/li&gt;
+&lt;li&gt;Schnelle Anpassung der Schriftgrössen möglich mit wenig Aufwand.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Wann wenden wir den em-Wert an?&lt;/h2&gt;
+&lt;p&gt;Em ist eine sehr nützliche Einheit für Schriftgrössen, da es seine Länge automatisch relativ zur vom Leser gewählten Schrift anpasst.&lt;/p&gt;
+&lt;p&gt;Für den Zeilenabstand eignet sich em auch gut, damit gewährleistet man, dass der Zeilenabstand entsprechend zur Schriftgrösse eine optimale Lesbarkeit ermöglicht.&lt;/p&gt;
+&lt;p&gt;Für konsistente Abstände wie margin oder padding skaliert sich der EM-Wert automatisch mit den Media Queries. Hingegen in Pixel Angaben würden sie bei jedem Breakpoint neu überschrieben werden. Em eignet sich daher sehr gut für responsives Design.&lt;/p&gt;
+&lt;h2&gt;Wann nutzen wir besser den rem-Wert?&lt;/h2&gt;
+&lt;p&gt;Em (und Prozent) bezieht sich immer auf das Eltern-Element. Bei stark verschachtelten Elementen werden die Schriftgrössen schwerer berechenbar. Rem-Werte hingegen sind relativ zum html-Wurzelelement, nicht zum Elternelement. Mit anderen Worten ermöglicht es, eine Schriftgrösse in einer relativen Weise zu spezifizieren ohne durch das Elternelement beeinflusst zu werden, was ein klarer Vorteil gegenüber dem EM-Wert ist.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/93oUNl9.png&quot;&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/de/docs/Web/CSS/font-size&quot;&gt;https://developer.mozilla.org/de/docs/Web/CSS/font-size&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.elmastudio.de/css-tipp-rem-als-einheit-fur-schriftgrose-nutzen/&quot;&gt;https://www.elmastudio.de/css-tipp-rem-als-einheit-fur-schriftgrose-nutzen/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.intensivstation.ch/css3/em-rem&quot;&gt;http://www.intensivstation.ch/css3/em-rem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mediaevent.de/css/font-size-rem.html&quot;&gt;https://www.mediaevent.de/css/font-size-rem.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.netnode.ch/blog/masseinheiten-und-kenngroessen-fuer-die-typographie-im-web-teil-1&quot;&gt;https://www.netnode.ch/blog/masseinheiten-und-kenngroessen-fuer-die-typographie-im-web-teil-1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Umgang mit Tabellen im Web]]></title><description><![CDATA[Tabellen im Web, schon lange im Einsatz und noch immer eine Knacknuss wenn es darum geht diese Userfreundlich auf allen Endgeräten darzustellen. Das Problem findet sich oftmals in komplexeren Tabellen wieder. Diese beinhalten meist eine grössere Anzahl an Spaltenreihen und Zeilen, die auf grösseren Displays gut lesbar sind, jedoch für Mobilgeräte ungeeignet sind.]]></description><link>https://logrinto.ch/posts/umgang-mit-tabellen-im-web/</link><guid isPermaLink="false">https://logrinto.ch/posts/umgang-mit-tabellen-im-web/</guid><pubDate>Fri, 12 Jul 2019 00:00:00 GMT</pubDate><content:encoded>&lt;style&gt;
     .img-special {
         background: #FFFFFF; 
         box-shadow: 0 3px 15px 0 rgba(0,0,0,0.08), 0 15px 15px -15px rgba(0,0,0,0.30); 
