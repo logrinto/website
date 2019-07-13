@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Logrinto Blog]]></title><description><![CDATA[Logrinto Blog]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Sat, 13 Jul 2019 10:53:40 GMT</lastBuildDate><item><title><![CDATA[Test]]></title><description><![CDATA[TLDR – Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.]]></description><link>https://logrinto.ch/posts/tests/</link><guid isPermaLink="false">https://logrinto.ch/posts/tests/</guid><pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Logrinto Blog]]></title><description><![CDATA[Logrinto Blog]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Sat, 13 Jul 2019 11:12:49 GMT</lastBuildDate><item><title><![CDATA[Test]]></title><description><![CDATA[TLDR – Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.]]></description><link>https://logrinto.ch/posts/tests/</link><guid isPermaLink="false">https://logrinto.ch/posts/tests/</guid><pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Weit hinten,&lt;/strong&gt; hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik. Der große Oxmox riet ihr davon ab, da es dort wimmele von bösen Kommata, wilden Fragezeichen und hinterhältigen Semikoli, doch das Blindtextchen ließ sich nicht beirren. Es packte seine sieben Versalien, schob sich sein Initial in den Gürtel und machte sich auf den Weg. Als es die ersten Hügel des Kursivgebirges erklommen hatte, warf es einen letzten Blick zurück auf die Skyline seiner Heimatstadt Buchstabhausen, die Headline von Alphabetdorf und die Subline seiner eigenen Straße, der Zeilengasse. Wehmütig lief ihm eine rhetorische Frage über die Wange, dann setzte es seinen Weg fort. Unterwegs traf es eine Copy. Die Copy warnte das Blindtextchen, da, wo sie herkäme wäre sie zigmal umgeschrieben worden und alles, was von ihrem Ursprung noch übrig wäre, sei das Wort “und” und das Blindtextchen solle umkehren und wieder in sein eigenes, sicheres Land zurückkehren. Doch alles Gutzureden konnte es nicht überzeugen und so dauerte es nicht lange, bis ihm ein paar heimtückische Werbetexter auflauerten, es mit Longe und Parole betrunken machten und es dann in ihre Agentur schleppten, wo sie es für ihre Projekte wieder und wieder mißbrauchten. Und wenn es nicht umgeschrieben wurde, dann benutzen Sie es immernoch.&lt;/p&gt;
 &lt;div&gt;
   &lt;figure class=&quot;float-right&quot;&gt;
-  	&lt;img src=&quot;./img/minimalist.png&quot; alt=&quot;test&quot;&gt;
+  	&lt;img src=&quot;http://via.placeholder.com/550x700&quot; alt=&quot;test&quot;&gt;
   	&lt;figcaption&gt;Caption&lt;/figcaption&gt;
   &lt;/figure&gt;
 &lt;/div&gt;
@@ -402,136 +402,7 @@ Wolfgang: &lt;a href=&quot;https://hackmd.io/-V6SpolDSw2gT0RFPODN5A&quot;&gt;htt
 &lt;p&gt;Modular Scale
 &lt;a href=&quot;https://hackmd.io/XyIGmlHBSdaMSw1YU7T8ng?view&quot;&gt;https://hackmd.io/XyIGmlHBSdaMSw1YU7T8ng?view&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Das perfekte Typo-Artboard
-&lt;a href=&quot;https://hackmd.io/j5AfULtWTZy-dZ53rhVt4Q?view&quot;&gt;https://hackmd.io/j5AfULtWTZy-dZ53rhVt4Q?view&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mit Prozent zum flüssigen Design]]></title><description><![CDATA[Im Responsive Design wird nur noch selten mit Pixelwerten gearbeitet. Pixelwerte sind zu starr, um auf veränderte Device- und Browser-Grössen zu reagieren. Elementweiten in Prozent sind deshalb unverzichtbar, allerdings muss der Designer auch Kontrolle aus der Hand geben. Wir beleuchten :bulb: den Umgang mit Prozentwerten, die Vorteile und die Nachteile, im Web in diesem Beitrag.]]></description><link>https://logrinto.ch/posts/bezugselemente/</link><guid isPermaLink="false">https://logrinto.ch/posts/bezugselemente/</guid><pubDate>Fri, 12 Jul 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Etwas Kontrolle abgeben (Design-Teil)&lt;/h2&gt;
-&lt;p&gt;Es wurde im Einstiegstext schon erwähnt – die Arbeit mit Prozenten bedeutet für die Gestaltenden den Verlust von Kontrolle. Man kann nicht immer genau wissen, wie sich das Design auf bestimmte Viewports anpasst.&lt;/p&gt;
-&lt;p&gt;Eigentlich ein No-Go für eine Designerin oder einen Designer – alles bis in den letzten Pixel zu definieren ist doch unser Job. Aber nein, heute ist das nicht mehr so.&lt;/p&gt;
-&lt;h3&gt;Aber warum denn?&lt;/h3&gt;
-&lt;p&gt;In der Zeit von flexiblem Development, Mobile-First und demnach auch Performance-First geht es nichtmehr darum mit 10000 Zeilen Code jeden möglichen Use-Case zu anitizieren und zu beheben. Das Ziel ist mit so wenig Definition wie möglich ein benutzbares und optisch ansprechendes Design zu kreieren, dass mit der richtigen Prise UX gewürzt ist, um den grösstmöglichen Teil an ROI zu generieren.&lt;/p&gt;
-&lt;p&gt;Es mag anfangs weither geholt wirken – aber mit Bezugselementen zu arbeiten, wie es Prozent garantiert und unmissverständlich ist, bedeutet auch, als Gestalterin oder als Gestalter unternehmerischer zu denken. Ein frei skalierbares Bezugselement wie es Prozent ist, steht für Effizienz. Genau diese Effizienz wird in der heutigen Development-Welt geschätzt. Selbst wenn man als Designer nicht mit Prozent denkt, im Designprozess – die Chance ist gross, dass es der Developer tut.&lt;/p&gt;
-&lt;h3&gt;Und was interessiert das uns, die Gestaltenden?&lt;/h3&gt;
-&lt;p&gt;Genau aus diesem Grund ist es wichtig, sich auch als Gestalterin oder als Gestalter mit diesem Thema auseinander zu setzen. Ein Design welches auf Bezugselementen basiert ist ein anpassbares Design. Ein Design welches Lücken aufweisen kann, die maschinell (also der Browser) gefüllt werden können. Elemente die in Pixel definiert sind haben in den meisten Apps oder Webseiten nichts mehr zu suchen. Deshalb sollte man sich als Gestalter*in auch nicht darauf versteifen, sondern muss umdenken. Der ganze Designprozess ändert sich, wenn man sich nicht überlegt «Hmmm… wie gross mache ich jetzt diese Box?» sondern «Hmmm… Wieviel Prozent des ganzen ist diese Box jetzt gross?». Eine ähnliche Frage, durchaus, allerdings ist der Lösungsweg und die Lösung komplett anders.&lt;/p&gt;
-&lt;h3&gt;Fazit&lt;/h3&gt;
-&lt;p&gt;Um in der heutigen Welt des agilen Development bestehen zu können, muss man als Gestalterin oder Gestalter die Denkweise eines Entwicklers adaptieren. Nur mit dieser Emphatie wird es in Zukunft noch möglich sein, zufriedenstellende Lösungen zu gestalten.&lt;/p&gt;
-&lt;h2&gt;Die Technik dahinter (Technik-Teil)&lt;/h2&gt;
-&lt;h3&gt;Bezugselemente&lt;/h3&gt;
-&lt;p&gt;Prozente brauchen immer ein Bezugs-Element; Prozente sind relative Werte und beziehen sich &lt;strong&gt;immer&lt;/strong&gt; auf einen anderen Wert.&lt;/p&gt;
-&lt;h4&gt;Prozente sind responsiv, feste Werte nicht&lt;/h4&gt;
-&lt;p&gt;Wenn man ein Element in Pixel angibt, ist niemals garantiert, dass die Darstellung für die verschiedensten Ausgabegeräte passt. Ein Element mit 500 Pixel in der Breite kann auf einem Mobiltelefon mit einer Display-Breite von 400 Pixeln nicht richtig dargestellt werden.&lt;/p&gt;
-&lt;p&gt;Um genau diesem Problem Rechnung zu tragen kann die Weite eines Elements mit Prozenten angegeben werden.&lt;/p&gt;
-&lt;p&gt;Elemente, die mit Prozent-Weite angegeben sind beziehen sich immer auf den Container in dem sie sich befinden.&lt;/p&gt;
-&lt;h4&gt;Hier ein Beispiel:&lt;/h4&gt;
-&lt;iframe height=&quot;300&quot; style=&quot;width: 100%; padding-top:1rem; padding-bottom:2rem;&quot; scrolling=&quot;no&quot; title=&quot;Percentage Example 2&quot; src=&quot;//codepen.io/marc-hatt/embed/JqKoMy/?height=288&amp;theme-id=dark&amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;
-  See the Pen &lt;a href=&apos;https://codepen.io/marc-hatt/pen/JqKoMy/&apos;&gt;Percentage Example 2&lt;/a&gt; by Marc Hatt
-  (&lt;a href=&apos;https://codepen.io/marc-hatt&apos;&gt;@marc-hatt&lt;/a&gt;) on &lt;a href=&apos;https://codepen.io&apos;&gt;CodePen&lt;/a&gt;.
-&lt;/iframe&gt;
-&lt;p&gt;Wenn man sich das oben gezeigte Beispiel ansieht, fällt auf, dass der Aufbau der Spalten gleich ist, allerdings die Weiten sich unterscheiden.&lt;/p&gt;
-&lt;p&gt;Um den Grund dafür zu sehen, muss man sich das CSS des Beispiels ansehen. Der Parent des Containers in dem Fall ist HTML, welches den vollen Bildschirm ausfüllt.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;
-      &lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;.container {
-    display: grid;
-    grid-template-columns: 30% 30% 30%;
-    grid-template-rows: 100%;
-    grid-column-gap: 5%;
-    justify-items: stretch;
-    align-items: stretch;
-    background-color: #1abc9c;
-    height: 100vh;
- }&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;p&gt;Der Aufbau des Containers, im Beispiel in hellblau dargestellt, besteht aus den DIV’s K1, K2 und K3. Wir haben eine Grid-Ansicht, mit einer Spaltenbreite von 30%. Der Abstand zwischen den Spalten ist 5% – wenn man die Elemente also zusammen rechnet, ergeben sie 100% – die volle Breite des Containers, was in diesem Fall das HTML ist… Also volle Bildschirmweite.&lt;/p&gt;
-&lt;p&gt;Nun schauen wir uns einen Teil des HTML an, in dem es spannend wird:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;
-      &lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;div class=column&amp;gt;
-    &amp;lt;p&amp;gt;K 1&amp;lt;/p&amp;gt;
-    &amp;lt;div class=container-2&amp;gt;
-      &amp;lt;div class=column-2&amp;gt;
-        &amp;lt;p&amp;gt;K 1.1&amp;lt;/p&amp;gt;
-      &amp;lt;/div&amp;gt;
-      &amp;lt;div class=column-2&amp;gt;
-        &amp;lt;p&amp;gt;K 1.2&amp;lt;/p&amp;gt;
-      &amp;lt;/div&amp;gt;
-      &amp;lt;div class=column-2&amp;gt;
-        &amp;lt;p&amp;gt;K 1.3&amp;lt;/p&amp;gt;
-      &amp;lt;/div&amp;gt;
-    &amp;lt;/div&amp;gt;
-  &amp;lt;/div&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;p&gt;Wir haben innerhalb dieser Spalte einen neuen Container gemacht, der wiederum in drei Teile geteilt ist. Wenn man das nun mit dem CSS kombiniert, wie zum Beispiel dem hier:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;
-      &lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;.container-2 {
-    display: grid;
-    grid-template-columns: 30% 30% 30%;
-    grid-template-rows: 100%;
-    grid-column-gap: 5%;
-    justify-items: stretch;
-    align-items: stretch;
-    background-color: #16a085;
-    height: 100px;
- }&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;p&gt;Erschafft man den oben gezeigten Effekt. Wir teilen die Spalte wieder in drei Teile auf. Unsere 100% die wir aufteilen beziehen sich jetzt auf die 30% der Spalte, die als Container funktioniert. Das kann man beliebig oft machen – man kann die Aufteilung der Prozentwerte auch ändern.&lt;/p&gt;
-&lt;p&gt;In unserem Beispiel sind also die Kolumnen 1.1, 1.2, 1.3 und die Kolumnen der Spalte 2 und 3, jeweils 30% von 30% breit und die Abstände sind 5% von 30% breit. Eine Skalierung, die sich je nach Bildschirmgrösse ändert. Die Pixelwerte der Spalten sind völlig flüssig.&lt;/p&gt;
-&lt;p&gt;Das funktioniert aber nicht nur mit Gestaltungsrastern – Bilder und andere grafische Elemente verhalten sich gleich und funktionieren immer nach dem gleichen Prinzip.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Dynamische Werte&lt;/h3&gt;
-&lt;p&gt;Prozente eignen sich für dynamische Inhalte, bei denen die Werte abhängig von einem «Parent» skaliert werden. Definiert man z.B. für ein Element eine Breite von 33,333% so wird dieses immer ein Drittel der Gesamtbreite des jeweiligen «Parent» beanspruchen.&lt;/p&gt;
-&lt;p&gt;Vorteil: Ein in Prozent angegebener Wert reagiert dynamisch. Alle Zahlen sind durch Prozente teilbar.&lt;/p&gt;
-&lt;p&gt;Im Gegensatz dazu reagiert eine fix in Pixel definierte Breite nicht auf den jeweiligen «Parent» und ist somit nicht skalierbar.&lt;/p&gt;
-&lt;h4&gt;Hier ein Beispiel:&lt;/h4&gt;
-&lt;iframe height=&quot;265&quot; style=&quot;width: 100%; padding-top:1rem; padding-bottom:2rem;&quot; scrolling=&quot;no&quot; title=&quot;Responsive Design: Prozent&quot; src=&quot;//codepen.io/wschoeck/embed/yWJyzN/?height=265&amp;theme-id=dark&amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;
-  See the Pen &lt;a href=&apos;https://codepen.io/wschoeck/pen/yWJyzN/&apos;&gt;Responsive Design: Prozent&lt;/a&gt; by wschoeck
-  (&lt;a href=&apos;https://codepen.io/wschoeck&apos;&gt;@wschoeck&lt;/a&gt;) on &lt;a href=&apos;https://codepen.io&apos;&gt;CodePen&lt;/a&gt;.
-&lt;/iframe&gt;
-&lt;p&gt;Ein Container mit einer fixen Breite in Pixel (hier width: 400px;) reagiert nicht auf die aktuelle Browserbreite.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;
-      &lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;.fix400 {
-  width: 400px;
-  height: 60px;
-  background-color: #1c75e4;
-  margin-bottom: 20px;
-  float: left;
-}&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;p&gt;Wohingegen ein Container mit einer in Prozent definierten Breite (hier width: 33,333%;) sich mit der aktuellen Browserbreite mit skaliert.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;
-      &lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;.prozent33 {
-  width: 33.333%;
-  height: 60px;
-  background-color: #1c75e4;
-  float: left;
-}&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;h3&gt;Unterschied zwischen Prozentangaben und vh/vw&lt;/h3&gt;
-&lt;p&gt;Auf den ersten Blick wirkt der Usecase von Prozenten und vh/vw (also Viewport-Width und Viewport-Height) ähnlich. Der Unterschied ist aber gross, denn Prozente beziehen sich immer auf den Container in dem sie stecken.
-vh/vw bezieht sich immer auf die Grösse des Viewports. Dafür ein Beispiel:&lt;/p&gt;
-&lt;iframe height=&quot;300&quot; style=&quot;width: 100%; padding-top:1rem; padding-bottom:2rem;&quot; scrolling=&quot;no&quot; title=&quot;Unterschied zwischen vh/vw und Prozenten&quot; src=&quot;//codepen.io/marc-hatt/embed/BezjWv/?height=265&amp;theme-id=0&amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;
-  See the Pen &lt;a href=&apos;https://codepen.io/marc-hatt/pen/BezjWv/&apos;&gt;Unterschied zwischen vh/vw und Prozenten&lt;/a&gt; by Marc Hatt
-  (&lt;a href=&apos;https://codepen.io/marc-hatt&apos;&gt;@marc-hatt&lt;/a&gt;) on &lt;a href=&apos;https://codepen.io&apos;&gt;CodePen&lt;/a&gt;.
-&lt;/iframe&gt;
-&lt;p&gt;Um darzustellen was wir damit meinen haben wir das Beispiel aus «Bezugselemente» nochmals angepasst. Wir haben, wie im CSS ersichtlich, der mitleren Teilspalte einen vw von 33 gegeben. Das heisst, dass jeweils 33% der Viewport-Breite als Mass genommen wird, um die Pixelweite des Objekt zu generieren.&lt;/p&gt;
-&lt;p&gt;Wie man sehen kann respektiert dieser Wert den Container nicht, da die Masseinheit, anders wie Prozent, den Container nicht in Betracht zieht.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3&gt;Vorteile von Prozentwerten&lt;/h3&gt;
-&lt;h4&gt;Prozente verhalten sich relativ zum Parentelement&lt;/h4&gt;
-&lt;p&gt;Durch die Abhängigkeit zu dem jeweiligen Parentelement, eignen sich Prozentwerte optimal für den Aufbau von Gridsystemen.&lt;/p&gt;
-&lt;h4&gt;Responsives Design&lt;/h4&gt;
-&lt;p&gt;Prozentwerte sind dynamisch und passen sich an. So lassen sich gleiche Element auf verschiednenen Endgeräten gleich anzeigen.&lt;/p&gt;
-&lt;h3&gt;Nachteile von Prozentwerten&lt;/h3&gt;
-&lt;h4&gt;Browser ignorieren Standardweise Höhenangaben in Prozent&lt;/h4&gt;
-&lt;p&gt;Sehen wir dies in einem praktischen Beispiel genauer an. Beide Boxen sind gleich definiert. Ausnahme bildet die CSS Farbdefinition &lt;code class=&quot;language-text&quot;&gt;background-color&lt;/code&gt; für eine bessere visuelle Unterscheidung, sowie die Masseinheit von &lt;code class=&quot;language-text&quot;&gt;height&lt;/code&gt; in Pixel und Prozent. &lt;/p&gt;
-&lt;p&gt;Die Höhe der blauen Box wird Prozentual &lt;code class=&quot;language-text&quot;&gt;height: 100%;&lt;/code&gt; definiert, die Höhenangabe wird vom Browser ignoriert und der Inhalt bestimmt die Boxhöhe. Die orange Box wird in Pixel &lt;code class=&quot;language-text&quot;&gt;height: 200px;&lt;/code&gt; definiert, der Browser erkennt die CSS-Definition und passt die Boxhöhe entsprechend an.  &lt;/p&gt;
-&lt;iframe height=&quot;265&quot; style=&quot;width: 100%; padding-top:1rem; padding-bottom:2rem;&quot; scrolling=&quot;no&quot; title=&quot;Ignoring Height&quot; src=&quot;//codepen.io/larsmaeder/embed/pmboxG/?height=265&amp;theme-id=dark&amp;default-tab=css,result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;
-  See the Pen &lt;a href=&apos;https://codepen.io/larsmaeder/pen/pmboxG/&apos;&gt;Ignoring Height&lt;/a&gt; by Lars Mäder
-  (&lt;a href=&apos;https://codepen.io/larsmaeder&apos;&gt;@larsmaeder&lt;/a&gt;) on &lt;a href=&apos;https://codepen.io&apos;&gt;CodePen&lt;/a&gt;.
-&lt;/iframe&gt;
-&lt;h4&gt;Wieso ist das so?&lt;/h4&gt;
-&lt;p&gt;Die &lt;a href=&quot;https://www.w3.org/TR/1998/REC-CSS2-19980512/&quot;&gt;W3C-Spezifikation für CSS 2&lt;/a&gt; legt fest, dass sich eine prozentual angegebene Höhenangabe auf die Höhe des umschliessenden Blockes (Parent) bezieht. Wird also für diesen Parentblock keine Höhe definiert, wird der angegebene Prozentwert als &lt;code class=&quot;language-text&quot;&gt;height: auto;&lt;/code&gt; interpretiert. Trotz Höhenangabe wird das Element nur so hoch, wie der Inhalt es erfordert.&lt;/p&gt;
-&lt;h2&gt;Recherche&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;http://carsten-protsch.de/zwischennetz/doctype/prozent.html&quot;&gt;carsten-protsch.de&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.thestyleworks.de/basics/percentage.shtml&quot;&gt;thestyleworks.de&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.lifewire.com/width-calculations-responsive-site-4136178&quot;&gt;lifewire.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.impressivewebs.com/vertical-percentages-css/&quot;&gt;impressivewebs.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://blog.kulturbanause.de/2013/01/starre-layouts-in-flussige-layouts-umwandeln-responsive-webdesign-basics/&quot;&gt;kulturbanause.de&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Umgang mit Tabellen im Web]]></title><description><![CDATA[Tabellen im Web, schon lange im Einsatz und noch immer eine Knacknuss wenn es darum geht diese Userfreundlich auf allen Endgeräten darzustellen. Das Problem findet sich oftmals in komplexeren Tabellen wieder. Diese beinhalten meist eine grössere Anzahl an Spaltenreihen und Zeilen, die auf grösseren Displays gut lesbar sind, jedoch für Mobilgeräte ungeeignet sind.]]></description><link>https://logrinto.ch/posts/umgang-mit-tabellen-im-web/</link><guid isPermaLink="false">https://logrinto.ch/posts/umgang-mit-tabellen-im-web/</guid><pubDate>Fri, 12 Jul 2019 00:00:00 GMT</pubDate><content:encoded>&lt;style&gt;
+&lt;a href=&quot;https://hackmd.io/j5AfULtWTZy-dZ53rhVt4Q?view&quot;&gt;https://hackmd.io/j5AfULtWTZy-dZ53rhVt4Q?view&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Umgang mit Tabellen im Web]]></title><description><![CDATA[Tabellen im Web, schon lange im Einsatz und noch immer eine Knacknuss wenn es darum geht diese Userfreundlich auf allen Endgeräten darzustellen. Das Problem findet sich oftmals in komplexeren Tabellen wieder. Diese beinhalten meist eine grössere Anzahl an Spaltenreihen und Zeilen, die auf grösseren Displays gut lesbar sind, jedoch für Mobilgeräte ungeeignet sind.]]></description><link>https://logrinto.ch/posts/umgang-mit-tabellen-im-web/</link><guid isPermaLink="false">https://logrinto.ch/posts/umgang-mit-tabellen-im-web/</guid><pubDate>Fri, 12 Jul 2019 00:00:00 GMT</pubDate><content:encoded>&lt;style&gt;
     .img-special {
         background: #FFFFFF; 
         box-shadow: 0 3px 15px 0 rgba(0,0,0,0.08), 0 15px 15px -15px rgba(0,0,0,0.30); 
@@ -893,7 +764,136 @@ Auch wenn auf Mobile ein anderes Layout gewählt wird. Es sollte auf keinen Fall
 &lt;p&gt;&lt;a href=&quot;https://www.mediaevent.de/schriftgroessen-immer-ein-griff-ins-wespennest/&quot;&gt;https://www.mediaevent.de/schriftgroessen-immer-ein-griff-ins-wespennest/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://css-tricks.com/fun-viewport-units/&quot;&gt;https://css-tricks.com/fun-viewport-units/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://css-tricks.com/viewport-sized-typography/&quot;&gt;https://css-tricks.com/viewport-sized-typography/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://css-tricks.com/simple-little-use-case-vmin/&quot;&gt;https://css-tricks.com/simple-little-use-case-vmin/&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Code und Design]]></title><description><![CDATA[UX/UI-Designer und Entwickler kommen oft an den Punkt, an dem jeder am liebsten alles selber in die Hand nehmen würde. Zu grosse Abweichungen in der Umsetzung des Designs, utopische Vorstellungen im Design an die Entwicklung und fehlende Angaben bei gewissen Breakpoints, sind nur ein Bruchteil der Probleme. Müssen Designer in Zukunft mehr ins Frontend und Entwickler sich mehr für Design interessieren? Und hat dieses Problem Einfluss auf die Tools der Zukunft? ]]></description><link>https://logrinto.ch/posts/codedesign/</link><guid isPermaLink="false">https://logrinto.ch/posts/codedesign/</guid><pubDate>Wed, 12 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Das Modulare Denken hält Einzug in das Design&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://css-tricks.com/simple-little-use-case-vmin/&quot;&gt;https://css-tricks.com/simple-little-use-case-vmin/&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mit Prozent zum flüssigen Design]]></title><description><![CDATA[Im Responsive Design wird nur noch selten mit Pixelwerten gearbeitet. Pixelwerte sind zu starr, um auf veränderte Device- und Browser-Grössen zu reagieren. Elementweiten in Prozent sind deshalb unverzichtbar, allerdings muss der Designer auch Kontrolle aus der Hand geben. Wir beleuchten :bulb: den Umgang mit Prozentwerten, die Vorteile und die Nachteile, im Web in diesem Beitrag.]]></description><link>https://logrinto.ch/posts/responsive-design-iad2017-prozent/</link><guid isPermaLink="false">https://logrinto.ch/posts/responsive-design-iad2017-prozent/</guid><pubDate>Fri, 12 Jul 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Etwas Kontrolle abgeben (Design-Teil)&lt;/h2&gt;
+&lt;p&gt;Es wurde im Einstiegstext schon erwähnt – die Arbeit mit Prozenten bedeutet für die Gestaltenden den Verlust von Kontrolle. Man kann nicht immer genau wissen, wie sich das Design auf bestimmte Viewports anpasst.&lt;/p&gt;
+&lt;p&gt;Eigentlich ein No-Go für eine Designerin oder einen Designer – alles bis in den letzten Pixel zu definieren ist doch unser Job. Aber nein, heute ist das nicht mehr so.&lt;/p&gt;
+&lt;h3&gt;Aber warum denn?&lt;/h3&gt;
+&lt;p&gt;In der Zeit von flexiblem Development, Mobile-First und demnach auch Performance-First geht es nichtmehr darum mit 10000 Zeilen Code jeden möglichen Use-Case zu anitizieren und zu beheben. Das Ziel ist mit so wenig Definition wie möglich ein benutzbares und optisch ansprechendes Design zu kreieren, dass mit der richtigen Prise UX gewürzt ist, um den grösstmöglichen Teil an ROI zu generieren.&lt;/p&gt;
+&lt;p&gt;Es mag anfangs weither geholt wirken – aber mit Bezugselementen zu arbeiten, wie es Prozent garantiert und unmissverständlich ist, bedeutet auch, als Gestalterin oder als Gestalter unternehmerischer zu denken. Ein frei skalierbares Bezugselement wie es Prozent ist, steht für Effizienz. Genau diese Effizienz wird in der heutigen Development-Welt geschätzt. Selbst wenn man als Designer nicht mit Prozent denkt, im Designprozess – die Chance ist gross, dass es der Developer tut.&lt;/p&gt;
+&lt;h3&gt;Und was interessiert das uns, die Gestaltenden?&lt;/h3&gt;
+&lt;p&gt;Genau aus diesem Grund ist es wichtig, sich auch als Gestalterin oder als Gestalter mit diesem Thema auseinander zu setzen. Ein Design welches auf Bezugselementen basiert ist ein anpassbares Design. Ein Design welches Lücken aufweisen kann, die maschinell (also der Browser) gefüllt werden können. Elemente die in Pixel definiert sind haben in den meisten Apps oder Webseiten nichts mehr zu suchen. Deshalb sollte man sich als Gestalter*in auch nicht darauf versteifen, sondern muss umdenken. Der ganze Designprozess ändert sich, wenn man sich nicht überlegt «Hmmm… wie gross mache ich jetzt diese Box?» sondern «Hmmm… Wieviel Prozent des ganzen ist diese Box jetzt gross?». Eine ähnliche Frage, durchaus, allerdings ist der Lösungsweg und die Lösung komplett anders.&lt;/p&gt;
+&lt;h3&gt;Fazit&lt;/h3&gt;
+&lt;p&gt;Um in der heutigen Welt des agilen Development bestehen zu können, muss man als Gestalterin oder Gestalter die Denkweise eines Entwicklers adaptieren. Nur mit dieser Emphatie wird es in Zukunft noch möglich sein, zufriedenstellende Lösungen zu gestalten.&lt;/p&gt;
+&lt;h2&gt;Die Technik dahinter (Technik-Teil)&lt;/h2&gt;
+&lt;h3&gt;Bezugselemente&lt;/h3&gt;
+&lt;p&gt;Prozente brauchen immer ein Bezugs-Element; Prozente sind relative Werte und beziehen sich &lt;strong&gt;immer&lt;/strong&gt; auf einen anderen Wert.&lt;/p&gt;
+&lt;h4&gt;Prozente sind responsiv, feste Werte nicht&lt;/h4&gt;
+&lt;p&gt;Wenn man ein Element in Pixel angibt, ist niemals garantiert, dass die Darstellung für die verschiedensten Ausgabegeräte passt. Ein Element mit 500 Pixel in der Breite kann auf einem Mobiltelefon mit einer Display-Breite von 400 Pixeln nicht richtig dargestellt werden.&lt;/p&gt;
+&lt;p&gt;Um genau diesem Problem Rechnung zu tragen kann die Weite eines Elements mit Prozenten angegeben werden.&lt;/p&gt;
+&lt;p&gt;Elemente, die mit Prozent-Weite angegeben sind beziehen sich immer auf den Container in dem sie sich befinden.&lt;/p&gt;
+&lt;h4&gt;Hier ein Beispiel:&lt;/h4&gt;
+&lt;iframe height=&quot;300&quot; style=&quot;width: 100%; padding-top:1rem; padding-bottom:2rem;&quot; scrolling=&quot;no&quot; title=&quot;Percentage Example 2&quot; src=&quot;//codepen.io/marc-hatt/embed/JqKoMy/?height=288&amp;theme-id=dark&amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;
+  See the Pen &lt;a href=&apos;https://codepen.io/marc-hatt/pen/JqKoMy/&apos;&gt;Percentage Example 2&lt;/a&gt; by Marc Hatt
+  (&lt;a href=&apos;https://codepen.io/marc-hatt&apos;&gt;@marc-hatt&lt;/a&gt;) on &lt;a href=&apos;https://codepen.io&apos;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;
+&lt;p&gt;Wenn man sich das oben gezeigte Beispiel ansieht, fällt auf, dass der Aufbau der Spalten gleich ist, allerdings die Weiten sich unterscheiden.&lt;/p&gt;
+&lt;p&gt;Um den Grund dafür zu sehen, muss man sich das CSS des Beispiels ansehen. Der Parent des Containers in dem Fall ist HTML, welches den vollen Bildschirm ausfüllt.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;
+      &lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;.container {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    grid-template-rows: 100%;
+    grid-column-gap: 5%;
+    justify-items: stretch;
+    align-items: stretch;
+    background-color: #1abc9c;
+    height: 100vh;
+ }&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Der Aufbau des Containers, im Beispiel in hellblau dargestellt, besteht aus den DIV’s K1, K2 und K3. Wir haben eine Grid-Ansicht, mit einer Spaltenbreite von 30%. Der Abstand zwischen den Spalten ist 5% – wenn man die Elemente also zusammen rechnet, ergeben sie 100% – die volle Breite des Containers, was in diesem Fall das HTML ist… Also volle Bildschirmweite.&lt;/p&gt;
+&lt;p&gt;Nun schauen wir uns einen Teil des HTML an, in dem es spannend wird:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;
+      &lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;div class=column&amp;gt;
+    &amp;lt;p&amp;gt;K 1&amp;lt;/p&amp;gt;
+    &amp;lt;div class=container-2&amp;gt;
+      &amp;lt;div class=column-2&amp;gt;
+        &amp;lt;p&amp;gt;K 1.1&amp;lt;/p&amp;gt;
+      &amp;lt;/div&amp;gt;
+      &amp;lt;div class=column-2&amp;gt;
+        &amp;lt;p&amp;gt;K 1.2&amp;lt;/p&amp;gt;
+      &amp;lt;/div&amp;gt;
+      &amp;lt;div class=column-2&amp;gt;
+        &amp;lt;p&amp;gt;K 1.3&amp;lt;/p&amp;gt;
+      &amp;lt;/div&amp;gt;
+    &amp;lt;/div&amp;gt;
+  &amp;lt;/div&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Wir haben innerhalb dieser Spalte einen neuen Container gemacht, der wiederum in drei Teile geteilt ist. Wenn man das nun mit dem CSS kombiniert, wie zum Beispiel dem hier:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;
+      &lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;.container-2 {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    grid-template-rows: 100%;
+    grid-column-gap: 5%;
+    justify-items: stretch;
+    align-items: stretch;
+    background-color: #16a085;
+    height: 100px;
+ }&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Erschafft man den oben gezeigten Effekt. Wir teilen die Spalte wieder in drei Teile auf. Unsere 100% die wir aufteilen beziehen sich jetzt auf die 30% der Spalte, die als Container funktioniert. Das kann man beliebig oft machen – man kann die Aufteilung der Prozentwerte auch ändern.&lt;/p&gt;
+&lt;p&gt;In unserem Beispiel sind also die Kolumnen 1.1, 1.2, 1.3 und die Kolumnen der Spalte 2 und 3, jeweils 30% von 30% breit und die Abstände sind 5% von 30% breit. Eine Skalierung, die sich je nach Bildschirmgrösse ändert. Die Pixelwerte der Spalten sind völlig flüssig.&lt;/p&gt;
+&lt;p&gt;Das funktioniert aber nicht nur mit Gestaltungsrastern – Bilder und andere grafische Elemente verhalten sich gleich und funktionieren immer nach dem gleichen Prinzip.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Dynamische Werte&lt;/h3&gt;
+&lt;p&gt;Prozente eignen sich für dynamische Inhalte, bei denen die Werte abhängig von einem «Parent» skaliert werden. Definiert man z.B. für ein Element eine Breite von 33,333% so wird dieses immer ein Drittel der Gesamtbreite des jeweiligen «Parent» beanspruchen.&lt;/p&gt;
+&lt;p&gt;Vorteil: Ein in Prozent angegebener Wert reagiert dynamisch. Alle Zahlen sind durch Prozente teilbar.&lt;/p&gt;
+&lt;p&gt;Im Gegensatz dazu reagiert eine fix in Pixel definierte Breite nicht auf den jeweiligen «Parent» und ist somit nicht skalierbar.&lt;/p&gt;
+&lt;h4&gt;Hier ein Beispiel:&lt;/h4&gt;
+&lt;iframe height=&quot;265&quot; style=&quot;width: 100%; padding-top:1rem; padding-bottom:2rem;&quot; scrolling=&quot;no&quot; title=&quot;Responsive Design: Prozent&quot; src=&quot;//codepen.io/wschoeck/embed/yWJyzN/?height=265&amp;theme-id=dark&amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;
+  See the Pen &lt;a href=&apos;https://codepen.io/wschoeck/pen/yWJyzN/&apos;&gt;Responsive Design: Prozent&lt;/a&gt; by wschoeck
+  (&lt;a href=&apos;https://codepen.io/wschoeck&apos;&gt;@wschoeck&lt;/a&gt;) on &lt;a href=&apos;https://codepen.io&apos;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;
+&lt;p&gt;Ein Container mit einer fixen Breite in Pixel (hier width: 400px;) reagiert nicht auf die aktuelle Browserbreite.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;
+      &lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;.fix400 {
+  width: 400px;
+  height: 60px;
+  background-color: #1c75e4;
+  margin-bottom: 20px;
+  float: left;
+}&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Wohingegen ein Container mit einer in Prozent definierten Breite (hier width: 33,333%;) sich mit der aktuellen Browserbreite mit skaliert.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;
+      &lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;.prozent33 {
+  width: 33.333%;
+  height: 60px;
+  background-color: #1c75e4;
+  float: left;
+}&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;h3&gt;Unterschied zwischen Prozentangaben und vh/vw&lt;/h3&gt;
+&lt;p&gt;Auf den ersten Blick wirkt der Usecase von Prozenten und vh/vw (also Viewport-Width und Viewport-Height) ähnlich. Der Unterschied ist aber gross, denn Prozente beziehen sich immer auf den Container in dem sie stecken.
+vh/vw bezieht sich immer auf die Grösse des Viewports. Dafür ein Beispiel:&lt;/p&gt;
+&lt;iframe height=&quot;300&quot; style=&quot;width: 100%; padding-top:1rem; padding-bottom:2rem;&quot; scrolling=&quot;no&quot; title=&quot;Unterschied zwischen vh/vw und Prozenten&quot; src=&quot;//codepen.io/marc-hatt/embed/BezjWv/?height=265&amp;theme-id=0&amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;
+  See the Pen &lt;a href=&apos;https://codepen.io/marc-hatt/pen/BezjWv/&apos;&gt;Unterschied zwischen vh/vw und Prozenten&lt;/a&gt; by Marc Hatt
+  (&lt;a href=&apos;https://codepen.io/marc-hatt&apos;&gt;@marc-hatt&lt;/a&gt;) on &lt;a href=&apos;https://codepen.io&apos;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;
+&lt;p&gt;Um darzustellen was wir damit meinen haben wir das Beispiel aus «Bezugselemente» nochmals angepasst. Wir haben, wie im CSS ersichtlich, der mitleren Teilspalte einen vw von 33 gegeben. Das heisst, dass jeweils 33% der Viewport-Breite als Mass genommen wird, um die Pixelweite des Objekt zu generieren.&lt;/p&gt;
+&lt;p&gt;Wie man sehen kann respektiert dieser Wert den Container nicht, da die Masseinheit, anders wie Prozent, den Container nicht in Betracht zieht.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Vorteile von Prozentwerten&lt;/h3&gt;
+&lt;h4&gt;Prozente verhalten sich relativ zum Parentelement&lt;/h4&gt;
+&lt;p&gt;Durch die Abhängigkeit zu dem jeweiligen Parentelement, eignen sich Prozentwerte optimal für den Aufbau von Gridsystemen.&lt;/p&gt;
+&lt;h4&gt;Responsives Design&lt;/h4&gt;
+&lt;p&gt;Prozentwerte sind dynamisch und passen sich an. So lassen sich gleiche Element auf verschiednenen Endgeräten gleich anzeigen.&lt;/p&gt;
+&lt;h3&gt;Nachteile von Prozentwerten&lt;/h3&gt;
+&lt;h4&gt;Browser ignorieren Standardweise Höhenangaben in Prozent&lt;/h4&gt;
+&lt;p&gt;Sehen wir dies in einem praktischen Beispiel genauer an. Beide Boxen sind gleich definiert. Ausnahme bildet die CSS Farbdefinition &lt;code class=&quot;language-text&quot;&gt;background-color&lt;/code&gt; für eine bessere visuelle Unterscheidung, sowie die Masseinheit von &lt;code class=&quot;language-text&quot;&gt;height&lt;/code&gt; in Pixel und Prozent.&lt;/p&gt;
+&lt;p&gt;Die Höhe der blauen Box wird Prozentual &lt;code class=&quot;language-text&quot;&gt;height: 100%;&lt;/code&gt; definiert, die Höhenangabe wird vom Browser ignoriert und der Inhalt bestimmt die Boxhöhe. Die orange Box wird in Pixel &lt;code class=&quot;language-text&quot;&gt;height: 200px;&lt;/code&gt; definiert, der Browser erkennt die CSS-Definition und passt die Boxhöhe entsprechend an.  &lt;/p&gt;
+&lt;iframe height=&quot;265&quot; style=&quot;width: 100%; padding-top:1rem; padding-bottom:2rem;&quot; scrolling=&quot;no&quot; title=&quot;Ignoring Height&quot; src=&quot;//codepen.io/larsmaeder/embed/pmboxG/?height=265&amp;theme-id=dark&amp;default-tab=css,result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;
+  See the Pen &lt;a href=&apos;https://codepen.io/larsmaeder/pen/pmboxG/&apos;&gt;Ignoring Height&lt;/a&gt; by Lars Mäder
+  (&lt;a href=&apos;https://codepen.io/larsmaeder&apos;&gt;@larsmaeder&lt;/a&gt;) on &lt;a href=&apos;https://codepen.io&apos;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;
+&lt;h4&gt;Wieso ist das so?&lt;/h4&gt;
+&lt;p&gt;Die &lt;a href=&quot;https://www.w3.org/TR/1998/REC-CSS2-19980512/&quot;&gt;W3C-Spezifikation für CSS 2&lt;/a&gt; legt fest, dass sich eine prozentual angegebene Höhenangabe auf die Höhe des umschliessenden Blockes (Parent) bezieht. Wird also für diesen Parentblock keine Höhe definiert, wird der angegebene Prozentwert als &lt;code class=&quot;language-text&quot;&gt;height: auto;&lt;/code&gt; interpretiert. Trotz Höhenangabe wird das Element nur so hoch, wie der Inhalt es erfordert.&lt;/p&gt;
+&lt;h2&gt;Recherche&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://carsten-protsch.de/zwischennetz/doctype/prozent.html&quot;&gt;carsten-protsch.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.thestyleworks.de/basics/percentage.shtml&quot;&gt;thestyleworks.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.lifewire.com/width-calculations-responsive-site-4136178&quot;&gt;lifewire.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.impressivewebs.com/vertical-percentages-css/&quot;&gt;impressivewebs.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.kulturbanause.de/2013/01/starre-layouts-in-flussige-layouts-umwandeln-responsive-webdesign-basics/&quot;&gt;kulturbanause.de&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Code und Design]]></title><description><![CDATA[UX/UI-Designer und Entwickler kommen oft an den Punkt, an dem jeder am liebsten alles selber in die Hand nehmen würde. Zu grosse Abweichungen in der Umsetzung des Designs, utopische Vorstellungen im Design an die Entwicklung und fehlende Angaben bei gewissen Breakpoints, sind nur ein Bruchteil der Probleme. Müssen Designer in Zukunft mehr ins Frontend und Entwickler sich mehr für Design interessieren? Und hat dieses Problem Einfluss auf die Tools der Zukunft? ]]></description><link>https://logrinto.ch/posts/codedesign/</link><guid isPermaLink="false">https://logrinto.ch/posts/codedesign/</guid><pubDate>Wed, 12 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Das Modulare Denken hält Einzug in das Design&lt;/h2&gt;
 &lt;h3&gt;Ein einheitlicher Auftritt&lt;/h3&gt;
 &lt;p&gt;Komponenten basiertes Entwickeln ist gang und gäbe, logischerweise hat sich diese Arbeitsweise auch im Design von Websites und App’s fest verankert. Und das ist auch gut so. Das Erlebnis ist für den User ist schlüssig und Komponenten werden sinnvoll wiederverwendet. Da ist es  nur logisch diese Komponenten auch für alle Breakpoints und Endgeräte zu designen, nicht?&lt;/p&gt;
 &lt;h3&gt;«Wir bräuchten noch einen x-ten Breakpoint, wäre das möglich?»&lt;/h3&gt;
