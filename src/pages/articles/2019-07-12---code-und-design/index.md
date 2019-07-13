@@ -5,7 +5,7 @@ date: "2019-06-12"
 layout: post
 draft: false
 hideInMenu: true
-path: "/posts/codedesign/"
+path: "/posts/responsive-design-iad2017-codedesign/"
 category: "Responsive Gestaltung"
 featuredImage: "img/header.png"
 tags:
@@ -48,18 +48,18 @@ Zugegeben, der Gedanke im Hintergrund fixfertigen Code dem Entwickler zu überge
 
 ### Mut zur «vermeintlichen» Lücke
 
-**Die Antwort ist nein, nein wir wollen das nicht und dafür gibt es auch gute Gründe.** Dieses Vorgehen mag vielleicht für kleinere Projekte und einfache Seiten gut sein. Doch nicht überall macht dieses übereffiziente und optimierte Baukastenprinzip sinn. 
+**Die Antwort ist nein, nein wir wollen das nicht und dafür gibt es auch gute Gründe.** Dieses Vorgehen mag vielleicht für kleinere Projekte und einfache Seiten gut sein. Doch nicht überall macht dieses übereffiziente und optimierte Baukastenprinzip sinn.
 
-Warum sollten sich Designer schon von Beginn weg technische grenzen setzten? Sich selber mittels vorgegebenen Tools und Modulen die Möglichkeiten nehmen, innovatives zu schaffen? **Technisches Verständnis muss zwingend vorhanden sein, aber gleich den Code schreiben?** 
+Warum sollten sich Designer schon von Beginn weg technische grenzen setzten? Sich selber mittels vorgegebenen Tools und Modulen die Möglichkeiten nehmen, innovatives zu schaffen? **Technisches Verständnis muss zwingend vorhanden sein, aber gleich den Code schreiben?**
 
 Gleiches gilt für die Entwicklung, sollte vorgegeber Code einfach noch angepasst und gegebenenfalls ergänzt werden? Kreative Lösungen und Herausforderungen in der Umsetzung, für herausragende digitale Produkte, sind auch hier notwendig. Ein Auge für Design ist zwingend, trotzdem ist ein «fundiertes Wissen» über UX/UI nicht notwendig.
 
-Hier gilt es das optimale Zusammenspiel zwischen Entwickler und Designer zu finden. Ein reger Austausch, sorgfältiges Arbeiten und eine gemeinsame Identifikation mit dem Produkt lassen unterschiedliche Visionen auf beiden Seiten leben. 
+Hier gilt es das optimale Zusammenspiel zwischen Entwickler und Designer zu finden. Ein reger Austausch, sorgfältiges Arbeiten und eine gemeinsame Identifikation mit dem Produkt lassen unterschiedliche Visionen auf beiden Seiten leben.
 
 
 ## Wie sieht die Zukunft aus?
 ### Mein Wunsch: Mehr als ein Referenzdesign
-Klar ist, mit den neuen Designtools werden schon in einem früheren Stadium ganz neue Möglichkeiten geboten. **Prototypen oder Designs sind mehr als nur statisch, sie beinhalten Transitions, Multimedia und auch Breakpoints.** 
+Klar ist, mit den neuen Designtools werden schon in einem früheren Stadium ganz neue Möglichkeiten geboten. **Prototypen oder Designs sind mehr als nur statisch, sie beinhalten Transitions, Multimedia und auch Breakpoints.**
 
 Dem Designer sollte bewusst werden, dass in zukünftigen Prototypen responsives Verhalten schon möglich sein wird und dementsprechend wird ein gewisses Verständnis für Code unumgänglich. Die Verantwortung für das Verhalten der Seite liegt noch immer, oder noch mehr beim Designer. Auch Transitions und Animationen werden mit grosser Sicherheit noch mehr in die Designtools integriert. Und da wird in Zukunft gezwungenermassen Code im Hintergrund generiert werden.
 
@@ -72,7 +72,7 @@ Dem Designer sollte bewusst werden, dass in zukünftigen Prototypen responsives 
   </div>
 </div>
 
-Doch dieser Code sollte und darf in Zukunft nicht eine allzu grosse Rolle spielen, er wird immer unvollständig sein und **gewisse Lösungen die neu, kreativ und innovativ sind, werden mit diesen Tools auch nicht abgefangen.** 
+Doch dieser Code sollte und darf in Zukunft nicht eine allzu grosse Rolle spielen, er wird immer unvollständig sein und **gewisse Lösungen die neu, kreativ und innovativ sind, werden mit diesen Tools auch nicht abgefangen.**
 
 
 
