@@ -34,7 +34,8 @@ Modular Scales sind ein guter Ansatz für die Abstufungen von Überschriften und
   See the Pen <a href='https://codepen.io/jakobud/pen/vmKLYb/'>Poly Fluid Sizing using linear equations, viewport units and calc()</a> by Jake Wilson
   (<a href='https://codepen.io/jakobud'>@jakobud</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
-*Quelle: https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/
+Quelle: [Fluid Responsive Typography With CSS Poly Fluid Sizing, Jake Wilson](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing)
+
 
 
 Zudem gibt es auch Mischformen, die zum Beispiel Grundschrift anhand eines Modular Scales abgestuft wird und die Schriftgrösse klassisch umbricht, die Titel hingegen skalieren stufenlos und passen sich der Viewportgrösse an. Wichtig ist dass sich eine minimal und maximal Schriftgrösse definieren lässt und dazwischen skaliert der Text stufenlos, dies ist macht besonders Sinn damit der Text immer in einer leserlichen Schriftgrösse dargestellt wird.
