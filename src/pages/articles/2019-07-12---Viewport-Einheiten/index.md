@@ -171,7 +171,7 @@ Aktuell werden die folgenden Browser von Viewport Einheiten unterstützt: IE 10+
   <div class="col-1to12">
     <figure>
       <img src="https://i.imgur.com/vZ4dlqn.png" alt="Browsersupport">
-      <figcaption> Grafik www.caniuse.com/#search=vw </figcaption>
+      <figcaption>[Grafik](http://www.caniuse.com/#search=vw)</figcaption>
     </figure>
   </div>
 </div>
@@ -189,7 +189,7 @@ Was muss noch auf Designseite zum Thema der Viewport Einheiten überlegt bzw. ge
   <div class="col-1to12">
     <figure>
       <img src="https://i.imgur.com/v8t52Am.png" alt="Responsiveness">
-      <figcaption>Grafik www.awwwards.com/why-responsive-design-support-is-the-most-important-feature-you-can-add-to-your-website.html</figcaption>
+      <figcaption>[Grafik](http://www.awwwards.com/why-responsive-design-support-is-the-most-important-feature-you-can-add-to-your-website.html)</figcaption>
     </figure>
   </div>
 </div>
@@ -198,12 +198,12 @@ Was muss noch auf Designseite zum Thema der Viewport Einheiten überlegt bzw. ge
 
 
 ## Quellen
-https://web-design-weekly.com/2014/11/18/viewport-units-vw-vh-vmin-vmax/
+[vmin, vmax](https://web-design-weekly.com/2014/11/18/viewport-units-vw-vh-vmin-vmax/)
 
-https://www.mediaevent.de/schriftgroessen-immer-ein-griff-ins-wespennest/
+[%, rem oder vw](https://www.mediaevent.de/schriftgroessen-immer-ein-griff-ins-wespennest/)
 
-https://css-tricks.com/fun-viewport-units/
+[viewport-units](https://css-tricks.com/fun-viewport-units/)
 
-https://css-tricks.com/viewport-sized-typography/
+[viewport-sized-typography](https://css-tricks.com/viewport-sized-typography/)
 
-https://css-tricks.com/simple-little-use-case-vmin/
+[vmin](https://css-tricks.com/simple-little-use-case-vmin/)
