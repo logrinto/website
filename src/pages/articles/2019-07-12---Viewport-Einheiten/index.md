@@ -52,7 +52,7 @@ Eine der vier Einheiten ist jeweils 1% von der jeweiligen Viewport-Achse.
   width: 100vmax;
 }
 ```
-Grafik [www.constructs.stampede-design.com](http://constructs.stampede-design.com/2014/11/rarely-used-css-units/)
+<figcaption><a href=“http://constructs.stampede-design.com/2014/11/rarely-used-css-units/“> Quelle Grafik</a></figcaption>
 
 <iframe height="265" style="width: 100%;" scrolling="no" title="Fluid Header" src="//codepen.io/severinkilchhofer/embed/BeQvjd/?height=265&theme-id=0&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/severinkilchhofer/pen/BeQvjd/'>Fluid Header</a> by severinkilchhofer
@@ -171,7 +171,7 @@ Aktuell werden die folgenden Browser von Viewport Einheiten unterstützt: IE 10+
   <div class="col-1to12">
     <figure>
       <img src="https://i.imgur.com/vZ4dlqn.png" alt="Browsersupport">
-      <figcaption> Grafik www.caniuse.com/#search=vw </figcaption>
+      <figcaption><a href=“http://www.caniuse.com/#search=vw“> Quelle Grafik</a></figcaption>
     </figure>
   </div>
 </div>
@@ -189,7 +189,7 @@ Was muss noch auf Designseite zum Thema der Viewport Einheiten überlegt bzw. ge
   <div class="col-1to12">
     <figure>
       <img src="https://i.imgur.com/v8t52Am.png" alt="Responsiveness">
-      <figcaption>Grafik www.awwwards.com/why-responsive-design-support-is-the-most-important-feature-you-can-add-to-your-website.html</figcaption>
+      <figcaption> <a href=“http://www.awwwards.com/why-responsive-design-support-is-the-most-important-feature-you-can-add-to-your-website.html“> Quelle Grafik</a> </figcaption>
     </figure>
   </div>
 </div>
@@ -198,12 +198,14 @@ Was muss noch auf Designseite zum Thema der Viewport Einheiten überlegt bzw. ge
 
 
 ## Quellen
-https://web-design-weekly.com/2014/11/18/viewport-units-vw-vh-vmin-vmax/
+Headerbild: Nicole Watrinet
 
-https://www.mediaevent.de/schriftgroessen-immer-ein-griff-ins-wespennest/
+[vmin, vmax](https://web-design-weekly.com/2014/11/18/viewport-units-vw-vh-vmin-vmax/)
 
-https://css-tricks.com/fun-viewport-units/
+[%, rem oder vw](https://www.mediaevent.de/schriftgroessen-immer-ein-griff-ins-wespennest/)
 
-https://css-tricks.com/viewport-sized-typography/
+[viewport-units](https://css-tricks.com/fun-viewport-units/)
 
-https://css-tricks.com/simple-little-use-case-vmin/
+[viewport-sized-typography](https://css-tricks.com/viewport-sized-typography/)
+
+[vmin](https://css-tricks.com/simple-little-use-case-vmin/)
