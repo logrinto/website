@@ -44,7 +44,7 @@ Da die einzelnen Studierenden aus sehr diversen Haushalten kommen, gab es eine V
   </div>
   <div class="col-7to12">
     <figure class="border">
-      <img src="img/impressions/IMG_3930.jpg" alt="test">
+      <img src="img/impressions/IMG_4252.jpg" alt="test">
       <figcaption>&nbsp;</figcaption>
     </figure>
   </div>
