@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Logrinto Blog]]></title><description><![CDATA[Logrinto Blog]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Sun, 21 Jul 2019 15:12:34 GMT</lastBuildDate><item><title><![CDATA[Test]]></title><description><![CDATA[TLDR – Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.]]></description><link>https://logrinto.ch/posts/tests/</link><guid isPermaLink="false">https://logrinto.ch/posts/tests/</guid><pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;http://via.placeholder.com/1200x900&quot; alt=&quot;Inline Bild&quot;&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Logrinto Blog]]></title><description><![CDATA[Logrinto Blog]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Tue, 23 Jul 2019 10:07:45 GMT</lastBuildDate><item><title><![CDATA[Test]]></title><description><![CDATA[TLDR – Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.]]></description><link>https://logrinto.ch/posts/tests/</link><guid isPermaLink="false">https://logrinto.ch/posts/tests/</guid><pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;http://via.placeholder.com/1200x900&quot; alt=&quot;Inline Bild&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Weit hinten,&lt;/strong&gt; hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik. Der große Oxmox riet ihr davon ab, da es dort wimmele von bösen Kommata, wilden Fragezeichen und hinterhältigen Semikoli, doch das Blindtextchen ließ sich nicht beirren. Es packte seine sieben Versalien, schob sich sein Initial in den Gürtel und machte sich auf den Weg. Als es die ersten Hügel des Kursivgebirges erklommen hatte, warf es einen letzten Blick zurück auf die Skyline seiner Heimatstadt Buchstabhausen, die Headline von Alphabetdorf und die Subline seiner eigenen Straße, der Zeilengasse. Wehmütig lief ihm eine rhetorische Frage über die Wange, dann setzte es seinen Weg fort. Unterwegs traf es eine Copy. Die Copy warnte das Blindtextchen, da, wo sie herkäme wäre sie zigmal umgeschrieben worden und alles, was von ihrem Ursprung noch übrig wäre, sei das Wort “und” und das Blindtextchen solle umkehren und wieder in sein eigenes, sicheres Land zurückkehren. Doch alles Gutzureden konnte es nicht überzeugen und so dauerte es nicht lange, bis ihm ein paar heimtückische Werbetexter auflauerten, es mit Longe und Parole betrunken machten und es dann in ihre Agentur schleppten, wo sie es für ihre Projekte wieder und wieder mißbrauchten. Und wenn es nicht umgeschrieben wurde, dann benutzen Sie es immernoch.&lt;/p&gt;
 &lt;div&gt;
@@ -48,6 +48,7 @@
     &lt;/span&gt;
   &lt;/span&gt;
   
+    &lt;p style=&quot;text-align:center; font-size:60%;&quot;&gt;&amp;#xA9; Nils M&amp;#xE4;der&lt;/p&gt;
   &lt;/figure&gt;
 &lt;/div&gt;
 &lt;h2&gt;Typ 1️⃣ Der Minimalist&lt;/h2&gt;
@@ -74,9 +75,9 @@ Die umgesetzte Arbeit sollte laufend mit dem Design abgeglichen werden und auf U
     &lt;/span&gt;
   &lt;/span&gt;
   
+        &lt;p style=&quot;text-align:center; font-size:60%;&quot;&gt;&amp;#xA9; Icon made by Freepik from &lt;a href=&quot;www.flaticon.com&quot;&gt;www.flaticon.com&lt;/a&gt;&lt;/p&gt;&lt;/figure&gt;&lt;/div&gt;
   &lt;/figure&gt;
 &lt;/div&gt;
-&lt;p&gt;Quelle: &lt;a href=&quot;https://de.freepik.com/&quot;&gt;freepik.com&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Typ 2️⃣ Der Hybrid&lt;/h2&gt;
 &lt;p&gt;Diesem Typ von Designer ist es wichtig dass sein Design von der Entwicklung verstanden wird. Es gibt Überlegungen die hinter den Abständen und Schriftgrössen stecken. Daher wird, zusätzlich zu den gängigen Übergabe-Tools, noch ein kleiner Styleguide mitgeliefert.&lt;/p&gt;
 &lt;h3&gt;Übergabe und Tools&lt;/h3&gt;
@@ -96,16 +97,16 @@ Die umgesetzte Arbeit sollte laufend mit dem Design abgeglichen werden und auf U
   &lt;figure&gt;
   	
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 1800px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsSAAALEgHS3X78AAABnElEQVQoz2NgQAIs7Dxw9pT//8E0KwMDk5iQGJu8hDg7kMsIEpsElUPXgwH+QxVOg9LKZr48+k23ZZ0mv9R0mPldzbLulIK8WQDYhOlQNf+RDMcKfKc+B9Oa5t685hM+qOdUTo7P8rU/F+XhvDKg7bi9c8dVXQWooTC1OIGIhh2c7VG9XVWt9Z3+9PK0/U83Tfy/siL6v79/dKHX5v/aDoWr1bDpwQCq7vlgWkxSns2947KOfcsV013TGq4+2z33/7Gplf/L0/LKTZb91/BsOmLAKSjNhqwHr4FC4vJsHi0n9C0n/9E5unTq4jsruv5vb83+WFo/38916id9j5ZTelzEGIjsfN+yteoMi/6rVM7dGby3r+T/7PyYp95Trliqrviv41yyUZUoL4NAbN9VBnC8pd5mWxscFfWyKu7Oy21z/z+Z1/T/Vajxj91eHjkMOZ9ZQWrym3bjNwyWBP4nuoLT2yULCfXPPkoLv8YbXfkern3ls73IvKt6XFpgNeFWjE6Ekg1yIv0fDzEUBIoYGDiBIcUJl4uyZ8SVsAEeGqMSZ/VfmAAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Image System&quot; title src=&quot;/static/System-e5ea0bb818b593e25e6d92212bf5a7ff-3b320.png&quot; srcset=&quot;/static/System-e5ea0bb818b593e25e6d92212bf5a7ff-33c5c.png 750w,
-/static/System-e5ea0bb818b593e25e6d92212bf5a7ff-8dc3b.png 1500w,
-/static/System-e5ea0bb818b593e25e6d92212bf5a7ff-3b320.png 1800w&quot; sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHemqWHAr//xAAYEAEAAwEAAAAAAAAAAAAAAAABAgMQMf/aAAgBAQABBQJ5TJdAM//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAAIDAQAAAAAAAAAAAAAAABAhAAECEf/aAAgBAQAGPwKPXSqH/8QAGRABAAIDAAAAAAAAAAAAAAAAEQEQACFx/9oACAEBAAE/IZCxHYtAI5X/2gAMAwEAAgADAAAAEPwP/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAh/9oACAEDAQE/EAxn/8QAFhEAAwAAAAAAAAAAAAAAAAAAEBEh/9oACAECAQE/EHR//8QAHBAAAgIDAQEAAAAAAAAAAAAAARExQQAQIVFh/9oACAEBAAE/EHEFfmBuqJKIAQjir7qcnBmi1//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Image System&quot; title src=&quot;/static/System1-9c65c858e7221ee0ff155bb0582d178e-3b320.png&quot; srcset=&quot;/static/System1-9c65c858e7221ee0ff155bb0582d178e-33c5c.png 750w,
+/static/System1-9c65c858e7221ee0ff155bb0582d178e-8dc3b.png 1500w,
+/static/System1-9c65c858e7221ee0ff155bb0582d178e-3b320.png 1800w&quot; sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
+    &lt;p style=&quot;text-align:center; font-size:60%;&quot;&gt;&amp;#xA9; Photo made by rawpixel.com from &lt;a href=&quot;https://www.freepik.com/free-photos-vectors/background&quot;&gt;www.freepik.com&lt;/a&gt;&lt;/p&gt;&lt;/figure&gt;&lt;/div&gt;
   &lt;/figure&gt;
 &lt;/div&gt;
-&lt;p&gt;Quelle: &lt;a href=&quot;https://www.zappos.com/&quot;&gt;zappos.com&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Typ 3️⃣ Mit System&lt;/h2&gt;
 &lt;p&gt;Der Styleguide wird übergeben. Das Design wird in einem UI Kit aufgebaut und die einzelnen Elemente bis auf Atome heruntergebrochen und einzeln definiert. Es wird übergreifend mit einer Einheit gearbeitet. Die gängigsten Screens werden vorbereitet und so den Entwicklern übergeben. Transitions werden zusätzlich als Animation aufbereitet. Die Umsetzung und Wahl der Einheiten wird den Entwicklern überlassen.&lt;/p&gt;
 &lt;h3&gt;Übergabe und Tools&lt;/h3&gt;
@@ -123,9 +124,9 @@ Die umgesetzte Arbeit sollte laufend mit dem Design abgeglichen werden und auf U
     &lt;/span&gt;
   &lt;/span&gt;
   
+    &lt;p style=&quot;text-align:center; font-size:60%;&quot;&gt;&amp;#xA9; Webdesign-Essentials &amp;#x2013; &lt;a href=&quot;https://www.webdesign-essentials.ch/kategorien/anatomie-einer-webseite&quot;&gt;www.webdesign-essentials.ch&lt;/a&gt;&lt;/p&gt;
   &lt;/figure&gt;
 &lt;/div&gt;
-&lt;p&gt;Quelle: &lt;a href=&quot;https://www.webdesign-essentials.ch/kategorien/anatomie-einer-webseite&quot;&gt;Webdesign-Essentials&lt;/a&gt;&lt;/p&gt;
 &lt;details&gt;&lt;summary&gt;Mehr über Atomic Design &amp; modulare Komponenten&lt;/summary&gt;
 &lt;p&gt;
 Das Design kann vom Atom bis auf komplette Seiten auf- und abgebaut werden. Je nach Agentur werden diese unterschiedlich benannt, meinen aber oft dasselbe. So kann ein Atom auch ein Element oder ein Molekül eine Komponente sein. Egal welche Methode man also wählt, beide haben dieselbe Struktur und ergeben einen ähnlichen Aufbau.
