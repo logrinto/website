@@ -7,7 +7,7 @@ draft: false
 hideInMenu: true
 path: "/posts/responsive-design-iad2017-referenzdesign/"
 category: "Responsive Gestaltung"
-featuredImage: "img/header.png"
+featuredImage: "img/header.jpg"
 tags:
   - "Responsive Gestaltung"
   - "Typografie"
@@ -31,6 +31,7 @@ Liste und Vergleich der wichtigsten Tools: [Uxtools.co | Compare UX Tools](http:
 <div>
   <figure >
   	<img src="./img/minimalist.png" alt="Image Minimalist">
+    <p style="text-align:center; font-size:60%;">© Nils Mäder</p>
   </figure>
 </div>
 
@@ -56,10 +57,11 @@ Die minimalistische Methode der Referezdesigns und deren Übergabe an die Entwic
 <div>
   <figure >
   	<img src="./img/Hybrid.png" alt="Image Hybrid">
+        <p style="text-align:center; font-size:60%;">© Icon made by Freepik from <a href="www.flaticon.com">www.flaticon.com</a></p>
+
   </figure>
 </div>
 
-Quelle: [freepik.com](https://de.freepik.com/)
 
 ## Typ 2️⃣ Der Hybrid
 
@@ -90,11 +92,14 @@ Diese Arbeitsweise erfordert natürlich noch immer die enge Zusammenarbeit mit d
 ---
 <div>
   <figure >
-  	<img src="./img/System.png" alt="Image System">
+  	<img src="./img/System1.png" alt="Image System">
+    <p style="text-align:center; font-size:60%;">© Photo made by rawpixel.com from <a href="https://www.freepik.com/free-photos-vectors/background">www.freepik.com</a></p>
+
+
+    
   </figure>
 </div>
 
-Quelle: [zappos.com](https://www.zappos.com/)
 
 
 ## Typ 3️⃣ Mit System
@@ -109,10 +114,10 @@ Der IAD baut das Design in einem UX-Tool auf. Er beginnt mit dem gängigsten Scr
 <div>
   <figure >
   	<img src="./img/AtomicDesign.png" alt="AtomicDesign">
+    <p style="text-align:center; font-size:60%;">© Webdesign-Essentials – <a href="https://www.webdesign-essentials.ch/kategorien/anatomie-einer-webseite">www.webdesign-essentials.ch</a></p>
   </figure>
 </div>
 
-Quelle: [Webdesign-Essentials](https://www.webdesign-essentials.ch/kategorien/anatomie-einer-webseite)
 <details><summary>Mehr über Atomic Design & modulare Komponenten</summary>
 <p>
 Das Design kann vom Atom bis auf komplette Seiten auf- und abgebaut werden. Je nach Agentur werden diese unterschiedlich benannt, meinen aber oft dasselbe. So kann ein Atom auch ein Element oder ein Molekül eine Komponente sein. Egal welche Methode man also wählt, beide haben dieselbe Struktur und ergeben einen ähnlichen Aufbau.
