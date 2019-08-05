@@ -193,12 +193,15 @@ Die Höhe der blauen Box wird Prozentual `height: 100%;` definiert, die Höhenan
 Die [W3C-Spezifikation für CSS 2](https://www.w3.org/TR/1998/REC-CSS2-19980512/) legt fest, dass sich eine prozentual angegebene Höhenangabe auf die Höhe des umschliessenden Blockes (Parent) bezieht. Wird also für diesen Parentblock keine Höhe definiert, wird der angegebene Prozentwert als `height: auto;` interpretiert. Trotz Höhenangabe wird das Element nur so hoch, wie der Inhalt es erfordert.
 ## Recherche
 
-[carsten-protsch.de](http://carsten-protsch.de/zwischennetz/doctype/prozent.html)
+[Browser ignorieren Prozentangaben für height – carsten-protsch.de](http://carsten-protsch.de/zwischennetz/doctype/prozent.html)
 
-[thestyleworks.de](http://www.thestyleworks.de/basics/percentage.shtml)
+[Prozentwerte in CSS – thestyleworks.de](http://www.thestyleworks.de/basics/percentage.shtml)
 
-[lifewire.com](https://www.lifewire.com/width-calculations-responsive-site-4136178)
+[How Percentages Work for Width Calculations in a Responsive Website  – lifewire.com](https://www.lifewire.com/width-calculations-responsive-site-4136178)
 
-[impressivewebs.com](https://www.impressivewebs.com/vertical-percentages-css/)
+[Vertical Percentages in CSS – impressivewebs.com](https://www.impressivewebs.com/vertical-percentages-css/)
 
-[kulturbanause.de](https://blog.kulturbanause.de/2013/01/starre-layouts-in-flussige-layouts-umwandeln-responsive-webdesign-basics/)
+[Starre Layouts in flüssige Layouts umwandeln – Responsive Webdesign Basics  – kulturbanause.de](https://blog.kulturbanause.de/2013/01/starre-layouts-in-flussige-layouts-umwandeln-responsive-webdesign-basics/)
+
+## Header-Source
+[Blue and purple mosaic – Ferdinand Stöhr, Unsplash.com](https://unsplash.com/photos/NFs6dRTBgaM)
