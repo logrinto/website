@@ -16,7 +16,12 @@ description: "Gerade den Silbentrennungen wird beim Gestalten einer Website häu
 ---
 
 
-![](https://i.imgur.com/THcEJHp.png)
+<div>
+  <figure >
+  	<img src="./img/Dreieck.png" alt="Dreieck">
+        <p style="text-align:left; font-size:40%;">© Wolfgang Schoeck</p>
+  </figure>
+</div>
 
 Bei einem gleichseitigen Dreieck sind alle drei Innenwinkel zueinander kongruent und betragen jeweils 60°. Damit ist ein gleichseitiges Dreieck eine gute Darstellung für drei Dinge, die sich in perfektem Gleichgewicht befinden. Im Bezug auf Typografie verdeutlicht die Darstellung oben, dass das Zusammenspiel der Schriftgrösse, des Zeilenabstands sowie der Spaltenbreite ausschlaggebend für einen ausgewogenen Satz ist.
 
