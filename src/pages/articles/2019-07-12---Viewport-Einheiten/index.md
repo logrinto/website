@@ -164,6 +164,7 @@ Was muss noch auf Designseite zum Thema der Viewport Einheiten überlegt bzw. ge
 **Der Designer soll ihm aber klar definieren welche Elemente sich wann im Viewport befinden müssen.** Es sollen Viewport Designs für alle Template-Seiten erstellt werden. Dies sind alle Seiten, die einen anderen Aufbau haben, sodass auch beim Design nicht zu viel Aufwand entsteht. Diese Designs sollen jeweils auf Desktop, Mobile und Tablet aufbereitet werden. Dies erspart allfällige Rückfragen oder Änderungen und somit Zeit und Budget.
 
 
+### Quellen
 Headerbild: Nicole Watrinet
 
 [vmin, vmax](https://web-design-weekly.com/2014/11/18/viewport-units-vw-vh-vmin-vmax/)
