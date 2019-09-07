@@ -78,3 +78,7 @@ Doch dieser Code sollte und darf in Zukunft nicht eine allzu grosse Rolle spiele
 
 ## Fazit
 Innovatives entsteht wenn man aus seiner Komfortzone herausbricht. Das gilt für Entwickler und Designer. Es sollte hinterfragt und verbessert werden. Dies macht unser Beruf einerseits spannend und ermöglicht es auch neue Lösungen zu finden. **Solange es das Projekt erlaubt, macht es keinen Sinn sich von Beginn weg Grenzen zu setzten.**
+
+### Quellen 
+Header: Photo by Christopher Gower on [Unsplash](https://unsplash.com/photos/m_HRfLhgABo)
+
