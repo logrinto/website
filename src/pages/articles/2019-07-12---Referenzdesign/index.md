@@ -1,6 +1,6 @@
 ---
 title: "Mach mal genau so! Referenzdesign"
-author: "Nils Mäder, Matthias Koch, Stephanie Fuchs"
+author: "Stephanie Fuchs"
 date: "2019-7-12"
 layout: post
 draft: false
@@ -156,16 +156,7 @@ Einen (bereits vorhandenen) Styleguide mitgegeben, welcher die wichtigsten Infos
 #### Transitions
 Transitions werden in Tools wie [Principle](https://principleformac.com/), [Flinto](https://www.flinto.com/), [Adobe After Effects](https://www.adobe.com/ch_de/products/aftereffects.html), etc. aufbereitet und zusätzlich zum UI Kit weitergegeben. Ein erklärendes Video ist mehr Wert, als ein paar Zeilen Text.
 
-##### UI Kit detailliert
-<div>
-  <figure >
-  	<img src="./img/Typography.png" alt="Image Typography">
-    <img src="./img/TypoSpacing.png" alt="Image TypoSpacing">
-    <img src="./img/FormElements.png" alt="Image FormElements">
-    <img src="./img/HeadersDesktop.png" alt="Image HeadersDesktop">
 
-  </figure>
-</div>
 
 
 
