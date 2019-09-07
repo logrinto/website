@@ -36,13 +36,6 @@
 <url> <loc>https://logrinto.ch/posts/case-study-smide/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/tags/wearable/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/posts/case-study-interface-the-kitchen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://logrinto.ch/posts/responsive-design-iad2017-referenzdesign/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://logrinto.ch/tags/referenzdesign/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://logrinto.ch/tags/interaction-design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://logrinto.ch/tags/styleguide/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://logrinto.ch/tags/atomic-design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://logrinto.ch/tags/modular-design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://logrinto.ch/tags/best-practice/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/posts/responsive-design-iad2017-tabellen-im-web/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/tags/tabellen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/tags/best-use/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -53,6 +46,13 @@
 <url> <loc>https://logrinto.ch/tags/bezugselemente/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/posts/tests/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/tags/blabla/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/posts/responsive-design-iad2017-referenzdesign/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/tags/referenzdesign/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/tags/interaction-design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/tags/styleguide/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/tags/atomic-design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/tags/modular-design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://logrinto.ch/tags/best-practice/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/posts/case-study-panel-sbb/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/categories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://logrinto.ch/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
