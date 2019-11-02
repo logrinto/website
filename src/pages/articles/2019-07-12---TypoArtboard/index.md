@@ -73,23 +73,23 @@ So muss man sich während der Entwicklung nie mehr um die Grössen und Farben et
   (<a href='https://codepen.io/severinkilchhofer'>@severinkilchhofer</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
-https://codepen.io/severinkilchhofer/pen/zQjBba
+[Codepen Fontsizes](https://codepen.io/severinkilchhofer/pen/zQjBba)
 
 ### Links
-https://marvelapp.com/styleguide/
+[Marvelapp Styleguide](https://marvelapp.com/styleguide/)
 
-https://www.w3schools.com/css/css3_variables.asp
+[CSS Variables](https://www.w3schools.com/css/css3_variables.asp)
 
-https://storybook.js.org
+[Storybook JS](https://storybook.js.org)
 
-https://codepen.io/getflourish/pen/VMXdJv
+[Codepen Fluid Modular Scale](https://codepen.io/getflourish/pen/VMXdJv)
 
-https://www.catalog.style/try
+[Catalog Try](https://www.catalog.style/try)
 
-https://www.carbondesignsystem.com
+[Carbon Design System](https://www.carbondesignsystem.com)
 
 ### Font
-https://rsms.me/inter/
+[Inter UI](https://rsms.me/inter/)
 
-### Cover Photo
+### Headerbild
 Photo by [Pankaj Patel](https://unsplash.com/@pankajpatel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com)

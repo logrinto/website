@@ -30,15 +30,6 @@ Eine der vier Einheiten ist jeweils 1% von der jeweiligen Viewport-Achse.
 * **1vmax** = 1vw oder 1vh, dasjenige welches grösser ist von beiden
 
 
-<div class="wide-grid">
-  <div class="col-1to12">
-  <figure>
-    <img src="https://i.imgur.com/RPPdhY6.png" alt="vmin vmax">
-    <figcaption>Die Einheiten vmin und vmax im Vergleich bei einem quadratischen Bild auf einem Smartphone dargestellt. Bei vmin wird die schmale Seite verwendet und bei vmax die lange.</figcaption>
-  </figure>
-</div>
-
-
 ```css
 .boxlinks {
   height: 100vmin;
@@ -52,7 +43,6 @@ Eine der vier Einheiten ist jeweils 1% von der jeweiligen Viewport-Achse.
   width: 100vmax;
 }
 ```
-<figcaption><a href=“http://constructs.stampede-design.com/2014/11/rarely-used-css-units/“> Quelle Grafik</a></figcaption>
 
 <iframe height="265" style="width: 100%;" scrolling="no" title="Fluid Header" src="//codepen.io/severinkilchhofer/embed/BeQvjd/?height=265&theme-id=0&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/severinkilchhofer/pen/BeQvjd/'>Fluid Header</a> by severinkilchhofer
@@ -167,17 +157,6 @@ Um einen Code strukturiert aufzubauen macht es Sinn gewisse Elemente ineinander 
 ## Browser Support
 Aktuell werden die folgenden Browser von Viewport Einheiten unterstützt: IE 10+, Firefox 19+, Chrome 34+, Safari 7+, Android 4.4+, iOS 6+.
 
-<div class="wide-grid">
-  <div class="col-1to12">
-    <figure>
-      <img src="https://i.imgur.com/vZ4dlqn.png" alt="Browsersupport">
-      <figcaption><a href=“http://www.caniuse.com/#search=vw“> Quelle Grafik</a></figcaption>
-    </figure>
-  </div>
-</div>
-
-
-
 
 ## Übergabe Design an Entwicklung
 Was muss noch auf Designseite zum Thema der Viewport Einheiten überlegt bzw. geliefert werden? Nach unseren Recherchen und Gesprächen sind wir der Meinung, dass der Designer der Entwicklung keine Angaben über die Umsetzungsart mitgeben soll. **Es soll dem Entwickler frei sein, ob er mit Prozent, em's oder Viewport Units arbeiten möchte.** Zudem soll auch das Box-Modell Aufgabe des Programmierers sein, da dies zu weit in sein Themengebiet eingreift und sonst nur die Kosten im Design erhöht.
@@ -185,19 +164,7 @@ Was muss noch auf Designseite zum Thema der Viewport Einheiten überlegt bzw. ge
 **Der Designer soll ihm aber klar definieren welche Elemente sich wann im Viewport befinden müssen.** Es sollen Viewport Designs für alle Template-Seiten erstellt werden. Dies sind alle Seiten, die einen anderen Aufbau haben, sodass auch beim Design nicht zu viel Aufwand entsteht. Diese Designs sollen jeweils auf Desktop, Mobile und Tablet aufbereitet werden. Dies erspart allfällige Rückfragen oder Änderungen und somit Zeit und Budget.
 
 
-<div class="wide-grid bg">
-  <div class="col-1to12">
-    <figure>
-      <img src="https://i.imgur.com/v8t52Am.png" alt="Responsiveness">
-      <figcaption> <a href=“http://www.awwwards.com/why-responsive-design-support-is-the-most-important-feature-you-can-add-to-your-website.html“> Quelle Grafik</a> </figcaption>
-    </figure>
-  </div>
-</div>
-
-
-
-
-## Quellen
+#### Quellen
 Headerbild: Nicole Watrinet
 
 [vmin, vmax](https://web-design-weekly.com/2014/11/18/viewport-units-vw-vh-vmin-vmax/)
