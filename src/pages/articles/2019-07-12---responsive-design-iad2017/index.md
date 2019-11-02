@@ -4,7 +4,7 @@ author: "Boris Périsset"
 date: "2019-07-12"
 layout: post
 draft: false
-hideInMenu: true
+hideInMenu: false
 path: "/posts/responsive-design-iad2017/"
 category: "Responsive Gestaltung"
 featuredImage: "img/header.png"
