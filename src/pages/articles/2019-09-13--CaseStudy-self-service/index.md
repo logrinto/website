@@ -184,7 +184,7 @@ Der Entwurf zeichnet sich dadurch aus, dass die tiefe der Komplexität in zwei S
 
 ## Entwurf Giovanni
 
-*Team: Pascale&nbsp;Eva, Dhondup&nbsp;Roder, Marc&nbsp;Hatt, Marius&nbsp;Becker, Dan&nbsp;Büschlen, Stefanos&nbsp;Gjotas*  
+*Team: Pascale&nbsp;Anderegg, Dhondup&nbsp;Roder, Marc&nbsp;Hatt, Marius&nbsp;Becker, Dan&nbsp;Büschlen, Stefanos&nbsp;Gjotas*  
 Dieser Entwurf ziehlt darauf das Erlebnis der Bestellung möglichst grafisch zu unterstützen und die Abstraktion fast schon im Sinne eines Tisches auf zu lösen. Auch wurde daran gedacht, dass vielleicht nicht nur einmal bestellt wird.
 
 
@@ -566,4 +566,4 @@ Eine Übersicht, ein Klick und schon ist bestellt… Das einfache Interface erla
 
 
 ## Fazit
-Es war spannend zu sehen, wie mit zwei Klassen aus verschiedenen Semestern ganz diverse Lösungen entstanden sind. Es ging nicht nur darum eine gute Lösung zu entwickeln, sondern auch sich zu koordinieren und sich in die Bedürfnisse von Gästen in einem Restaurant zu versetzen. Die Arbeiten die daraus entsanden sind könnten wunderbar als eine Grundlage dienen um von da in eine detailiertere Recherche und User-Tests zu gehen. Lassen wir uns überraschen, wie wir in 10 Jahren unsere Pizza bestellen. 🍕 
+Es war spannend zu sehen, wie mit zwei Klassen aus verschiedenen Semestern ganz diverse Lösungen entstanden sind. Es ging nicht nur darum eine gute Lösung zu entwickeln, sondern auch sich zu koordinieren und sich in die Bedürfnisse von Gästen in einem Restaurant zu versetzen. Die Arbeiten die daraus entsanden sind könnten wunderbar als eine Grundlage dienen um von da in eine detailiertere Recherche und User-Tests zu gehen. Lassen wir uns überraschen, wie wir in 10 Jahren unsere Pizza bestellen. 🍕
