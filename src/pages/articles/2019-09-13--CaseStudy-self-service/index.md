@@ -420,7 +420,7 @@ Ein an die traditionelle Karte angelehntes User-Interface mit präziser Kostenko
 ## Entwurf Ristorante Aloha
 
 *Team: Selina Strickler, Chantal Hugentobler, Matthias Koch, Lars Mäder, Flavia Tschumi*  
-Die traditionelle Pizzeria (mit Ananasstücken im Logo 🤓) zeigt den Bestllzettel stets auf einen Blick und durch die Breadcrumb-Navigation weiss man immer wo in der Karte man sich gerade befindet.
+Die traditionelle Pizzeria (mit Ananasstücken im Logo 🤓) zeigt den Bestellzettel stets auf einen Blick und durch die Breadcrumb-Navigation weiss man immer wo in der Karte man sich gerade befindet.
 
 
 <div class="wide-grid bg">
