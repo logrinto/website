@@ -4,7 +4,7 @@ author: "Christof Täschler & Stefan Huber"
 date: "2019-09-13"
 layout: post
 draft: false
-hideInMenu: true
+hideInMenu: false
 path: "/posts/case-study-self-Service/"
 category: "Case Study"
 featuredImage: "img/header.jpg"
