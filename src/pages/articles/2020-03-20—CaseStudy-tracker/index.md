@@ -7,7 +7,7 @@ draft: false
 hideInMenu: true
 path: "/posts/case-study-tracker/"
 category: "Case Study"
-featuredImage: "img/header.jpg"
+featuredImage: "img/header.png"
 tags:
   - "Case Study"
   - "Interface"
@@ -20,30 +20,34 @@ description: "Seit einigen Jahren sind kleine handliche Tracker auf dem Markt, d
 
 
 
+![](./img/portrait-michi-stefan.png)
+![](./img/michi-stefan.jpg)
 
-![Pascale Anderegg](pascale-anderegg.jpg)
-![Marius Becker](marius-becker.jpg)
-![Stephanie Fuchs](stephanie-fuchs.jpg)
-![Marc Hatt](marc-hatt.jpg)
-![Severin Kilchhofer](severin-kilchhofer.jpg)
-![Matthias Koch](matthias-koch.jpg)
-![Lars Mäder](lars-mäder.jpg)
-![Nils Mäder](nils-mäder.jpg)
-![Tieu Khe Mayer](tieu-khe-mayer.jpg)
-![Natasha Ruf](natasha-ruf.jpg)
-![Wolfgang Schoeck](wolfgang-schoeck.jpg)
-![Nicole Watrinet](nicole-watrinet.jpg)
-![Dan Büschlen](dan-büschlen.jpg)
-![Nina Diem](nina-diem.jpg)
-![Sam Diener](sam-diener.jpg)
-![Samira Duddek](samira-duddek.jpg)
-![Stefanos Gjotas](stefanos-gjotas.jpg)
-![Patrick Hoffmann](patrick-hoffmann.jpg)
-![Chantal Hugentobler](chantal-hugentobler.jpg)
-![Joshua Kehrer](joshua-kehrer.jpg)
-![Desirée Lanz](desirée-lanz.jpg)
-![Sina Obitsch](sina-obitsch.jpg)
-![Selina Strickler](selina-strickler.jpg)
-![Flavia Tschumi](flavia-tschumi.jpg)
-![Cheyenne Wäny](cheyenne-waeny.jpg)
-![Dominique Willi](dominique-willi.jpg)
+
+
+![Pascale Anderegg](./img/pascale-anderegg.jpg)
+![Marius Becker](./img/marius-becker.jpg)
+![Stephanie Fuchs](./img/stephanie-fuchs.jpg)
+![Marc Hatt](./img/marc-hatt.jpg)
+![Severin Kilchhofer](./img/severin-kilchhofer.jpg)
+![Matthias Koch](./img/matthias-koch.jpg)
+![Lars Mäder](./img/lars-mäder.jpg)
+![Nils Mäder](./img/nils-mäder.jpg)
+![Tieu Khe Mayer](./img/tieu-khe-mayer.jpg)
+![Natasha Ruf](./img/natasha-ruf.jpg)
+![Wolfgang Schoeck](./img/wolfgang-schoeck.jpg)
+![Nicole Watrinet](./img/nicole-watrinet.jpg)
+![Dan Büschlen](./img/dan-bueschlen.jpg)
+![Nina Diem](./img/nina-diem.jpg)
+![Sam Diener](./img/sam-diener.jpg)
+![Samira Duddek](./img/samira-duddek.jpg)
+![Stefanos Gjotas](./img/stefanos-gjotas.jpg)
+![Patrick Hoffmann](./img/patrick-hoffmann.jpg)
+![Chantal Hugentobler](./img/chantal-hugentobler.jpg)
+![Joshua Kehrer](./img/joshua-kehrer.jpg)
+![Desirée Lanz](./img/desirée-lanz.jpg)
+![Sina Obitsch](./img/sina-obitsch.jpg)
+![Selina Strickler](./img/selina-strickler.jpg)
+![Flavia Tschumi](./img/flavia-tschumi.jpg)
+![Cheyenne Wäny](./img/cheyenne-waeny.jpg)
+![Dominique Willi](./img/dominique-willi.jpg)
